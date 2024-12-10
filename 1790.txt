@@ -1,0 +1,520 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Notice on the RMUC 2025 Season Planning
+
+2024-11-28
+
+Participants: Teams from Chinese mainland, Hong Kong, Macau, Taiwan and overseas that have passed the RMUC 2025 Rules Exam. This section is required for both Tier-1 and Tier-2 Teams.
+
+Participation:
+
+* 1.For teams from Chinese mainland, Hong Kong, Taiwan, Macau: Teams participate collectively.  Log into the registration system ( https://registration.robomaster.com/registration-center ) with the Captain’s account and submit your materials to the RoboMaster Forum. ( https://bbs.robomaster.com/ )
+* 
+
+* 2.For teams from overseas: Teams participate collectively. The Captain fill in the questionnaire（To be updated later.）
+* 
+
+Submission Time:
+
+* 1.For teams from Chinese mainland: December 9, 2024, 18:00 - December 11, 2024, 18:00 (Beijing Time)
+* 
+
+* 2.For teams from Hong Kong, Taiwan, Macau and overseas: December 11, 2024, 18:00 - December 13, 2024, 18:00 (Beijing Time)
+* 
+
+Submission Opportunity: 1
+
+Passing Threshold: Scored 45% or higher
+
+Submission Content:
+
+The season planning requirements differ from those in the RMUC 2025 Participant Manual, please consider this notice as the authoritative source.
+
+1. Season Plan: Refer to "[Template] RoboMaster University Championship Season Plan" (DOWNLOAD: Click to download ( https://rm-static.djicdn.com/documents/71710/404979ef8dc7f173280393629022974.docx ) ), PDF
+
+2. Season Schedule: Refer to "[Template] RoboMaster University Series Season Schedule" (DOWNLOAD : Click to download ( https://rm-static.djicdn.com/documents/71710/3b2d8327d27ef1732803968357405776.xlsx ) ), Excel
+
+3. Season Budget: Refer to "[Template] RoboMaster University Series Season Budget" (DOWNLOAD: Click to download ( https://rm-static.djicdn.com/documents/71710/d797de7814438173280395354766450.xlsx ) ), Excel
+
+Submission Requirements:
+
+1. PDF format:  Source Han Serif, 10.5pt (小四号, Chinese), or Times New Roman (English); fixed 1.5x line spacing; document naming: School + Team Name + Section Name.
+
+2. Excel format: Font: Source Han Serif, 11pt (Chinese), or Times New Roman (English); wrap text, auto-adjust row height and column width; unless otherwise necessary, all text should be vertically centered and uniformly left-aligned or center-aligned; document naming: School + Team Name + Section Name.
+
+* Source Han Serif font package: Click to download ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2024/%E6%80%9D%E6%BA%90%E5%AE%8B%E4%BD%93.zip ).
+
+Benefits for Passing the Assessment:
+
+1. Obtain the product discounts associated with this section. Refer to the " RMUC 2025 Participant Manual ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) " and " RMU 2025 Instructions for Purchasing Materials ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) " for more details.
+
+2. Eligibility to the Referee System Exam (basic) and Mid-term Progress Assessment
+
+3. Teams that open-source their season planning and rank in the top 2 among all open-source teams can receive a prize of 5,000 RMB (pre-tax); those ranking from 3rd to 10th place can receive a prize of 1,000 RMB (pre-tax). Prizes will be awarded at the end of the season.
+
+4. Since the content of the season planning is closely related to the work of the team management group (including the Captain, Vice Captain, and Project Manager), the score of the season planning will be used as an important criterion for selecting the Outstanding Captain(s) and Outstanding Project Manager.
+
+Application to the Best Season Plan Award:
+
+1. Make your season plan open source according to the following requirements
+
+2.Deadline: December 23, 2024, 18:00 (Beijing Time)
+
+3. Fill in and submit the following questionaire: https://djistore.wjx.cn/vm/h49XIGV.aspx
+
+Open-source Specifications:
+
+1. Teams from Chinese mainland, Hong Kong, Macau, Taiwan: Log in to the RoboMaster Forum ( https://bbs.robomaster.com/ ) and post the open-source documents under "My Team→Season Planning" and make it public; title format:  [RMUC 2025] University Name + Team Name + Season Plan
+
+2. Teams from overseas: Send the open-source season plan documents to robomaster@dji.com ; subject format: [RMUC 2025] University Name + Team Name + Season Plan
+
+Appendix: Season Plan Assessment: Content Requirements
+
++--------------------------------+--------------------------------+--------------------------------+
+| *Content*                      | *Section*                      | *Content*                      |
+| *Season Plan*                  | *Team goals*                   | Organize team discussions and  |
+|                                |                                | set and explain the team’s     |
+|                                |                                | goals for each robot type and  |
+|                                |                                | technical area in this season  |
+|                                |                                | based on the team’s experience |
+|                                |                                | summary of the last season,    |
+|                                |                                | including but not limited to   |
+|                                |                                | technical breakthroughs, team  |
+|                                |                                | members’ development, planning |
+|                                |                                | and operation, and competition |
+|                                |                                | results.                       |
+| *Post-mortem analysis*         | Review last season's summary   |
+|                                | and analyze the reasons for    |
+|                                | any discrepancies between the  |
+|                                | planned objectives and the     |
+|                                | actual outcomes. Continuously  |
+|                                | explore the root causes of     |
+|                                | these issues, and develop and  |
+|                                | implement effective solutions  |
+|                                | for improvement.               |
+| *Team culture*                 | 1.       Based on the review   |
+|                                | of last season’s cultural      |
+|                                | initiatives, define the        |
+|                                | cultural building goals and    |
+|                                | direction for the new season.  |
+|                                | 2.       Learn about new       |
+|                                | team members’ perceptions      |
+|                                | and understanding of the       |
+|                                | competition culture and team   |
+|                                | culture for the new season.    |
+|                                | 3.       Develop a practical   |
+|                                | and detailed culture-building  |
+|                                | plan based on the team’s       |
+|                                | current situation, goals, and  |
+|                                | direction. This plan should    |
+|                                | include a timeline, details,   |
+|                                | and the expected outcomes      |
+|                                | and execution plan for each    |
+|                                | activity.                      |
+| *Project analysis*             | 1.       Study and interpret   |
+|                                | the rules of the new season,   |
+|                                | analyze the requirements for   |
+|                                | the design of each robot,      |
+|                                | and write down the ideas.      |
+|                                | 2.       By robot types and    |
+|                                | technical areas, present       |
+|                                | findings from open-source      |
+|                                | data, material manuals,        |
+|                                | and relevant documents and     |
+|                                | resources (including but       |
+|                                | not limited to online videos   |
+|                                | and industrial standards).     |
+|                                | 3.       Explain the new       |
+|                                | technical points the team is   |
+|                                | planning to develop in this    |
+|                                | new season based on the above  |
+|                                | requirements analysis, as well |
+|                                | as existing technical points   |
+|                                | that need to be optimized      |
+|                                | or enhanced (new technical     |
+|                                | points and existing technical  |
+|                                | points should be explained     |
+|                                | separately); specify the       |
+|                                | goals for each of the above    |
+|                                | points, i.e., the results      |
+|                                | the team aims to achieve with  |
+|                                | the new technical points and   |
+|                                | the projected quantitative     |
+|                                | performance indicators         |
+|                                | after the existing technical   |
+|                                | points are optimized.          |
+|                                | Open-source materials or       |
+|                                | studies referenced during the  |
+|                                | research may be included as    |
+|                                | notes. Note: In the subsequent |
+|                                | Mid-Term Progress Assessment,  |
+|                                | Final Robot Assessment,        |
+|                                | and Season Summary, teams      |
+|                                | will be required to conduct    |
+|                                | closed-loop analysis of        |
+|                                | project progress. Please       |
+|                                | complete the required          |
+|                                | documents with diligence and   |
+|                                | accuracy.                      |
+| *Team Management*              | Team management involves       |
+|                                | team structure, rules and      |
+|                                | regulations development, and   |
+|                                | cultural development. 1.       |
+|                                |      Streamline the overall    |
+|                                | team structure and clarify     |
+|                                | the division of groups 2.      |
+|                                |    Specify the requirements    |
+|                                | for management positions and   |
+|                                | define the responsibilities    |
+|                                | of the leaders 3.      Define  |
+|                                | the selection requirements     |
+|                                | for official team members      |
+|                                | (35 vacancies)  Rules and      |
+|                                | Regulations Development: Based |
+|                                | on the team's post-mortem      |
+|                                | analysis and changes of        |
+|                                | environment for the new        |
+|                                | season, determine the focus    |
+|                                | of the new season’s rules      |
+|                                | and regulations development,   |
+|                                | and refine the details of the  |
+|                                | implementation plan. Cultural  |
+|                                | Development: 1. Reflect on the |
+|                                | cultural development review    |
+|                                | from last season, summarize    |
+|                                | and establish the goals        |
+|                                | and direction for cultural     |
+|                                | development in the new season. |
+|                                | 2. Survey the new members'     |
+|                                | perceptions and understanding  |
+|                                | of the competition culture     |
+|                                | and team culture for the       |
+|                                | new season. 3. Develop a       |
+|                                | detailed and feasible cultural |
+|                                | development plan tailored to   |
+|                                | the team’s current situation,  |
+|                                | goals, and direction.          |
+|                                | This plan should include a     |
+|                                | timeline, activity content,    |
+|                                | and corresponding expectations |
+|                                | and implementation plans for   |
+|                                | these activities.              |
+| *Resource Availability         | 1.       Analyze the           |
+| Analysis*                      | available resources (funds,    |
+|                                | materials and manufacturing    |
+|                                | resources). This should be a   |
+|                                | recapitulative description.    |
+|                                | Figures should be included     |
+|                                | in the team’s budget report.   |
+|                                | 2.       Plan the investment   |
+|                                | of the currently available     |
+|                                | resources and analyze whether  |
+|                                | current resources can support  |
+|                                | R&D plans.                     |
+| *Business and Promotional      | 1.       Publicity: Develop an |
+| Plan*                          | overall plan that aligns with  |
+|                                | the season's key projects and  |
+|                                | the actual situation of the    |
+|                                | team. 2.       Sponsorship:    |
+|                                | Formulate a sponsorship        |
+|                                | proposal based on the team’s   |
+|                                | actual situation and needs.    |
+| *Progress Report*              | 1.       Specify the plan and  |
+|                                | timeline for robot building    |
+|                                | progress and acceptance check  |
+|                                | based on robot types and       |
+|                                | technical areas. The Mid-Term  |
+|                                | Progress Assessment includes   |
+|                                | a closed-loop acceptance check |
+|                                | on the implementation of the   |
+|                                | corresponding part of the      |
+|                                | plan. 2.       The schedule    |
+|                                | for the completion of other    |
+|                                | tasks (such as site set-up,    |
+|                                | tool debugging, etc.) 3.       |
+|                                | Manpower distribution plan     |
+|                                | (the number of people and      |
+|                                | time to be allocated for each  |
+|                                | module)                        |
+| *Budget Report*                | Prepare a well-founded budget  |
+|                                | plan according to funds        |
+|                                | that can be acquired, the      |
+|                                | expenses involved in the       |
+|                                | competition (the cost report   |
+|                                | from the previous season may   |
+|                                | be referred to), and the R&D   |
+|                                | plans for this year. Note:     |
+|                                | The categorization should      |
+|                                | be exhaustive and clear; the   |
+|                                | budget for robot development   |
+|                                | and lab management should be   |
+|                                | reasonable and specific.       |
++--------------------------------+--------------------------------+--------------------------------+
+
+Season Plan Assessment: Rating Criteria
+
++--------------------------------+----------+
+| *Content*                      | *Rating* |
+| The Season Plan is written in  | S        |
+| accordance with requirements   |          |
+| and is complete without        |          |
+| any omissions or missing       |          |
+| information. The plan is       |          |
+| based on the team’s actual     |          |
+| situation, with clear and      |          |
+| reasonable goals, and fully    |          |
+| demonstrated feasibility. Team |          |
+| management planning is clear,  |          |
+| cost planning and budget is    |          |
+| reasonable, and the business   |          |
+| and promotional planning is    |          |
+| complete. The plan is highly   |          |
+| instructive for tasks during   |          |
+| the Preparation Period, with   |          |
+| innovative analysis methods    |          |
+| used or extensive details      |          |
+| provided. The plan also        |          |
+| provides other teams with      |          |
+| useful insights or methods for |          |
+| Preparation Period tasks.      |          |
+| The Season Plan is written in  | A        |
+| accordance with requirements   |          |
+| and is complete without        |          |
+| any omissions or missing       |          |
+| information. The plan is       |          |
+| based on the team’s actual     |          |
+| situation, with clear          |          |
+| and reasonable goals, and      |          |
+| adequately demonstrated        |          |
+| feasibility. Team management   |          |
+| planning is clear, cost        |          |
+| planning and budget is         |          |
+| reasonable, and the business   |          |
+| and promotional planning is    |          |
+| complete. The plan is highly   |          |
+| instructive for tasks during   |          |
+| the Preparation Period.        |          |
+| The Season Plan is written in  | B        |
+| accordance with requirements   |          |
+| and is complete without        |          |
+| any omissions or missing       |          |
+| information. The plan is       |          |
+| based on the team’s actual     |          |
+| situation, with relatively     |          |
+| clear and reasonable goals,    |          |
+| and adequately demonstrated    |          |
+| feasibility. Team management   |          |
+| planning, cost planning,       |          |
+| and budget have some room      |          |
+| for improvement. Business      |          |
+| and promotional planning is    |          |
+| basically complete. The plan   |          |
+| is instructive for tasks       |          |
+| during the Preparation Period. |          |
+| The Season Plan has some       | C        |
+| omissions or deviations from   |          |
+| the content requirements.      |          |
+| The plan strays from the       |          |
+| team’s actual situation,       |          |
+| with relatively clear          |          |
+| and reasonable goals, and      |          |
+| acceptable demonstrated        |          |
+| feasibility (with a few        |          |
+| feasibility issues).           |          |
+| Team management planning,      |          |
+| cost planning, and budget      |          |
+| have significant room for      |          |
+| improvement. Business and      |          |
+| promotional planning lacks     |          |
+| some information. The plan     |          |
+| is instructive for short-term  |          |
+| tasks during the Preparation   |          |
+| Period.                        |          |
+| The Season Plan has serious    | D        |
+| omissions or major deviations  |          |
+| from the content requirements. |          |
+| The plan far strays from       |          |
+| the team’s actual situation    |          |
+| and lacks feasibility          |          |
+| demonstration (with many       |          |
+| feasibility issues). The       |          |
+| methods are not executable,    |          |
+| and the goals are not clear    |          |
+| or reasonable. Team management |          |
+| planning, cost planning, and   |          |
+| budget have significant room   |          |
+| for improvement. Business and  |          |
+| promotional planning lacks     |          |
+| lots of information. The plan  |          |
+| is not instructive for tasks   |          |
+| during the Preparation Period. |          |
++--------------------------------+----------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

@@ -1,0 +1,206 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Notice on the RMUC 2025 Rules Exam
+
+2024-11-28
+
+Participants: All registered RMUC teams from Chinese mainland, as well as teams from Hong Kong, Macau, Taiwan, and overseas. Tier-1 teams are not required to participate in this section and they directly hold eligibility for the regional competition of the season. But if they waive this section, they will not receive the associated product discounts. Tier-2 teams and teams from Hong Kong, Macau, Taiwan, and overseas must participate in this section to gain submission access for the next section.
+
+Participation: Teams participate collectively.
+
+Exam Time: From 18:00 on December 2, 2024, to 18:00 on December 3, 2024 (Beijing Time).
+
+Exam Link: https://djistore.wjx.cn/vm/tUwP6Dl.aspx
+
+Exam scope:- RoboMaster 2025 University Championship Rules Manual ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) - RoboMaster 2025 University Series Robot Building Manual ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) - RoboMaster Battery Safety Guidelines ( https://rm-static.djicdn.com/documents/71710/764547e77e3eb1732803653018238430.pdf )
+
+Opportunity: The exam can be attempted multiple times within the specified period.
+
+Exam Format: 100 multiple-choice questions (randomly generated), total score of 100 points, 1 point per question.
+
+Passing Threshold: More than 6 team members must score 96 points or higher. If you have made multiple attempts, the highest score prevails.
+
+Benefits of passing this section:1. Receive product discounts associated with this section, as detailed in the " RoboMaster 2025 RoboMaster University Championship Participants Manual ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) " and the " RoboMaster 2025 University Series Materials Purchase Instructions. ( https://www.robomaster.com/en-US/resource/pages/announcement/1775 ) "2. Eligibility to the season planning section.3. Sticker bonus: The top 10 teams, with any member scoring 100 points in the shortest time, will receive a set of armor module stickers.
+
+Reminders:1. If you encounter any issues during the exam, please report them to the WeChat account (rmsaiwu). If a team is unable to complete the exam due to their own reasons, they shall take responsibility for it themselves.
+
+2. Details of a set of armor module sticker:
+
++-------------------+------------+----------+
+| STICKER NUMBERING | ROBOT TYPE | QUANTITY |
++-------------------+------------+----------+
+| No.1              | Hero       |       20 |
+| No.2              | Engineer   |       20 |
+| No.3              | Infantry   |       20 |
+| No.4              | Infantry   |       20 |
+| Sentry            | Sentry     |       20 |
++-------------------+------------+----------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

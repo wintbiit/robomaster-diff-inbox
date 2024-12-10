@@ -1,0 +1,215 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师高校系列赛参赛资料包
+
+2024-10-21
+
++-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+------+------+
+|                  类型                   |                                                                                         名称                                                                                         |                                                                                                链接                                                                                                 | 类型 | 名称 | 链接 |
++-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+------+------+
+| 比赛规范文件                            | https://www.robomaster.com/zh-CN/resource/pages/announcement/1768                                                                                                                    |
+| 培训体系                                | 参赛攻略、课程沙龙、开源材料                                                                                                                                                         | https://www.robomaster.com/zh-CN/robo/training-system?djifrom=nav                                                                                                                                   |
+| 校内赛                                  | 点击下载 (                                                                                                                                                                           |
+|                                         | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E3%80%90%E6%B1%87%E6%80%BB%E3%80%91%E6%A0%A1%E5%86%85%E8%B5%9B%E5%8E%86%E5%8F%B2%E8%B5%84%E6%96%99%E5%8C%85.7z |
+|                                         | )                                                                                                                                                                                    |
+| 品牌宣传包                              | RoboMaster 2024机甲大师赛事介绍PPT                                                                                                                                                   | 后续更新                                                                                                                                                                                            |
+|                                         |                                                                                                                                                                                      |                                                                                                                                                                                                     |
+| 宣传素材资料包                          |
+| 招商指引                                | 招商手册                                                                                                                                                                             | 点击下载 (                                                                                                                                                                                          |
+|                                         |                                                                                                                                                                                      | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E6%9C%BA%E7%94%B2%E5%A4%A7%E5%B8%88%E9%AB%98%E6%A0%A1%E7%B3%BB%E5%88%97%E8%B5%9B%E6%8B%9B%E5%95%86%E6%89%8B%E5%86%8CV1.1_.pdf |
+|                                         |                                                                                                                                                                                      | )                                                                                                                                                                                                   |
+| 招商指南                                | 点击下载 (                                                                                                                                                                           |
+|                                         | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E6%8B%9B%E5%95%86%E6%8C%87%E5%8D%97.zip                                                                        |
+|                                         | )                                                                                                                                                                                    |
+| 常用赛务文件                            | 关于举办第二十四届全国大学生机器人大赛的通知                                                                                                                                         | 点击查看 (                                                                                                                                                                                          |
+|                                         |                                                                                                                                                                                      | https://www.robomaster.com/zh-CN/resource/pages/announcement/1783                                                                                                                                   |
+|                                         |                                                                                                                                                                                      | )                                                                                                                                                                                                   |
+| RoboMaster                              | https://docs.qq.com/sheet/DUGNUZG9JS21XTXZU?tab=000004                                                                                                                               |
+| 机甲大师高校系列赛参考预算表            |                                                                                                                                                                                      |
+| RoboMaster 高校系列赛参赛授权函模板     | https://docs.qq.com/doc/DUFFsb3FMQmZEdXNn                                                                                                                                            |
+| RoboMaster 高校系列赛联队声明函模板     | https://docs.qq.com/doc/DUENKZE9BclpwdXp4                                                                                                                                            |
+| 裁判系统                                | RoboMaster 裁判系统手册                                                                                                                                                              | https://www.robomaster.com/zh-CN/products/components/referee?djifrom=nav                                                                                                                            |
+|                                         |                                                                                                                                                                                      |                                                                                                                                                                                                     |
+| RoboMaster                              |
+| 裁判系统串口协议附录                    |
+| RoboMaster 裁判系统FAQ                  |
+| RMUC 赛事引擎                           | RoboMaster                                                                                                                                                                           | https://www.robomaster.com/zh-CN/products/components/detail/5137                                                                                                                                    |
+|                                         | 机甲大师超级对抗赛裁判端界面说明                                                                                                                                                     |                                                                                                                                                                                                     |
+| RoboMaster                              |
+| 机甲大师超级对抗赛选手端界面说明        |
+| RMUL 赛事引擎                           | RoboMaster                                                                                                                                                                           | https://www.robomaster.com/zh-CN/products/components/detail/4649                                                                                                                                    |
+|                                         | 机甲大师高校联盟赛赛事引擎使用说明手册                                                                                                                                               |                                                                                                                                                                                                     |
+| RoboMaster                              |
+| 机甲大师高校联盟赛选手端界面说明（3V3） |
+| RoboMaster                              |
+| 机甲大师高校联盟赛选手端界面说明（1V1） |
++-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------+------+------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

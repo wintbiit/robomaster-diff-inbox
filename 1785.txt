@@ -1,0 +1,226 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+关于RoboMaster 新电池及配套产品信息情况的说明
+
+2024-11-14
+
+一、新电池及配套产品时间轴
+
+由于电池更新迭代计划，M600/M600PRO-PART10-智能电池TB48S已停止生产。新电池及其配套产品（RoboMaster 电池架2、新充电管家、新充电器）正在研发中，预计售卖时间、参考价格及产品信息如下，仅供参考，具体以实际售卖为准：
+
++--------------------+----------------------------+-------------------------------------------------------------------------------------------+------------------------------------+
+|      产品名称      | 参考价格（教育优惠折扣价） |                                       计划售卖时间                                        |                备注                |
++--------------------+----------------------------+-------------------------------------------------------------------------------------------+------------------------------------+
+| RoboMaster 电池架2 |                        145 | 2025年1月中旬                                                                             | /                                  |
+| 新电池             |                        600 | 2025年2月中旬                                                                             | 充电口迭代更新，仅支持充电管家充电 |
+| 新充电管家         |                        170 | 1、新充电管家仅能给新电池充电及适配新充电器                                               |
+|                    |                            | 2、一个充电管家最多可以容纳3块新电池，但每次只能为1块电池充电，并依次完成所有电池的充电。 |
+| 新充电器           |                        270 | 充电器仅能适配新充电管家                                                                  |
++--------------------+----------------------------+-------------------------------------------------------------------------------------------+------------------------------------+
+
+二、新电池和RoboMaster 电池架2参数信息
+
+为尽量降低对机器人研发进度的影响，现公布新电池部分参数以及RoboMaster 电池架2相关信息，仅供参考，具体以实际发布为准。
+
+①新电池外壳和RoboMaster 电池架2图纸： 点击下载 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E6%96%B0%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%85%8D%E5%A5%97%E4%BA%A7%E5%93%81%E5%9B%BE%E7%BA%B8.zip )
+
+②新电池部分参数：
+
++------------------+----------+
+|       参数       |   参数   |
++------------------+----------+
+| 额定容量         | 6768mAh  |
+| 标称电压         | 22.14V   |
+| 额定能量         | 149.85Wh |
+| 最大持续放电电流 | 4C       |
+| 重量             | 650g     |
+| 体积             | 详见图纸 |
++------------------+----------+
+
+③RoboMaster 电池架2参数：
+
++----------------------+----------+
+|         参数         |          |
++----------------------+----------+
+| 重量                 | 130g     |
+| 体积（不含XT60线材） | 详见图纸 |
++----------------------+----------+
+
+三、队伍信息收集
+
+原材料采购周期长，新电池滞留仓库时间过长将变成不良品，无法再次销售，现正在规划新电池和RoboMaster 电池架的生产周期及数量。
+
+为避免出现产品短缺或堆积情况，请各参赛队根据队伍实际情况和研发计划准确填写收集问卷，后续将对比问卷与实际购买清单，数量一致者将优先发货。
+
+问卷： https://djistore.wjx.cn/vm/rF2nt1w.aspx
+
+截止日期：2024年11月27日
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

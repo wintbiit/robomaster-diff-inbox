@@ -1,0 +1,214 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师超级对抗赛规则测评须知
+
+2024-11-25
+
+参与对象：所有已报名RMUC的内地队伍、港澳台及海外队伍。甲级队伍不参与本环节不影响当赛季区域赛参赛资格，但无法获得相应环节的产品折扣；非甲级队伍和港澳台及海外队伍必须参与本环节，方可获得下一环节的提交权限
+
+参与方式：以参赛队伍为单位参与
+
+测评时间：2024年12月2日18:00 - 2024年12月3日18:00（北京时间）
+
+测评链接：https://djistore.wjx.cn/vm/tDYWP6v.aspx
+
+测评内容：《 RoboMaster 2025机甲大师超级对抗赛比赛规则手册 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1768 ) 》《 RoboMaster 2025机甲大师高校系列赛机器人制作规范手册 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1768 ) 》《 RoboMaster 电池安全规范 ( https://rm-static.djicdn.com/documents/71710/eab35568e3e551732538301402640023.pdf ) 》
+
+测评次数：测评有效时间内可重复做题。
+
+测评形式：100道单选题（随机生成），满分100分，每道题1分。
+
+通过条件：6位及以上的正式队员测评分数达到96分（含）以上，以在测评期限内的最高分数为准
+
+通过权限：
+
+1、获得该环节对应的产品折扣，详情见《 RoboMaster 2025机甲大师超级对抗赛参赛手册 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1768 ) 》及《 RoboMaster 2025机甲大师高校系列赛物资购买说明 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1769 ) 》
+
+2、获得赛季规划的提交权限
+
+3、参与贴纸活动：任意职位的一名队员的单次测评达到100分，从12月2日18:00开始计时，用时最短的前十个队伍可获得装甲模块贴纸一套
+
+温馨提示：
+
+1、作答期间如遇网页故障，请联系赛务号微信进行反馈（rmsaiwu）。若由于参赛队自身原因导致无法顺利完成测评，由参赛队自行承担责任。
+
+2、一套装甲模块贴纸明细：
+
++----------+------------+---------+
+| 贴纸类型 |    兵种    | 数量/张 |
++----------+------------+---------+
+| 1号      | 英雄机器人 |      20 |
+| 2号      | 工程机器人 |      20 |
+| 3号      | 步兵机器人 |      20 |
+| 4号      | 步兵机器人 |      20 |
+| 哨兵     | 哨兵机器人 |      20 |
++----------+------------+---------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

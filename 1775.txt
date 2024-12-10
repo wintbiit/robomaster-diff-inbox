@@ -1,0 +1,497 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RMU 2025 Instructions for Purchasing Materials
+
+2024-10-21
+
+1. Material Discount Eligibility
+
+In order to support the participating teams, the RoboMaster Organizing Committee allows the participating teams that have registered for RoboMaster University Championship (RMUC), RoboMaster University League (RMUL) and passed the registration assessment to purchase materials at discounted prices. New teams that meet certain requirements can also purchase the Standard Robot Kit at affordable prices. The materials purchased at a discount can only be used as supplies for RoboMaster 2024 competitions and related events. Discount eligibility and materials purchased at discounts cannot be resold.
+
++--------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
+| *Materials*                    | *Product detail*                                                   | *Requirements*                                                                   | *Price($)*                                                                       | *Cap (set)*                                                                      | *Channels*                                                                       |
+| Accessories                    | 1.https://www.robomaster.com/en-US/products/components/general     | Successfully registered for                                                      | See "Appendix I: Accessories and Discount Amount" (                              | Taobao, o ffline (                                                               |
+|                                | ( https://www.robomaster.com/en-US/products/components/general )   | RMUC or RMUL and passed the                                                      | https://docs.qq.com/sheet/DUFlXYlBkUFJJd2Vp?tab=000001                           | https://docs.qq.com/sheet/DUFptcHFFZmRNWWdq?newPad=1&newPadType=clone&tab=5ahgzu |
+|                                | 2.https://www.robomaster.com/en-US/products/components/competition | registration assessment                                                          | )                                                                                | ) purchase                                                                       |
+|                                | ( https://www.robomaster.com/en-US/products/components/competition |                                                                                  |                                                                                  |                                                                                  |
+|                                | )                                                                  |                                                                                  |                                                                                  |                                                                                  |
+| RoboMaster Standard A          | https://www.robomaster.com/zh-CN/products/components/detail/2711   | 1.Registered for RMUC                                                            |                                                                             1200 |                                                                                1 | Offline (                                                                        |
+| Unassembled kit                |                                                                    | or RMULand passed the                                                            |                                                                                  |                                                                                  | https://docs.qq.com/sheet/DUFptcHFFZmRNWWdq?newPad=1&newPadType=clone&tab=5ahgzu |
+|                                |                                                                    | registration assessment                                                          |                                                                                  |                                                                                  | ) purchase                                                                       |
+|                                |                                                                    | in 2025 season 2. Not                                                            |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | participated in RMUC or                                                          |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | RMUL in 2024  season 3. Not                                                      |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | participated in RMUC, RMUT or                                                    |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | RMUL in 2023  season                                                             |                                                                                  |                                                                                  |                                                                                  |
+|                           2700 |                                                                  1 | Offline (                                                                        |
+|                                |                                                                    | https://docs.qq.com/sheet/DUFptcHFFZmRNWWdq?newPad=1&newPadType=clone&tab=5ahgzu |
+|                                |                                                                    | ) purchase                                                                       |
+| 1. Registered for for RMUC     |                                                               2700 |                                                                                2 | Offline (                                                                        |
+| or RMUL and passed the         |                                                                    |                                                                                  | https://docs.qq.com/sheet/DUFptcHFFZmRNWWdq?newPad=1&newPadType=clone&tab=5ahgzu |
+| registration assessment        |                                                                    |                                                                                  | ) purchase                                                                       |
+| in 2025 season 2. Not          |                                                                    |                                                                                  |                                                                                  |
+| participated in RMUC in        |                                                                    |                                                                                  |                                                                                  |
+| 2023 and 2024 seasons          |                                                                    |                                                                                  |                                                                                  |
+| Available for all RMU teams    | Market price: 3400                                                 | /                                                                                | Telephone                                                                        |
+|                                |                                                                    |                                                                                  |                                                                                  |
+| Livox Mid-70 LiDAR             | https://www.livoxtech.com/mid-70                                   | “The two products share                                                          |                                                                             1050 | Refer to the "Requirements"                                                      | Offline purchase                                                                 |
+|                                |                                                                    | the same discount policy.”                                                       |                                                                                  | column                                                                           |                                                                                  |
+|                                |                                                                    | 1. Registered for RMUC and                                                       |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | passed the registration                                                          |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | assessment: one set 2.Passed                                                     |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | the RMUC  Season Plan; one                                                       |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | set 3. Passed the RMUC                                                           |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | Mid-term Robot Assessment:                                                       |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | one set 4. Registered for RMUL                                                   |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | 2025 3V3 Match and passed the                                                    |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | registration assessment: one                                                     |                                                                                  |                                                                                  |                                                                                  |
+|                                |                                                                    | set                                                                              |                                                                                  |                                                                                  |                                                                                  |
+| Market price: 1099             | /                                                                  | Search “Livox” at DJI Store                                                      |
+| Livox Mid-360 LiDAR            | https://www.livoxtech.com/cn/mid-360                               |                                                                              560 | Refer to the "Requirements"                                                      | Offline purchase                                                                 |
+|                                |                                                                    |                                                                                  | column                                                                           |                                                                                  |
+| Market price: 749              | /                                                                  | Search “Livox” at DJI Store                                                      |
++--------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
+
+2.Overview of Purchase Channels
+
++-----+-----------------------------------------------------------------------------------------------------------------------+--------------------------------+--------------------------------+
+| No. | Channels                                                                                                              | Targeted purchasers            | Notes                          |
+|   1 | Taobao (                                                                                                              | Teams from Mainland China that | 1. You can enjoy all the       |
+|     | https://shop307244465.taobao.com/shop/view_shop.htm?spm=a230r.1.14.25.1f9036b2BeOP6E&user_number_id=4258715814        | have passed the registration   | discounts mentioned in "I.     |
+|     | )                                                                                                                     | assessment for RMU 2025        | Material Discount Eligibility" |
+|     |                                                                                                                       |                                | 2. Validity: 18:00, November   |
+|     |                                                                                                                       |                                | 6, 2024 (no time limit for     |
+|     |                                                                                                                       |                                | original price) 3. Some        |
+|     |                                                                                                                       |                                | materials are not available    |
+|     |                                                                                                                       |                                | for sale on Taobao (see        |
+|     |                                                                                                                       |                                | "Appendix I: Accessories and   |
+|     |                                                                                                                       |                                | Discount Amount", RoboMaster   |
+|     |                                                                                                                       |                                | Standard A Unassembled         |
+|     |                                                                                                                       |                                | kit). Please purchase these    |
+|     |                                                                                                                       |                                | materials offline if needed.   |
+|     |                                                                                                                       |                                | 4. Support credit card         |
+|     |                                                                                                                       |                                | payment 5. Normally, teams     |
+|     |                                                                                                                       |                                | from Mainland China can only   |
+|     |                                                                                                                       |                                | purchase discounted materials  |
+|     |                                                                                                                       |                                | through Taobao. For special    |
+|     |                                                                                                                       |                                | circumstances, please contact  |
+|     |                                                                                                                       |                                | the RMOC. (WeChat: rmsaiwu)    |
+|   2 | Offline purchase                                                                                                      | 1.Teams from Hong Kong, Macau, | 1. You can enjoy the discounts |
+|     |                                                                                                                       | Taiwan and Overseas that       | mentioned in "I. Material      |
+|     |                                                                                                                       | have passed the registration   | Discount Eligibility" 2.       |
+|     |                                                                                                                       | assessment for RMU 2025        | Validity: 18:00, November      |
+|     |                                                                                                                       | 2.Teams from Mainland          | 6, 2024 (no time limit for     |
+|     |                                                                                                                       | China that have passed the     | original price) 3. Support     |
+|     |                                                                                                                       | registration assessment for    | credit card payment, transfer  |
+|     |                                                                                                                       | RMU 2025, but cannot purchase  | payment (public transfer) 4.   |
+|     |                                                                                                                       | certain materials through      | Normally, the offline purchase |
+|     |                                                                                                                       | Taobao                         | channel will be suspended 15   |
+|     |                                                                                                                       |                                | days before the competition    |
+|     |                                                                                                                       |                                | and resumed 5 days after the   |
+|     |                                                                                                                       |                                | competition ends. For special  |
+|     |                                                                                                                       |                                | circumstances, please contact  |
+|     |                                                                                                                       |                                | the RMOC. (WeChat: rmsaiwu)    |
+|   3 | DJI Store (                                                                                                           | All                            | 1. Only some of the            |
+|     | https://store.dji.com/cn/list/accessories?from=site-nav&tab=103&page=1&sort=recommendation&category=101%3D101.216.305 |                                | competition materials are      |
+|     | )                                                                                                                     |                                | available at DJI store. 2.     |
+|     |                                                                                                                       |                                | You can only purchase these    |
+|     |                                                                                                                       |                                | materials at the original      |
+|     |                                                                                                                       |                                | price and cannot enjoy         |
+|     |                                                                                                                       |                                | the discounts mentioned        |
+|     |                                                                                                                       |                                | in "I. Material Discount       |
+|     |                                                                                                                       |                                | Eligibility". 3. Support       |
+|     |                                                                                                                       |                                | credit card payment, transfer  |
+|     |                                                                                                                       |                                | payment (public transfer).     |
+|     |                                                                                                                       |                                | Please contact the customer    |
+|     |                                                                                                                       |                                | service for details.           |
+|   4 | Purchase by phone                                                                                                     | All                            | To purchase non-competition    |
+|     |                                                                                                                       |                                | accessories and materials      |
+|     |                                                                                                                       |                                | (such as referee system),      |
+|     |                                                                                                                       |                                | please contact Mr. Mei via +86 |
+|     |                                                                                                                       |                                | 0755-36383255 (transfer to 3)  |
++-----+-----------------------------------------------------------------------------------------------------------------------+--------------------------------+--------------------------------+
+
+3.Taobao
+
++-----+-----------------------------+------------------------------------------------------------------------------------------+--------------------------------+
+| No. | Steps                       | Description                                                                              | Notes                          |
+|   1 | Log in to Taobao            | Log in to Taobao, search for “ RoboMaster 萝马集市 (                                     |                                |
+|     |                             | https://shop307244465.taobao.com/index.htm?spm=2013.1.w5002-21060234506.2.157b3693axC5Bz |                                |
+|     |                             | ) ” (RoboMaster Marketplace) and enter the store, select your desired products.          |                                |
+|   2 | Register an account         | 1. Participating teams must register                                                     | 1. One participating team      |
+|     |                             | a Taobao account. Once submitted,                                                        | can participate in the         |
+|     |                             | it cannot be modified within the                                                         | different competitions of the  |
+|     |                             | current season. 2. Fill in the “                                                         | RoboMaster University Series   |
+|     |                             | RM2025 Taobao Account Questionnaire                                                      | at the same time. No matter    |
+|     |                             | for Participating Teams (                                                                | how many competitions you      |
+|     |                             | https://djistore.wjx.cn/vm/hw7xgo9.aspx                                                  | have registered for, you only  |
+|     |                             | ) ” for submitting account reporting.                                                    | need to register and report    |
+|     |                             |                                                                                          | ONE account. 2. After the      |
+|     |                             |                                                                                          | questionnaire is submitted,    |
+|     |                             |                                                                                          | it cannot be modified within   |
+|     |                             |                                                                                          | the current season. Please     |
+|     |                             |                                                                                          | double check before submitting |
+|     |                             |                                                                                          | the questionnaire. 3. Please   |
+|     |                             |                                                                                          | submit a questionnaire by      |
+|     |                             |                                                                                          | November 30, 2024. Otherwise,  |
+|     |                             |                                                                                          | you will be deemed to have     |
+|     |                             |                                                                                          | automatically given up the     |
+|     |                             |                                                                                          | eligibility to purchase        |
+|     |                             |                                                                                          | materials at Taobao discounts. |
+|     |                             |                                                                                          | Please purchase materials      |
+|     |                             |                                                                                          | offline to obtain discounts.   |
+|     |                             |                                                                                          | 4. It takes some time to       |
+|     |                             |                                                                                          | collect the questionnaire      |
+|     |                             |                                                                                          | information and complete       |
+|     |                             |                                                                                          | discount binding. Please be    |
+|     |                             |                                                                                          | patient.                       |
+|   3 | Obtain discounts            | 1. Use the reported Taobao                                                               | 1. Discount materials for      |
+|     |                             | account to inquire the Taobao                                                            | the same team can only be      |
+|     |                             | store customer service whether                                                           | purchased by designated        |
+|     |                             | your discount is successfully                                                            | accounts. 2. For any           |
+|     |                             | bound. 2. Check the "Appendix                                                            | questions about the discount   |
+|     |                             | I: Accessories and Discount                                                              | amount, contact Taobao         |
+|     |                             | Amount" to confirm the                                                                   | store customer service for     |
+|     |                             | discount amount available to                                                             | details. Customer service      |
+|     |                             | your team                                                                                | is available at 9:00-12:00,    |
+|     |                             |                                                                                          | 14:00-18:00(UTC+8) on working  |
+|     |                             |                                                                                          | days.                          |
+|   4 | Order at Taobao             | 1. Purchase materials at                                                                 | If the quantity exceeds the    |
+|     |                             | Taobao store according to                                                                | upper limit of the discount    |
+|     |                             | your needs. Free shipping                                                                | amount, the excess part will   |
+|     |                             | over RMB 158. 2. After adding                                                            | be restored to the original    |
+|     |                             | the materials to the shopping                                                            | price.                         |
+|     |                             | cart, select all the materials                                                           |                                |
+|     |                             | to be purchased in the store                                                             |                                |
+|     |                             | and confirm the order. 3.                                                                |                                |
+|     |                             | Choose to abandon the payment                                                            |                                |
+|     |                             | and contact Taobao shop                                                                  |                                |
+|     |                             | customer service to modify                                                               |                                |
+|     |                             | the price. 4. The Taobao store                                                           |                                |
+|     |                             | customer service will verify                                                             |                                |
+|     |                             | the discount amount and modify                                                           |                                |
+|     |                             | the price. The price change                                                              |                                |
+|     |                             | will be come into effect                                                                 |                                |
+|     |                             | within 24 hours after the                                                                |                                |
+|     |                             | order is confirmed. 5. After                                                             |                                |
+|     |                             | the price is revised, please                                                             |                                |
+|     |                             | pay in time. 6. The materials                                                            |                                |
+|     |                             | will be shipped within 1-3                                                               |                                |
+|     |                             | working days after payment.                                                              |                                |
+|   5 | Invoice issuance and others | 1. Request for an invoice at                                                             | 1. Invoicing template: •       |
+|     | (optional)                  | the order record if needed. 2.                                                           | Taxpayer name •Taxpayer        |
+|     |                             | The invoice will be issued and                                                           | Identification Number •        |
+|     |                             | sent to the mailbox within 10                                                            | Address • Phone • Bank and     |
+|     |                             | working days after delivery.                                                             | account number • Invoice       |
+|     |                             | 3. For any after-sales                                                                   | type (VAT ordinary invoice by  |
+|     |                             | services (repairs or returns,                                                            | default) • E-invoice receiving |
+|     |                             | etc.), please read "Appendix                                                             | mailbox 2. For other special   |
+|     |                             | III: After-sales Policy" and                                                             | needs, please contact Taobao   |
+|     |                             | contact Taobao store customer                                                            | store customer service.        |
+|     |                             | service.                                                                                 |                                |
++-----+-----------------------------+------------------------------------------------------------------------------------------+--------------------------------+
+
+4. Offline Purchase
+
++-----+--------------------------------+--------------------------------------------------------+--------------------------------+
+| No. | Steps                          | Description                                            | Notes                          |
+|   1 | Registration                   | Log in to the registration                             | For teams participating in     |
+|     |                                | system to view the                                     | multiple RMU events, fill in   |
+|     |                                | registration number (available                         | one of the valid registration  |
+|     |                                | only after passing the                                 | numbers.                       |
+|     |                                | registration assessment)                               |                                |
+|   2 | Download and fill in the       | 1.Download RM2025 Materials Purchase Order V1.0 (      | 1. Do not delete any cell      |
+|     | documents                      | https://docs.qq.com/sheet/DUFlXYlBkUFJJd2Vp?tab=000004 | in the list, nor modify the    |
+|     |                                | ) 2.Fill in the “RM2025 Materials Purchase Order” as   | format, only fill out the      |
+|     |                                | required                                               | blanks 2. There is an upper    |
+|     |                                |                                                        | limit on the quantity of       |
+|     |                                |                                                        | discount materials. Please     |
+|     |                                |                                                        | record the total amount of     |
+|     |                                |                                                        | discounts used by your team.   |
+|     |                                |                                                        | If you exceed the limit,       |
+|     |                                |                                                        | please state that "purchase at |
+|     |                                |                                                        | the original price".           |
+|   3 | Order confirmation             | 1. Send an email to:                                   | 1. If you decide to give up    |
+|     |                                | robomaster@dji.com. E-mail                             | the purchase after sending     |
+|     |                                | subject: university name +                             | the list, please send an       |
+|     |                                | team name + materials list                             | email in time to inform us in  |
+|     |                                | + amount. File name of the                             | time, otherwise the discount   |
+|     |                                | purchase order: university                             | will continue to be locked     |
+|     |                                | name + team name + materials                           | and cannot be used again.      |
+|     |                                | list + amount 2.The RMOC will                          | 2. Be sure to *confirm the     |
+|     |                                | reply to the email within                              | order details and total        |
+|     |                                | 3-4 working days to confirm                            | amount before payment*. Sales  |
+|     |                                | the list. 3.After the list                             | contracts or other verbal      |
+|     |                                | is confirmed, the required                             | promises cannot be used as     |
+|     |                                | quantity will be locked. If                            | a basis for payment and *the   |
+|     |                                | the payment is not made for                            | payment can only be made after |
+|     |                                | more than 7 days, the quantity                         | the contract is signed and     |
+|     |                                | will be unlocked.                                      | confirmed.* 3. If the team     |
+|     |                                |                                                        | did not confirm the order      |
+|     |                                |                                                        | details before making payment, |
+|     |                                |                                                        | resulting in the inconsistency |
+|     |                                |                                                        | between the payment and the    |
+|     |                                |                                                        | order, the materials cannot be |
+|     |                                |                                                        | shipped and the payment will   |
+|     |                                |                                                        | be refunded to the original    |
+|     |                                |                                                        | account. If the payment cannot |
+|     |                                |                                                        | be refunded, supplementary     |
+|     |                                |                                                        | confirmation will be made      |
+|     |                                |                                                        | to the corresponding order,    |
+|     |                                |                                                        | and the materials in the       |
+|     |                                |                                                        | order will *not enjoy the      |
+|     |                                |                                                        | educational discount price*.   |
+|     |                                |                                                        | 4. If your pruchase list       |
+|     |                                |                                                        | involves both market price     |
+|     |                                |                                                        | and discount price, split the  |
+|     |                                |                                                        | materials into two separate    |
+|     |                                |                                                        | lists based on the market      |
+|     |                                |                                                        | price and discount price       |
+|     |                                |                                                        | and then send the lists to     |
+|     |                                |                                                        | robomaster@dji.com. Otherwise  |
+|     |                                |                                                        | the list will be rejected.     |
+|     |                                |                                                        | Additionally, after the        |
+|     |                                |                                                        | list is confirmed, payment     |
+|     |                                |                                                        | must also be made separately   |
+|     |                                |                                                        | according to the market price  |
+|     |                                |                                                        | and discount price, otherwise  |
+|     |                                |                                                        | the goods will not be shipped. |
+|   4 | Payment & shipping             | 1.Make remittance according                            | 1. Check the purchase order    |
+|     |                                | to the quantity and amount                             | first before remitting. Direct |
+|     |                                | confirmed by the RMOC, noting                          | remittance will be deemed      |
+|     |                                | the school name 2.Email the                            | invalid and the money will     |
+|     |                                | final purchase order and the                           | be refunded after deducting    |
+|     |                                | image of remittance proof to:                          | the incurred expenses. 2.      |
+|     |                                | robomaster@dji.com , (subject:                         | For shipping addresses in      |
+|     |                                | school name + team name +                              | Mainland China, orders can     |
+|     |                                | final order & remittance                               | only be settled in RMB. RMB    |
+|     |                                | proof+ amount) 3.After the                             | account information: Account   |
+|     |                                | RMOC have confirmed the                                | name: 深圳市睿炽科技有限公司   |
+|     |                                | remittance information,                                | Account number:                |
+|     |                                | materials will be shipped.                             | 755936619710201 Account Bank:  |
+|     |                                |                                                        | 招商银行深圳科技园支行 3.      |
+|     |                                |                                                        | If you need topay with a RMB   |
+|     |                                |                                                        | credit card, please send an    |
+|     |                                |                                                        | email for application before   |
+|     |                                |                                                        | payment, and the RMOC will     |
+|     |                                |                                                        | reply with an Alipay link      |
+|     |                                |                                                        | for credit card payment.       |
+|     |                                |                                                        | After scanning the QR code     |
+|     |                                |                                                        | to pay, make sure to reply     |
+|     |                                |                                                        | the email with a screenshot    |
+|     |                                |                                                        | of the payment serial number   |
+|     |                                |                                                        | enclosed. 4. Teams with        |
+|     |                                |                                                        | shipping addresses in Hong     |
+|     |                                |                                                        | Kong, Macau, Taiwan and        |
+|     |                                |                                                        | overseas can only use USD      |
+|     |                                |                                                        | for settlement. When making    |
+|     |                                |                                                        | payment, please pay additional |
+|     |                                |                                                        | fees such as payment handling  |
+|     |                                |                                                        | fees by yourself to ensure     |
+|     |                                |                                                        | that the final payment         |
+|     |                                |                                                        | amount is exactly the same     |
+|     |                                |                                                        | as the actual payment amount,  |
+|     |                                |                                                        | otherwise we will not ship     |
+|     |                                |                                                        | the products. USD account      |
+|     |                                |                                                        | information: Bank Name: HSBC   |
+|     |                                |                                                        | Hong Kong Bank Bank Address:   |
+|     |                                |                                                        | Head Office 1 Queen's Road     |
+|     |                                |                                                        | Central Hong Kong Account      |
+|     |                                |                                                        | name: IFLIGHT  TECHNOLOGY      |
+|     |                                |                                                        | COMPANY LIMITED Account        |
+|     |                                |                                                        | Number:  848-660296-201 USD    |
+|     |                                |                                                        | Swift Code:  HSBCHKHHHKH       |
+|   5 | Invoice issuance               | 1. If there are special                                | * Invoice seal:                |
+|     | (optional)                     | requirements for the type,                             | 深圳市睿炽科技有限公司 2.      |
+|     |                                | header, and face value of the                          | Invoice details: The names,    |
+|     |                                | invoice, please note it in the                         | prices and quantities of       |
+|     |                                | email. Otherwise, a general                            | materials 3. Invoices cannot   |
+|     |                                | electronic VAT invoice will                            | be issued in advance, and      |
+|     |                                | be issued by default. 2. An                            | the unit price of the invoice  |
+|     |                                | invoice will be issued after                           | cannot be changed. If you need |
+|     |                                | the materials are shipped. The                         | assistance, please contact us  |
+|     |                                | invoicing process takes about                          | through WeChat (rmsaiwu)       |
+|     |                                | 1 week. Please be patient. 3.                          |                                |
+|     |                                | After the invoice is issued,                           |                                |
+|     |                                | it will be sent to the mailbox                         |                                |
+|     |                                | that sent the purchase order.                          |                                |
++-----+--------------------------------+--------------------------------------------------------+--------------------------------+
+
+Appendix I Accessories and Discount Amount
+
+*The discount amount will be announced during the "Status Review" period.
+
+See: https://docs.qq.com/sheet/DUFlXYlBkUFJJd2Vp?tab=000002
+
+Appendix II After sales policy
+
+See: https://docs.qq.com/sheet/DUFlXYlBkUFJJd2Vp?tab=000006
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
