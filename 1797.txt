@@ -1,0 +1,221 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师高校系列赛场地道具出售方式公告
+
+2024-12-17
+
+一、矿石
+
++--------------+--------------------------------------------------------------------------------------------------------------------------+----------------------+
+| 物料名称     | 矿石（金/银）                                                                                                            |
+| 版本         | 不含场地道具交互模块卡                                                                                                   |
+| 单价         | 180元                                                                                                                    |
+| 价格说明     | 含税；不含运费，运费到付（仅可邮寄内陆地址）                                                                             |
+| 购买截止时间 | 2024年12月20日15:00（逾期可能导致无法购买）                                                                              |
+| 预计发货时间 | 2025年1月19日起（根据付款下单顺序安排发货）                                                                              |
+| 付款方式     | 对公转账                                                                                                                 | 个人付款             |
+| 收款人名称   | 中山日先联亚展示用品有限公司                                                                                             | 廖冬梅               |
+| 开户行       | 工行中山分行孙文支行                                                                                                     | 中国农业银行东莞分行 |
+| 收款账号     |                                                                                                      2011028019200051740 |  6230520600018700570 |
+| 采购流程     | 1.电话或微信联系供应商联系人：章柠 18924970050（微信同号） 2.根据供应商要求，填写文档进行信息登记；                      |
+|              | 3.参赛队伍可根据实际情况，选择对公转账或转账给个人账户，汇款备注：RM+学校全称+联系人姓名。付款人与收件人信息须保持一致； |
+|              | 4.如需开具发票，发票将最迟于商品发货后一个月内发出，运费到付；请务必仔细核对开票信息，避免错误，提交信息后无法更改。     |
+| 备注         | *注意事项：*                                                                                                             |
+|              | *1.请谨慎确认购买数量及时间，逾期后请自行联系供应商确认是否可购买*                                                       |
+|              | *2.具体发货时间以实际发货时间为准*                                                                                       |
++--------------+--------------------------------------------------------------------------------------------------------------------------+----------------------+
+
+二、能量机关传感器模组（柔性压力传感器）
+
++--------------+------------------------------------------------------------------------------------------------------------------------+----------+
+| 物料名称     | 能量机关传感器模组（柔性压力传感器）                                                                                   |
+| 单价         | 495元/一套                                                                                                             |
+| 价格说明     | 含税，不含运费，运费到付；可寄至港澳台及海外地区。                                                                     |
+| 购买时间     | 长期                                                                                                                   |
+| 预计发货时间 | 收到货款3个工作日内发出                                                                                                |
+| 付款方式     | 对公转账                                                                                                               | 个人付款 |
+| 收款人名称   | 墨现科技（东莞）有限公司                                                                                               |
+| 开户行       | 招商银行东莞松山湖支行                                                                                                 |
+| 收款账号     |                                                                                                        769910231610888 |
+| 采购流程     | 1.电话或微信联系供应商联系人：刘磊星 15820434522 leixing.liu@mxkj.net.cn                                               |
+|              | 2.选择对公或个人支付货款，汇款备注：RM+学校全称+联系人姓名。付款人与收件人信息须保持一致；                             |
+|              | 3.如需开具发票，须与供应商确认开具发票类型；运费到付；请务必仔细核对开票信息，避免错误。                               |
+| 备注         | *1.购买前请联系供应商确认库存情况，如无库存，发货时间将延长至7-10个工作日*                                             |
+|              | *2.如一次性订购5套或5套以上，可享受8折优惠折扣*                                                                        |
+|              | *3.每套能量机关传感器模组仅包括一个压感检测传感器与一个传感器控制板，不包含安装框架、显示灯板、灯板控制板等其他零部件* |
+|              | *4. 由于安装方式、检测算法的不同，能量机关传感器模组的最终效果与实际场地道具会存在一定差异，需自行调试适配*            |
+|              | *5.在对传感器增加保护措施(如硅胶软垫)的情况下，抗打击寿命为5000发30m/s法向速度的17mm弹丸打击，不建议使用42mm弹丸打击*  |
++--------------+------------------------------------------------------------------------------------------------------------------------+----------+
+
+三、地胶
+
+后续更新
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
