@@ -1,0 +1,226 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师高校人工智能挑战赛 线上提交说明
+
+2024-12-25
+
+*一、参与对象：* 成功报名RoboMaster 2025机甲大师高校人工智能挑战赛的参赛队伍均可参与
+
+*二、比赛环节：*
+
+1. 初赛：2024年12月25日 18:00-2025年3月5日 18:00（北京时间）   初赛第一阶段提交截止至2025年1月22日 18:00（北京时间）
+
+2.复赛：2025年3月12日18:00-2025年4月16日18:00（北京时间）
+
+3.决赛：2025年5月7日18:00-2025年6月18日18:00（北京时间）
+
+*三、比赛提交说明：*
+
+1.以参赛队伍为单位，通过队长账号登录官方报名系统参与各赛段比赛提交。 《RoboMaster 2025机甲大师高校人工智能挑战赛 线上文件提交操作指引》 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RoboMaster%202025%E6%9C%BA%E7%94%B2%E5%A4%A7%E5%B8%88%E9%AB%98%E6%A0%A1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8C%91%E6%88%98%E8%B5%9B%20%E7%BA%BF%E4%B8%8A%E6%8A%A5%E5%90%8D%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf )
+
+2.各赛段提交环节中，每次提交的镜像会运行一次，每个赛段提交期间不限制提交次数，期间产生的最优成绩将作为队伍的每个赛段的最终成绩。
+
+3.各赛段提交环节开始后，各赛段成绩榜将根据队伍参与情况实时更新比赛成绩。
+
+*四、提交机会：* 不限
+
+*五、算法打包方式：*
+
+详细可参见： GitHub - RoboMaster/IntelligentUAVChampionshipBase: This is the basic ros development environment for the intelligent UAV championshop competition, including a docker container ( https://github.com/RoboMaster/IntelligentUAVChampionshipBase )
+
+注意事项：
+
+1.算法打包成 Docker 镜像后，预计大小会在2~10G不等，各参赛队需要根据宽带情况预留上传时间。
+2.参赛队在打包Docker镜像过程中需要尽可能删除与赛事无关的内容，保证 Docker 镜像不超过10G。其中超过10G的 Docker 镜像会触发系统异常报警，会导致运行失败。
+3.参赛队研发的算法中的控制频率不得超过100HZ。超过100HZ的控制频率会触发系统异常报警，导致任务执行失败。
+4.预计每支参赛队每个算法包运行时间会在20~40分钟不等，自动评分系统会按照成功提交时间进行排队评测。若遇到高峰段请耐心等待。
+5.若系统已经显示 “执行中” 状态，则下次提交的 Docker 镜像不会影响本次 Docker 镜像的执行资格。
+6.若系统停留在 “执行中” 状态超过48小时未反馈状态。请在”RMUA 2025参赛群“中或者私聊联系赛务号进行反馈，其中反馈内容需要包含以下内容:【学校】【队名】【系统给出的上传时间】【该次任务上传后的截图】。
+7.每支队每天首次提交的 Docker 镜像具有优先执行权，后续提交将会进入普通队列，在系统资源允许的情况下执行。
+8.若战队提交的任务正在优先队列中，当该战队再次提交时，将会取消当前优先队列的任务，新提交的任务将会进入优先队列队尾，普通队列同理。
+9.程序中禁止使用“GUI”组件功能，如 opencv 的 “imshow()” 等，“GUI”组件功能会触发系统异常报警，会导致运行失败。
+10.使用 sleep() 函数来控制帧率将有较高概率导致控制指令输入频率超过100HZ，从而触发系统异常报警，会导致运行失败。建议参赛选手使用ros中spin()函数机制控制发送帧率。
+11.请勿在程序中设置 ROS_MASTER_URI 以及 ROS_IP 环境变量。
+12.服务器 CPU 性能为2.9GHZ ，任务执行期间，将会为参赛队伍镜像分配10个核心。
+13.任务执行期间，服务器会为参赛队伍分配独立的 A10 GPU ，显卡驱动版本为470。
+14.服务器宿主机未安装 cuda 及 cudnn ，参赛队需根据显卡驱动版本在镜像中自行安装合适的 cuda 及 cudnn 组件。
+15.上传过程中点击取消上传，再次选择完全相同的docker 文件将会继续上一次的进度上传。
+16.若上传弹窗进度条提示成功，但弹窗文案仍为上传中，可点击取消上传后再选择相同文件上传，并将问题反馈至参赛群中。
+17.若上传弹窗频繁提示上传失败，请按顺序尝试：点击重新上传，重新选择上传文件；更换浏览器，重新上传文件；更换机器设备，重新上传文件，并将问题反馈至参赛群中。
+18.若上传后，10分钟内仍未显示状态，可尝试重新上传，并将问题反馈至参赛群中。
+19.上传镜像之前，建议先在本地使用 docker load < test.tar 指令加载文件，确保文件格式正确。
+
+*六、关于赛事违规说明：*
+
+1.关于软件抄袭的定义：不同赛队提交了雷同的功能算法会被定义为抄袭，其中雷同的内容包括且不限于实现整体功能的软件结构、算法选型、关键参数、规划策略等。
+
+2.当发现违规行为，将严格按照比赛规则手册“附录一  违规判罚”章节进行判罚。
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
