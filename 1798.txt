@@ -1,0 +1,294 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 机甲大师高校系列赛电池安全规范
+
+2024-12-25
+
+*******
+1. 电池分类
+*******
+
+高风险电池：
+
+①鼓包电池
+
+②外壳破损/变形的电池
+
+③拆解电池
+
+④软包裸电芯
+
+安全电池：有清晰的容量、电压、制造商等详细的标签、无高风险特征的电池
+
+*********
+2. 电池存储方式
+*********
+
+①高风险电池：无人看管时需放置于防爆柜/箱内（禁止堆叠或者与安全电池混放）
+
+②安全电池：节假日期间需放置于防爆柜内，禁止堆叠或者与高风险电池混放，其余不做强制要求
+
+③正负极裸露的电池、带调试线的电池：必须放置于防爆柜内，存放时应做好绝缘保护，禁止与金属或其它导电物体混放，以免接触电池正负极后导致电池短路
+
+*********
+3. 电池使用要求
+*********
+
+①在符合散热条件下，首选在防爆柜内进行充电。如在工作区域充电，充电前需清理电池与充电器一米内的易燃易爆物品且确保充电区域已配备消防设施，充电过程中必须全程有人值守，人员离开时必须停止充电。如必须进行无人值守充电（仅限安全电池，如：安全电池、遥控器、手持运动相机等包含电池的产品），需确保在监控下的防爆柜内进行充电。
+
+②节假日期间，大容量电池（超过160Wh）需放电至30%以下，且存储时间不超过一个月，超期需及时补电。
+
+③禁止拆解电池：拆解电池容易戳破电芯引发着火。
+
+④严禁对高风险电池充电。
+
+⑤严禁将电池置于危险环境，常见的危险行为：跌落、撞击、挤压、浸水、腐蚀、烘烤、暴晒、过度充电、过度放电等，严重的情况会引起电池过热、起火、爆炸。
+
+⑥禁止使用第三方充电设备对电池进行充电，需要使用官方标配的充电器充电。充电前须清理电池与充电器附近的易燃易爆物品，让电池处于通风散热良好的室温环境中。如必须使用第三方充电设备进行充电，应在防爆柜内进行。充电过程中必须全程有人值守，人员离开时应停止充电。
+
+⑦所有浸水电池应立即报废处理。
+
+⑧严禁使用导线或任何金属连接电池正负极，避免电池短路，禁止反接电池正负极。
+
+⑨外出测试时，电池应装入手提式防爆箱内存储，并做好缓冲保护措施，防止运输过程中电池在防爆箱内随意晃动，严禁将电池长时间置于高温环境中。
+
+************
+4. 电池防爆柜管理规范
+************
+
+①需粘贴管理标识（包括：管理人员、联系方式、存放物品或者电池种类）
+
+②不允许堆叠电池
+
+③高风险电池应单独存放于一个防爆柜
+
+④防爆柜应开启两侧的通风装置，柜内保持干燥、通风的使用环境，环境温度应保持在常温范围内，并远离易燃易爆物体，防爆柜门可以正常打开（禁止被堵塞、遮挡等）
+
+⑤防爆柜需接地或者在隔板上铺设防静电防护垫
+
+⑥定期检查防爆柜
+
+*********
+5. 电池应急处理
+*********
+
+①电池灭火的流程
+
+a.做好个人防护
+
+b.切断着火点周围电源
+
+c.用消防沙、灭火器扑灭明火
+
+d.用防火钳/防火手套将已灭火电池放置在防爆箱内后转移至盐水桶内
+
+e.浸泡超过72小时，直至完全放电再捞出晾干做报废处理
+
+②灭火器使用流程
+
+a.摘掉铅封
+
+b.拔掉保险销
+
+c.握住喷管
+
+d.距离火焰2米外，对准火源根部
+
+e.按下压把喷射灭火
+
+③电池发生跌落、撞击、挤压、浸水、腐蚀、烘烤、暴晒、过度充电、过度放电等危险行为后，首先检查电池是否受损。鼓包、漏液、浸水、结构变形等破损电池属于高风险电池，存在过热、起火、爆炸等安全风险，需要投掷到盐水桶里。浸泡超过72小时，直至完全放电后捞回电池做报废处理。
+
+④电池内部液体具有强腐蚀性，如接触漏液的电池需要佩戴橡胶手套或使用防火钳，以免灼伤人体皮肤，如果内部液体溅射到人体皮肤或眼睛，请立即用清水冲洗至少15分钟，并立即就医。
+
+*******
+6. 消防配置
+*******
+
+①消防物资：
+
+a.手提防爆箱
+
+b.防火钳
+
+c.盐水桶（盐水桶内盐和水的比例为5%）
+
+d.消防沙桶
+
+e.干粉/二氧化碳灭火器
+
+f.灭火毯
+
+g.隔热手套
+
+h.过滤式消防自救呼吸器
+
+②电池防爆柜（正常电池、危险电池、化学品需分柜存放，不得混放。）
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
