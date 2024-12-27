@@ -104,7 +104,7 @@ RoboMaster 2025机甲大师高校联盟赛完整形态考核须知
 
 2、步兵对抗赛：所有已通过赛季规划环节环节、且未参加3V3对抗赛完整形态考核的参赛队伍，若同时参加3V3对抗赛则无需另行提交
 
-3、工程挑战赛：所有已通过赛季规划环节环节的工程挑战赛参赛队伍
+3、工程挑战赛：所有已通过赛季规划环节的工程挑战赛参赛队伍
 
 4、RMUL 2025北美站的参赛队伍无须参与此次考核，后续将另行安排
 
@@ -211,4 +211,4 @@ b.（ 点击此处 ( https://rm-static.djicdn.com/documents/33592/3395cabe892e21
 
 邮箱： robomaster@dji.com
 
-Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ) ( http://beian.miit.gov.cn/ )��ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ).cn/ ) ( http://beian.miit.gov.cn/ )��ICP备2022092332号 ( http://beian.miit.gov.cn/ )
