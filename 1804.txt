@@ -1,0 +1,353 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师超级对抗赛赛季规划通过名单
+
+2024-12-27
+
+RoboMaster 2025机甲大师超级对抗赛赛季规划须知： https://www.robomaster.com/zh-CN/resource/pages/announcement/1787
+
++------+----------------------------------------------------+-----------------+------+
+| 序号 | 学校名称                                           | 队伍名称        | 评级 |
+|    1 | 安徽工程大学                                       | 安凤            | C    |
+|    2 | 安徽信息工程学院                                   | Artisans        | B    |
+|    3 | 北部湾大学                                         | 飞虎            | B    |
+|    4 | 北方工业大学                                       | DreamTeam       | B    |
+|    5 | 北京工业大学                                       | PIP             | A    |
+|    6 | 北京航空航天大学                                   | Transistor      | B    |
+|    7 | 北京交通大学                                       | BNGU            | B    |
+|    8 | 北京科技大学                                       | Reborn          | A    |
+|    9 | 北京理工大学                                       | 追梦            | B    |
+|   10 | 北京理工大学珠海学院                               | 毅恒            | B    |
+|   11 | 北京林业大学                                       | 森林狼          | B    |
+|   12 | 北京师范大学-香港浸会大学联合国际学院&香港浸会大学 | Navigator       | C    |
+|   13 | 北京信息科技大学                                   | 星辰            | B    |
+|   14 | 北京邮电大学                                       | 逐雁            | C    |
+|   15 | 常熟理工学院                                       | R&A             | B    |
+|   16 | 重庆大学                                           | 千里            | A    |
+|   17 | 重庆理工大学                                       | 士继DREAMER     | C    |
+|   18 | 重庆三峡学院                                       | LionHeart       | B    |
+|   19 | 常州大学                                           | Climber         | A    |
+|   20 | 常州工学院                                         | FA              | C    |
+|   21 | 成都大学                                           | Ultra           | B    |
+|   22 | 成都信息工程大学                                   | 风信子          | B    |
+|   23 | 大连理工大学                                       | 凌BUG           | B    |
+|   24 | 大连民族大学                                       | C·ONE           | B    |
+|   25 | 德州农工大学                                       | Texas Aimbots   | A    |
+|   26 | 电子科技大学成都学院                               | 微城市          | C    |
+|   27 | 电子科技大学中山学院                               | RoboBraver      | C    |
+|   28 | 东北大学                                           | TDT             | B    |
+|   29 | 东北大学秦皇岛分校                                 | 征龙凌沧        | B    |
+|   30 | 东北林业大学                                       | Ares            | B    |
+|   31 | 东莞理工学院                                       | ACE             | B    |
+|   32 | 东华大学                                           | DIODE           | B    |
+|   33 | 东南大学                                           | 3SE             | C    |
+|   34 | 佛山科学技术学院                                   | 醒狮            | B    |
+|   35 | 福建理工大学                                       | 苍侠            | B    |
+|   36 | 福建农林大学                                       | 零七一          | B    |
+|   37 | 福建师范大学                                       | Pikachu         | B    |
+|   38 | 关东联合大学                                       | OOEDO SAMURAI   | B    |
+|   39 | 广东工商职业技术大学                               | 科创者          | B    |
+|   40 | 广东工业大学                                       | DynamicX        | A    |
+|   41 | 广东交通职业技术学院                               | 擎天            | B    |
+|   42 | 广西大学                                           | ROBOTZ          | B    |
+|   43 | 广州城市理工学院                                   | 野狼            | B    |
+|   44 | 广州航海学院                                       | ICBK破冰船      | A    |
+|   45 | 广州南方学院&广州铁路职业技术学院                  | Destiny         | B    |
+|   46 | 贵阳人文科技学院                                   | BIU             | C    |
+|   47 | 桂林电子科技大学                                   | Evolution       | B    |
+|   48 | 桂林电子科技大学北海校区                           | 破浪笃行        | B    |
+|   49 | 桂林理工大学                                       | 群星            | B    |
+|   50 | 桂林信息科技学院                                   | GIRT            | B    |
+|   51 | 国防科技大学                                       | 军临            | A    |
+|   52 | 哈尔滨工程大学                                     | 创梦之翼        | B    |
+|   53 | 哈尔滨工业大学                                     | I Hiter         | C    |
+|   54 | 哈尔滨工业大学（深圳）                             | 南工骁鹰        | B    |
+|   55 | 哈尔滨工业大学（威海）                             | HERO            | B    |
+|   56 | 海南大学                                           | 南海鲨          | B    |
+|   57 | 杭州电子科技大学                                   | PHOENIX         | B    |
+|   58 | 合肥工业大学                                       | 苍穹            | B    |
+|   59 | 合肥工业大学(宣城校区)                             | WDR             | A    |
+|   60 | 河北工业大学                                       | 山海机甲        | B    |
+|   61 | 河北科技大学                                       | Actor&Thinker   | B    |
+|   62 | 河北师范大学                                       | 金钢            | B    |
+|   63 | 黑河学院                                           | LBT             | C    |
+|   64 | 湖北工业大学                                       | 力创RM          | A    |
+|   65 | 湖南大学                                           | 跃鹿            | C    |
+|   66 | 华北科技学院                                       | 风暴            | B    |
+|   67 | 华北理工大学                                       | Horizon         | B    |
+|   68 | 华东理工大学                                       | 起源            | B    |
+|   69 | 华南理工大学                                       | 华南虎          | B    |
+|   70 | 华南农业大学                                       | Taurus          | B    |
+|   71 | 华南师范大学                                       | PIONEER         | B    |
+|   72 | 华南师范大学（佛山校区）                           | VANGUARD        | B    |
+|   73 | 华中科技大学                                       | 狼牙            | B    |
+|   74 | 吉林大学                                           | TARS_Go         | A    |
+|   75 | 集美大学                                           | 科来            | B    |
+|   76 | 集美大学诚毅学院                                   | 潜渊            | B    |
+|   77 | 江南大学霞客湾校区                                 | SHARK           | B    |
+|   78 | 江苏大学                                           | Aurora          | B    |
+|   79 | 江苏开放大学                                       | 开拓者          | B    |
+|   80 | 江西理工大学                                       | 乘风            | B    |
+|   81 | 科罗拉多大学博尔德分校                             | CU Robotics     | C    |
+|   82 | 昆明理工大学津桥学院                               | Courage         | C    |
+|   83 | 辽宁科技大学                                       | COD             | B    |
+|   84 | 辽宁石油化工大学                                   | TCN             | B    |
+|   85 | 陆军勤务学院                                       | 陆擎            | C    |
+|   86 | 茅台学院                                           | MTI             | B    |
+|   87 | 闽江学院                                           | 赤源机甲        | B    |
+|   88 | 南昌大学                                           | Passion         | B    |
+|   89 | 南昌航空大学                                       | 洪鹰            | B    |
+|   90 | 南方科技大学                                       | ARTINX          | B    |
+|   91 | 南华大学                                           | MA              | B    |
+|   92 | 南京航空航天大学                                   | 长空御风        | B    |
+|   93 | 南京航空航天大学金城学院                           | Born of Fire    | B    |
+|   94 | 南京理工大学                                       | Alliance        | B    |
+|   95 | 南京理工大学江阴校区                               | Combat          | B    |
+|   96 | 南京邮电大学                                       | Potential       | C    |
+|   97 | 南通大学                                           | NSE             | B    |
+|   98 | 内蒙古科技大学                                     | 雷霆            | B    |
+|   99 | 宁波工程学院                                       | New Legends     | B    |
+|  100 | 诺丁汉大学&宁波诺丁汉大学&诺丁汉大学马来西亚分校   | AIM             | B    |
+|  101 | 齐鲁工业大学                                       | Adam            | B    |
+|  102 | 青岛大学                                           | 未来            | B    |
+|  103 | 青海大学                                           | 河湟谷人        | C    |
+|  104 | 厦门大学                                           | RCS             | B    |
+|  105 | 厦门大学嘉庚学院                                   | TCR             | B    |
+|  106 | 厦门理工学院                                       | PFA             | A    |
+|  107 | 山东科技大学                                       | SmartRobot      | B    |
+|  108 | 山东理工大学                                       | 齐奇            | B    |
+|  109 | 上海大学                                           | SRM             | B    |
+|  110 | 上海电力大学                                       | 灵晔            | B    |
+|  111 | 上海工程技术大学                                   | 木鸢Birdiebot   | B    |
+|  112 | 上海交通大学                                       | 交龙            | A    |
+|  113 | 上海科技大学                                       | Magician        | B    |
+|  114 | 深圳大学                                           | RobotPilots     | B    |
+|  115 | 深圳技术大学                                       | 悍匠            | B    |
+|  116 | 深圳信息职业技术学院                               | 撼龙            | C    |
+|  117 | 深圳职业技术大学                                   | RCIA            | B    |
+|  118 | 沈阳工业大学                                       | DTS             | B    |
+|  119 | 沈阳工业大学（辽阳分校）&沈阳化工大学              | 化梦工航        | B    |
+|  120 | 沈阳航空航天大学                                   | TUP             | B    |
+|  121 | 沈阳建筑大学                                       | 简锋            | B    |
+|  122 | 沈阳理工大学                                       | Ambition        | B    |
+|  123 | 首都师范大学                                       | PIE             | C    |
+|  124 | 四川大学                                           | 火锅            | B    |
+|  125 | 苏州大学应用技术学院                               | 苏鸾            | C    |
+|  126 | 太原工业学院                                       | 火线            | A    |
+|  127 | 太原科技大学                                       | NewMaker        | B    |
+|  128 | 太原理工大学                                       | TRoMaC          | B    |
+|  129 | 天津大学                                           | 北洋机甲        | B    |
+|  130 | 同济大学                                           | SuperPower      | A    |
+|  131 | 潍坊科技学院                                       | AIC             | B    |
+|  132 | 文华学院                                           | MSE STAR        | B    |
+|  133 | 五大湖联合大学                                     | The Great Lakes | B    |
+|  134 | 五邑大学                                           | IMCA            | B    |
+|  135 | 武汉工程大学                                       | Nautilus        | B    |
+|  136 | 武汉科技大学                                       | 崇实            | C    |
+|  137 | 武汉理工大学                                       | PRIME           | B    |
+|  138 | 西安电子科技大学                                   | IRobot          | A    |
+|  139 | 西安交通大学                                       | 笃行            | B    |
+|  140 | 西安理工大学                                       | NEXT E          | B    |
+|  141 | 西北工业大学                                       | WMJ             | B    |
+|  142 | 西北农林科技大学                                   | 猎隼            | C    |
+|  143 | 西交利物浦大学                                     | GMaster         | B    |
+|  144 | 西南交通大学                                       | Helios          | B    |
+|  145 | 西南民族大学                                       | 新竹            | B    |
+|  146 | 西南石油大学                                       | 铁人            | B    |
+|  147 | 香港大学                                           | HerKules        | B    |
+|  148 | 香港科技大学                                       | ENTERPRIZE      | B    |
+|  149 | 香港科技大学（广州）                               | PnX             | B    |
+|  150 | 香港中文大学(深圳)&深圳北理莫斯科大学              | Polar Dragon    | B    |
+|  151 | 湘潭大学                                           | 逐曦            | A    |
+|  152 | 新加坡国立大学                                     | Calibur         | B    |
+|  153 | 新疆工程学院                                       | 金胡杨          | C    |
+|  154 | 新泻联合大学                                       | Phoenix Robots  | B    |
+|  155 | 燕山大学                                           | 燕鹰            | A    |
+|  156 | 云南大学                                           | Future          | B    |
+|  157 | 长安大学                                           | VGD             | B    |
+|  158 | 长春工业大学                                       | 达摩克利斯      | C    |
+|  159 | 长沙理工大学                                       | 云嵌            | B    |
+|  160 | 浙江大学                                           | Hello World     | B    |
+|  161 | 浙江大学伊利诺伊大学厄巴纳香槟校区联合学院         | Meta            | B    |
+|  162 | 浙江纺织服装职业技术学院                           | RoboFuture      | B    |
+|  163 | 浙江理工大学                                       | 钱塘蛟          | A    |
+|  164 | 中北大学                                           |             606 | B    |
+|  165 | 中国科学技术大学                                   | RoboWalker      | B    |
+|  166 | 中国矿业大学                                       | CUBOT           | B    |
+|  167 | 中国民航大学&天津工业大学                          | Triple i        | B    |
+|  168 | 中国石油大学（北京）                               | SPR             | B    |
+|  169 | 中国石油大学（华东）                               | RPS             | A    |
+|  170 | 中南大学                                           | FYT             | B    |
+|  171 | 仲恺农业工程学院                                   | 奇点            | B    |
+|  172 | 珠海科技学院                                       | 征途            | B    |
+|  173 | 遵义师范学院                                       | 尊狮            | C    |
++------+----------------------------------------------------+-----------------+------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
