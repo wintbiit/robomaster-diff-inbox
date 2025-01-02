@@ -135,7 +135,7 @@ RoboMaster 2025机甲大师超级对抗赛赛季规划须知： https://www.robo
 |   31 | 东莞理工学院                                       | ACE             | B    |
 |   32 | 东华大学                                           | DIODE           | B    |
 |   33 | 东南大学                                           | 3SE             | C    |
-|   34 | 佛山科学技术学院                                   | 醒狮            | B    |
+|   34 | 佛山大学                                           | 醒狮            | B    |
 |   35 | 福建理工大学                                       | 苍侠            | B    |
 |   36 | 福建农林大学                                       | 零七一          | B    |
 |   37 | 福建师范大学                                       | Pikachu         | B    |
@@ -350,4 +350,4 @@ RoboMaster 2025机甲大师超级对抗赛赛季规划须知： https://www.robo
 
 邮箱： robomaster@dji.com
 
-Copyright © 2024 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )n/ )
