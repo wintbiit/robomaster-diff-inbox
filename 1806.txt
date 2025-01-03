@@ -1,0 +1,220 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师超级对抗赛中期进度考核须知（第一批）
+
+2025-01-03
+
+参与对象：
+
+1、所有已通过赛季规划且选择第一批次提交中期进度考核的参赛队伍
+
+2、已通过赛季规划且选择第二批次提交中期进度考核和港澳台及海外参赛队伍无须参与本次考核，后续将另行安排
+
+参与方式：以参赛队伍为单位，在 RoboMaster 论坛 ( https://bbs.robomaster.com/ ) 中完成撰写材料，通过队长账号登录 报名系统 ( https://registration.robomaster.com/registration-center ) 提交材料
+
+视频提交时间：2025年1月17日18:00—2025年1月20日18:00（北京时间）
+
+文档提交时间：2025年2月17日18:00—2025年2月23日18:00（北京时间）
+
+提交机会：各1次
+
+通过条件：
+
+1、项目文档评级在“C”及以上
+
+2、所有队伍按中期展示总得分进行排序。内地队伍中，排名前 110 的队伍可通过；港澳台及海外队伍中，同标准下的若干队伍可通过
+
+按 《 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1486 ) RoboMaster 2025机甲大师超级对抗赛参赛手册 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1768 ) 》中的中期进度考核评审要求，参考以下内容进行准备。
+
+1、中期展示：按 《RoboMaster 2025机甲大师高校系列赛技术评审进度考核细则》 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1772 ) 中的顺序，录制视频素材，展示每个兵种的实际完成情况请尽可能展示更多完成进度；为防止视频素材重复使用，导致展示进度与实际不符的问题，请各参赛队根据实际情况在拍摄过程中选择以下其中一种方式完成拍摄/提交证明材料。未按此要求拍摄的素材片段/提交证明材料，对应内容的得分至高仅可获得满分的50%。
+
+a.（ 点击此处 ( https://rm-static.djicdn.com/documents/68659/e9d03f546c4dd17359068411387996.png ) ）下载技术评审装甲图，打印并张贴到机器人装甲板或装甲板预留安装位置上。无须安装装甲板的机器人，如空中机器人等，请采用b方式拍摄视频
+
+b.（ 点击此处 ( https://rm-static.djicdn.com/documents/68659/e16a5ba9bf3661735906816707179821.png ) ）下载技术评审背景板，在视频拍摄过程中，使用A3纸打印、笔记本全屏或其他实物方式全程清晰展示技术评审背景板，禁止后期合成
+
+视频素材录制完成后，进入论坛-我的战队-创建内容-选择RMUC 2025中期进度考核模板创建文档，在每页中按标题插入对应的视频素材片段
+
+2、项目文档（模板后续更新）：根据评审要求，在 R ( https://bbs.robomaster.com/ ) oboMaster 论坛 ( https://bbs.robomaster.com/ ) 战队功能中创建内容模板，选择对应的模板进行撰写，多配图表、流程图，数据充分，重点突出，逻辑清晰
+
+提交要求：
+
+1、视频：清晰度高于 720P；配有字幕或提示板，解释视频中每一个过程；只展示有效内容，视频节奏紧凑，视频时长要求详见RMUC 2025中期进度考核模板；
+
+2、文档命名：RMUC2025+校名+队名+中期进度考核
+
+通过权限：
+
+1、可借用步兵、英雄、哨兵裁判系统各一套，同时参与RMUL3V3对抗赛的队伍不额外借用
+
+2、获得裁判系统测评（使用测评）的提交权限
+
+3、获得该环节对应的产品折扣，详情见《 RoboMaster 2025机甲大师超级对抗赛参赛手册 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1768 ) 》及《 RoboMaster 2025机甲大师高校系列赛物资购买说明 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1769 ) 》
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
