@@ -217,8 +217,7 @@ RoboMaster 2025机甲大师高校系列赛技术评审进度考核细则
 |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                  |  飞镖系统与目标需在一个画面内，全程展示秒表。                                                                                                                                                    |                      |           |      |
 |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                  | 在目标附近设置辅助机位，辅助机位能清晰拍摄目标被命中情况，最终按照统一时间线剪辑。                                                                                                               |                      |           |      |
 | 模拟击打基地：连续发射8枚飞镖攻击距离25米以外小装甲模块或尺寸相同的目标，统计命中率并展示相关证明材料                                                                                                                   | 准备阶段，在视频中展示现场搬运和部署飞镖系统的过程，调试时间不超过3分钟，展示与目标的距离的相关依据。                                                                                                                                            | 中期&完整                                                                                                                                                                                        | 选做                 |        16 |
-|                                                                                                                                                                                                                         |  全程展示秒表，视频不可加速。                                                                                                                                                                                                                    |                                                                                                                                                                                                  |                      |           |
-|                                                                                                                                                                                                                         | 在目标附近设置辅助机位，辅助机位能清晰拍摄目标被命中情况，最终按照统一时间线剪辑。                                                                                                                                                               |                                                                                                                                                                                                  |                      |           |
+|                                                                                                                                                                                                                         |  全程展示秒表，在目标附近设置辅助机位，辅助机位能清晰拍摄目标被命中情况，最终按照统一时间线剪辑。                                                                                                                                                |                                                                                                                                                                                                  |                      |           |
 | 展示机器人特色功能，每项功能2分，最多累计4分，包括但不限于：                                                                                                                                                            | 准备阶段，在视频中展示现场搬运和部署飞镖系统的过程，调试时间不超过3分钟，展示与目标的距离的相关依据。                                                                                                                                            | 中期&完整                                                                                                                                                                                        | 选做                 |         4 |
 |   1.模拟击打基地随机固定靶（连续发射8发）                                                                                                                                                                               |  全程展示秒表，在目标附近设置辅助机位，辅助机位能清晰拍摄目标被命中情况，最终按照统一时间线剪辑。                                                                                                                                                |                                                                                                                                                                                                  |                      |           |
 | 2.模拟击打基地随机移动靶（连续发射8发）                                                                                                                                                                                 |                                                                                                                                                                                                                                                  |                                                                                                                                                                                                  |                      |           |
@@ -309,6 +308,33 @@ RoboMaster 2025机甲大师高校系列赛技术评审进度考核细则
 ----
 
 * ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )ibili.com/20554233 )
 * ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
 * ( https://weibo.com/u/5139757331 )
 * 
