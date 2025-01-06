@@ -1,0 +1,296 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster Battery Safety Guidelines
+
+2025-01-06
+
+*********************
+1. Battery Categories
+*********************
+
+High-risk batteries
+
+l  Swollen batteries
+
+l  Batteries with a damaged/deformed casing.
+
+l  Disassembled batteries
+
+l  Bare soft-pack cells
+
+Safe batteries
+
+Batteries with clearly labeled capacity, voltage, manufacturer, etc. and free of characteristics of high risks
+
+******************
+2. Battery Storage
+******************
+
+1. High-risk batteries: Such batteries must be placed in explosion-proof cabinets or boxes when left unattended. It is prohibited to pile up high-risk batteries or store them with safe batteries in the same place.
+
+2. Safe batteries: During holidays, safe batteries must be placed in explosion-proof cabinets. It is prohibited to pile up the batteries or store them with high-risk batteries in the same place.
+
+3. Batteries with exposed positive and negative terminals and batteries with debugging cables: Such batteries must be stored in explosion-proof cabinets with appropriate insulation. It is prohibited to store the batteries with metal or other electrical conductors in the same place to avoid short circuits when these materials come into contact with the positive and negative terminals of the batteries.
+
+****************
+3. Battery Usage
+****************
+
+1. When the requirements for heat dissipation are met, charging the batteries in explosion-proof cabinets is a preferred choice. In case of battery charging in a work area, be sure to remove all flammable and explosive materials from the one-meter radius of the battery and battery charger. The charging area needs to be equipped with firefighting facilities. Human oversight is required throughout the charging process, and charging must be stopped before all personnel leave. If unattended charging is required (safe batteries only, such as batteries in products including remote controllers, hand-held devices, and action cameras), the batteries must be charged in explosion-proof cabinets, with the whole process monitored by security cameras.
+
+2. During holidays, high-capacity batteries (over 160Wh) should be discharged to below 30% capacity and stored for no more than one month. When this period expires, the batteries must be promptly recharged.
+
+3. Prohibition of battery disassembly: The battery cell may easily get punctured and thus cause fire when a battery is disassembled.
+
+4. Charging high-risk batteries is strictly prohibited.
+
+5. Exposing batteries to safety risks is strictly prohibited. Common risks include dropping, impact, crushing, immersion in water, corrosion, baking, exposure to the sun, overcharging, and over-discharging. These hazards may cause battery overheating and even fire and explosion in severe cases.
+
+6. It is prohibited to charge batteries using third-party charging devices. The chargers that come with the batteries must be used for charging. Before charging, be sure to remove all flammable and explosive materials near the battery and charger and ensure a well-ventilated environment at room temperature. If a third-party charger is required, the charging should be done inside an explosion-proof cabinet. Human oversight is required throughout the charging process, and charging must be stopped before all personnel leave.
+
+7. Batteries that have been submerged in water must be immediately disposed of.
+
+8. Connecting the positive and negative terminals of a battery using a wire or metal is strictly prohibited, as this may cause short circuits. In addition, connecting the terminals in reverse is also forbidden.
+
+9. When transporting batteries for testing in another place, they should be stored in a portable explosion-proof case equipped with cushioning that protects the batteries against internal impact and vibration during transportation. In addition, exposing batteries to high temperatures in a long time is strictly prohibited.
+
+*************************************
+4. Explosion-proof Cabinet Management
+*************************************
+
+1. Labels indicating the name and contact information of the person in charge, and items in the cabinet or battery types must be affixed to the cabinet.
+
+2. Piling up batteries is not allowed.
+
+3. High-risk batteries should be stored in a dedicated explosion-proof cabinet.
+
+4. The ventilation devices on both sides of the explosion-proof cabinets should be turned on, and the inside of the cabinets should be kept dry and well-ventilated. The ambient temperature should be maintained within a normal range, and the cabinets should be kept away from flammable and explosive materials. The explosion-proof cabinet doors should open smoothly and never be obstructed or blocked.
+
+5. The explosion-proof cabinets must be grounded or have an anti-static mat laid on the shelves.
+
+6. The explosion-proof cabinets must be inspected at regular intervals.
+
+*********************
+5. Emergency Response
+*********************
+
+l  How to put out a battery fire
+
+1. Use personal protective equipment.
+
+2. Cut off the power supply around the ignition source.
+
+3. Use sand or a fire extinguisher to extinguish the flames.
+
+4. Use fire tongs or gloves to place the extinguished battery in an explosion-proof box and then transfer it to a bucket of saltwater.
+
+5. Soak the battery for more than 72 hours until it is completely discharged, then remove, dry, and dispose of it.
+
+l  How to use a fire extinguisher
+
+1. Remove the lead seal.
+
+2. Pull the pin.
+
+3. Hold the nozzle.
+
+4. Aim at the base of the fire two meters away from flames.
+
+5. Squeeze the lever and sweep from side to side.
+
+l  In case of battery dropping, impact, crushing, immersion in water, corrosion, baking, exposure to the sun, overcharging, or over-discharging, check the battery for any damage first. Swollen, leaky, soaked, and deformed batteries are high-risk batteries. They pose safety risks such as overheating, fire, and explosion, and need to be immersed in a bucket of salt water for more than 72 hours until they are completely discharged. After that, they should be retrieved and disposed of.
+
+l  If liquid inside batteries is highly corrosive. Do not touch a leaky battery with bare hands; instead, wear rubber gloves or use fire tongs to pick up the battery to avoid skin burns. If the liquid spatters on your skin or eyes, immediately wash the affected area with running water for at least 15 minutes and see a doctor immediately.
+
+************************
+6. Fire Safety Equipment
+************************
+
+1. Firefighting supplies
+
+l  Portable explosion-proof case
+
+l  Fire tongs
+
+l  Bucket of saltwater (5% of salt)
+
+l  Fire bucket
+
+l  Dry powder/carbon dioxide fire extinguisher
+
+l  Fire blanket
+
+l  Firefighter gloves
+
+l  Filter self-rescuer respirator for fire safety
+
+2. Explosion-proof cabinet for batteries (normal batteries, risky batteries, and chemicals must be stored in separate cabinets, rather than all placed in the same cabinet.)
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
