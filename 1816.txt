@@ -1,0 +1,209 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师高校联盟赛参赛反馈须知
+
+2025-02-14
+
+参与对象：所有已通过 RMUL 完整形态考核环节的队伍
+
+参与方式：以参赛队伍为单位，提交问卷： https://djistore.wjx.cn/vm/Y1ESTXM.aspx
+
+截止时间：2025年2月17日18:00（北京时间）
+
+提交机会：1次
+
+提交须知：
+
+1、请在提交时间结束前提交本问卷，逾期未提交，则视为放弃高校联盟赛参赛资格
+
+2、选择站点时，3V3 对抗赛、步兵对抗赛及工程挑战赛视为一个整体；每支参赛队伍仅可参加一个站点
+
+3、在本环节中选择的站点为最终意向参赛站点，请务必认真填写。除因特殊原因导致组委会重新组织站点选择等情况外，提交后无法修改
+
+4、在此问卷中作出选择，并不代表参赛站点最终确定。如所选站点队伍总数超过最大容纳量，组委会将根据报名高校所在地区等信息进行协商调整，并于后续公布各站点最终参赛名单
+
+5、在本环节确认参赛后，若最终因特殊原因无法抵达现场完成参赛站点的比赛，请在参与站点的第一个报到日至少两周前联系组委会同步弃赛决定
+
+6、各站点比赛信息如下表，如举办信息发生变动，组委会将发布公告进行调整
+
++--------+----------+--------------------------------------+------------------+----------------------------------------------+
+| *站点* | 举办城市 |               举办场馆               |    *承办单位*    | *时间（含报到日，实际以各站点参赛手册为准）* |
++--------+----------+--------------------------------------+------------------+----------------------------------------------+
+| 山西站 | 太原市   | 太原理工大学迎西校区体育馆           | 太原理工大学     | 3月13日-3月16日                              |
+| 浙江站 | 金华市   | 浙江师范大学综合馆                   | 浙江师范大学     |
+| 广西站 | 桂林市   | 桂林信息科技学院行健楼（体育馆）     | 桂林信息科技学院 | 3月20日-3月23日                              |
+| 福建站 | 福州市   | 福建理工大学旗山校区南校区室内篮球场 | 福建理工大学     |
+| 山东站 | 济南市   | 齐鲁工业大学艺体中心体育馆           | 齐鲁工业大学     |
+| 辽宁站 | 沈阳市   | 东北大学刘长春体育馆                 | 东北大学         | 3月27日-3月30日                              |
+| 上海站 | 上海市   | 上海工程技术大学（松江校区）体育馆   | 上海工程技术大学 |
+| 西南站 | 重庆市   | 重庆大学虎溪校区体育中心             | 重庆大学         |
++--------+----------+--------------------------------------+------------------+----------------------------------------------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
