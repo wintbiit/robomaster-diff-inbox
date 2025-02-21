@@ -1,0 +1,204 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+关于电池购买和安全使用规范说明
+
+2025-02-21
+
+一、电池购买安全要求
+
+近期观察到参赛队在备赛使用电池的过程中存在安全隐患，根据此前发布的电池安全规范公告（ https://www.robomaster.com/zh-CN/resource/pages/announcement/1798 ），为保障人员安全及规范电池使用流程，使用电池的环境中必须配备消防设施。在研发备赛的任何时段，希望各参赛队员充分注意电池安全问题，防范于未“燃”。现更新以下电池购买要求：
+
+1、所有电池采购申请单位/个人须确保实验室已配备以下安全设施
+
+① 灭火器
+
+② 防爆型电池存储箱
+
+2、发送含有电池购买的物资出售清单至robomaster@ dji.com ( http://dji.com/ ) 审核时需将实验室的安全设施拍摄照片或视频作为邮件附件，照片或视频须含有证明拍摄地点材料，如门牌或战队标识等
+
+二、RoboMaster 新电池安全说明
+
+1、收到参赛队反馈的电池异常问题，存在电池开机瞬间进入短路保护状态的现象，组委会检测后判断原因是使用不规范导致触发了电池的保护机制，该异常问题的解决办法参见电池启动相关建议（ 点击下载 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/%E7%94%B5%E6%B1%A0%E5%90%AF%E5%8A%A8%E7%9B%B8%E5%85%B3%E5%BB%BA%E8%AE%AE.pdf ) ），后续将发布RoboMaster 新电池的说明书及使用规范
+
+PS：为确保电池使用安全，使用RoboMaster 新电池前自行确认是否存在上述场景，如存在请参考上方电池启动相关建议
+
+2、异常问题反馈渠道
+
+如因未作电池启动保护导致电池异常，请于2025年2月24日16:00前通过以下渠道进行反馈
+
+a、按格式发送邮件至robomaster.support@ dji.com ( http://dji.com/ ) 邮件标题：【RoboMaster 新电池】+学校名称
+
+b、邮件内容： ①联系信息（联系人、联系电话、联系地址）；②情况详细描述，包括使用环境（如串并联、负载情况等）、操作步骤、异常现象
+
+3、常规技术咨询渠道
+
+后续更新
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
