@@ -110,10 +110,9 @@ RMU 2025 Information Package
 | Intramural Challenges          | Click to download (                                                                                                                                                                  |
 |                                | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E3%80%90%E6%B1%87%E6%80%BB%E3%80%91%E6%A0%A1%E5%86%85%E8%B5%9B%E5%8E%86%E5%8F%B2%E8%B5%84%E6%96%99%E5%8C%85.7z |
 |                                | ) *The above content is temporarily only available in Chinese.                                                                                                                       |
-| Brand promotion materials      | Introduction to RMU 2025 (PPT)                                                                                                                                                       | To be updated                                                     |
-|                                |                                                                                                                                                                                      |                                                                   |
-| Promotion Materials Package    |
-| Sponsorship guide              | Sponsorship manual                                                                                                                                                                   |
+| Brand promotion materials      | Introduction to RMU 2025 (PPT)                                                                                                                                                       | https://pan-sec.djicorp.com/s/PMJ7iEGHFWpQ45J                     |
+| Promotion Materials Package    | https://pan-sec.djicorp.com/s/R9SN2qP2BPESado                                                                                                                                        |
+| Sponsorship guide              | Sponsorship manual                                                                                                                                                                   | To be updated                                                     |
 | Sponsorship guide              |
 | Event affairs                  | Announcement on the 24rd China                                                                                                                                                       | https://www.robomaster.com/zh-CN/resource/pages/announcement/1783 |
 |                                | University Robot Competition                                                                                                                                                         |                                                                   |
@@ -216,4 +215,4 @@ RMU 2025 Information Package
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )32号 ( http://beian.miit.gov.cn/ )
