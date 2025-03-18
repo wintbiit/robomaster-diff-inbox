@@ -1,0 +1,394 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Notice on RoboMaster 2025 University Championship Mid-term Progress Assessment (For international teams)
+
+2025-03-18
+
+*Eligible Participants:* All overseas and Hong Kong/Macau/Taiwan teams that have passed the 2025 season planning.
+
+*Submission Method:* Submit as a team via the questionnaire filled by the team captain: [ CLICK HERE ( https://djistore.wjx.cn/vm/w1EDRSc.aspx ) ].
+
+*Submission Period:* April 7, 2025, 18:00 – April 9, 2025, 18:00 (Beijing Time)
+
+*Submission Opportunity:* Only 1 submission attempt allowed.
+
+*Passing Criteria:*
+
+1、Project documentation must achieve a rating of "C" or higher.
+
+2、Overseas and Hong Kong/Macau/Taiwan teams will be evaluated under the same standards as mainland Chinese teams. A limited number of top-performing teams (based on total mid-term assessment scores) will pass.
+
+*Note:* Mid-term progress assessment requirements differ from the Participant Manual. *Refer to the Appendix of this announcement for official criteria.*
+
+*Assessment Content*
+
+(Requirements differ from the Participant Manual; the following prevails.)
+
+*1、Mid-term Progress Presentation*
+
+Record video materials following the order specified in RoboMaster 2025 University Series Technical Progress Assessment Criteria ( https://www.robomaster.com/en-US/resource/pages/announcement/1778 ) to showcase the actual progress of each robot type (e.g., Infantry, Hero, Sentry).
+
+*Scoring Note:* Completing functions beyond those listed in the guidelines will earn extra points. Maximize your demonstration of progress.
+
+*Anti-plagiarism measures:* To prevent reused video materials misrepresenting progress, teams must choose ONE of the following methods during filming:
+
+a. [ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E6%8A%80%E6%9C%AF%E8%AF%84%E5%AE%A1%E8%A3%85%E7%94%B2%E5%9B%BE-EN.pdf ) ] Download the armor diagram specialized for technical assessment, print and attach it to the robot’s armor plate or reserved installation position. Exception: Aerial robots without armor plates may adopt method b.
+
+b. [ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/%E6%8A%80%E6%9C%AF%E8%AF%84%E5%AE%A1%E8%83%8C%E6%99%AF%E6%9D%BF-EN.pdf ) ] Download the background board specialized for technical assessment, display it clearly throughout the video (via A3 print, full-screen laptop, or physical board). No post-production synthesis allowed.
+
+Refer to  the RMUC Mid-Term Progress Assessment Video Shooting Requirement ([ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/RMUC%20Mid-Term%20Progress%20Assessment%20Video%20Shooting%20Requirement.docx ) ]) to shoot the video sequences in the specified order. After recording all video materials, edit them into a complete video following the template sequence and submit the video link.
+
+*2、Data Report*
+
+Submit a Excel document using the Technical Assessment Data Report Template ([ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/Template%20%20%20Technical%20Assessment%20Data%20Report.xlsx ) ]).
+
+*3、Season Schedule Update*
+
+Submit an Excel document using the RoboMaster Series Season Planning Template ([ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/Template%20%20%20RMU%20Season%20Schedule%20Updated.xlsx ) ]).
+
+*4、Project Documents*
+
+Submit a PDF document using the RoboMaster 2025 University Championship Mid-term Progress Report Template ([ CLICK HERE ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/RMUC%20Mid-Term%20Progress%20Assessment%20Document.docx ) ]).
+
+*Document Requirements:*
+
+*1、PDF Format:*
+
+Body text: *Source Han Serif (Simplified Chinese) or Times New Roman (English), size 12.*
+
+Line spacing: *1.5x fixed.*
+
+Filename: *School Name + Team Name + Section Name.*
+
+*2、Excel Format:*
+
+Body text: *Source Han Serif (Simplified Chinese) or Times New Roman (English), size 11.*
+
+Enable automatic line breaks, row height/column width adjustment.Align text vertically centered; horizontal alignment left or centered unless specified.
+
+Filename: *RMUC 2025 + School Name + Team Name + Mid-term Assessment.*
+
+*3、Video Format:*
+
+Resolution: *>720p.*
+
+Include subtitles or captions explaining each process.
+
+Focus on concise, relevant content.
+
+*Benefits for Passing Teams:*
+
+1、Eligibility to borrow one set each of Infantry, Hero, and Sentry Referee Systems. Exception: Teams participating in RMUL 3V3 matches will not receive additional systems.
+
+2、Permission to participate in the Referee System Exam (usage).
+
+3、Access to discounted products as specified in the RoboMaster 2025 University Championship Participant Manual ( https://www.robomaster.com/en-US/resource/pages/announcement/1774 ) and Material Purchase Instructions ( https://www.robomaster.com/en-US/resource/pages/announcement/1775 ).
+
+Appendix 1: Mid-term progress assessment requirements
+
++-------------------------------+-------------------------------------------------------------------+--------------------------------+
+| *Content*                     | *Section*                                                         | *What Can Be Presented*        |
+| *Mid-Term Robot Presentation* | 1.Present the plan and progress on the development                |
+|                               | of each robot type using videos and other materials.              |
+|                               | For details, please refer to the “ RoboMaster 2025                |
+|                               | University Series Progress Assessment Criteria (                  |
+|                               | https://www.robomaster.com/en-US/resource/pages/announcement/1778 |
+|                               | ) ”. 2.The video clips to be submitted must contain the key       |
+|                               | visual of the 2025 season as the backdrop. Please stay tuned for  |
+|                               | the subsequent announcement about specific requirements.          |
+| *Project Documents*           | *Progress Report (updated)*                                       | 1.Update the progress on       |
+|                               |                                                                   | robot building, perform        |
+|                               |                                                                   | closed-loop acceptance checks  |
+|                               |                                                                   | at key stages in the Season    |
+|                               |                                                                   | Plan, analyze the reasons,     |
+|                               |                                                                   | and update the subsequent      |
+|                               |                                                                   | plan accordingly. 2.Prepare    |
+|                               |                                                                   | the schedule for other         |
+|                               |                                                                   | tasks (such as site set-up,    |
+|                               |                                                                   | tool debugging, etc.) to       |
+|                               |                                                                   | be completed. 3.Update the     |
+|                               |                                                                   | manpower distribution plan     |
+|                               |                                                                   | (the number of people and      |
+|                               |                                                                   | time to be allocated for each  |
+|                               |                                                                   | module).                       |
+| *Project Analysis*            | *   *1.Project Analysis*  *                                       |
+|                               | ①Conduct rule interpretation                                      |
+|                               | and operational requirements                                      |
+|                               | analysis for all robot types                                      |
+|                               | based on seasonal planning                                        |
+|                               | * ②Identify practical gaps                                        |
+|                               | against objectives and analyze                                    |
+|                               | root causes * ③Formulate                                          |
+|                               | adjustment plans for future                                       |
+|                               | stages  *   *2.Retrospective                                      |
+|                               | Analysis*  * ①Review seasonal                                     |
+|                               | planning implementation                                           |
+|                               | progress * ②Evaluate                                              |
+|                               | current resolution status                                         |
+|                               | of previously identified                                          |
+|                               | issues * ③Identify newly                                          |
+|                               | discovered issues at the                                          |
+|                               | current stage and explore                                         |
+|                               | persistent root causes                                            |
+|                               | * ④Develop and implement                                          |
+|                               | comprehensive solutions  *                                        |
+|                               |   *3.Regulatory Framework                                         |
+|                               | Analysis*  * ①Assess key                                          |
+|                               | regulatory system development                                     |
+|                               | priorities outlined in                                            |
+|                               | seasonal planning * ②Present                                      |
+|                               | current construction status                                       |
+|                               | of institutional frameworks                                       |
+|                               | * ③Analyze deviations from                                        |
+|                               | original plans and identify                                       |
+|                               | contributing factors                                              |
++-------------------------------+-------------------------------------------------------------------+--------------------------------+
+
+Appendix 1: Mid-term progress assessment: rating criteria
+
++--------------------------------+----------+
+| *Content*                      | *Rating* |
+| The Project Documents are      | S        |
+| written in accordance with     |          |
+| requirements and are complete  |          |
+| without any omissions          |          |
+| or missing information.        |          |
+| A thorough and accurate        |          |
+| analysis of the gaps between   |          |
+| the initial plan and actual    |          |
+| progress is provided, along    |          |
+| with in-depth root cause       |          |
+| analysis. In addition, the     |          |
+| plan is adjusted to fill the   |          |
+| gaps for future operations.    |          |
+| The updated plan is clear and  |          |
+| feasible. The analysis uses    |          |
+| innovative and sophisticated   |          |
+| methods and is highly          |          |
+| instructive for other teams.   |          |
+| The Project Documents are      | A        |
+| written in accordance with     |          |
+| requirements and are complete  |          |
+| without any omissions or       |          |
+| missing information. The       |          |
+| progress goes as planned.      |          |
+| A thorough and accurate        |          |
+| analysis of the gaps between   |          |
+| the initial plan and actual    |          |
+| progress is provided, along    |          |
+| with in-depth root cause       |          |
+| analysis. In addition, the     |          |
+| plan is adjusted to fill the   |          |
+| gaps for future operations,    |          |
+| and the updated plan is clear  |          |
+| and feasible.                  |          |
+| The Project Documents are      | B        |
+| written in accordance with     |          |
+| requirements and are complete  |          |
+| without any omissions or       |          |
+| missing information. The       |          |
+| progress basically goes with   |          |
+| the plan. A thorough and       |          |
+| accurate analysis of the       |          |
+| gaps between the initial plan  |          |
+| and actual progress, as well   |          |
+| as causes, is provided. In     |          |
+| addition, the plan is adjusted |          |
+| to fill the gaps for future    |          |
+| operations, and the updated    |          |
+| plan is basically feasible.    |          |
+| The Project Documents have     | C        |
+| minor omissions or deviations  |          |
+| from content requirements.     |          |
+| There are minor gaps between   |          |
+| the progress and the plan.     |          |
+| An analysis of the gaps        |          |
+| and causes is provided. In     |          |
+| addition, the plan is adjusted |          |
+| to fill the gaps for future    |          |
+| operations, but the updated    |          |
+| plan has a few feasibility     |          |
+| issues.                        |          |
+| The Project Documents          | D        |
+| have significant omissions     |          |
+| or deviations from             |          |
+| content requirements. The      |          |
+| project’s progress deviates    |          |
+| significantly from the initial |          |
+| plan, and no analysis of       |          |
+| the actual gaps and causes     |          |
+| is provided or the provided    |          |
+| analysis is inaccurate. In     |          |
+| addition, no adjustments to    |          |
+| fill the gaps are proposed for |          |
+| future operations.             |          |
++--------------------------------+----------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
