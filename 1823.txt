@@ -124,7 +124,7 @@ b.（ 点击此处 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e
 
 视频素材录制完成后，进入论坛-我的战队-创建内容-选择RMUC 2025完整形态考核模板（ 点击查看 ( https://bbs.robomaster.com/wiki/8497362 ) ）创建文档，在每页中按标题插入对应的视频素材片段
 
-数据记录表：参考《RoboMaster 2025机甲大师超级对抗赛技术评审数据记录表模板》（模板下载： 点击此处 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RMUC%202025%E6%8A%80%E6%9C%AF%E8%AF%84%E5%AE%A1%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95%E8%A1%A8(%E6%A8%A1%E6%9D%BF).xlsx ) ），提交Excel文档
+数据记录表：参考《RoboMaster 2025机甲大师超级对抗赛技术评审数据记录表模板》（模板下载： 点击此处 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RMUC%202025%E6%8A%80%E6%9C%AF%E8%AF%84%E5%AE%A1%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95%E8%A1%A8(%E6%A8%A1%E6%9D%BF)V2.0.xlsx ) ），提交Excel文档
 
 2、技术方案和项目文档：根据评审要求，在 R ( https://bbs.robomaster.com/ ) oboMaster 论坛 ( https://bbs.robomaster.com/ ) 战队功能中创建内容模板，选择对应的模板进行撰写，多配图表、流程图，数据充分，重点突出，逻辑清晰
 
