@@ -1,0 +1,244 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Notice on RoboMaster 2025 University Championship & University League Referee System Exam (Basics)
+
+2025-03-28
+
+*Participants:*
+
+1、RMUC: All teams that have passed the Season Planning. Mandatory for both Tier-1 and non-Tier-1 teams in Mainland China.
+
+2、RMUL: All teams that have passed the Season Planning.
+
+*Recommendations:*
+
+1、All team members should familiarise themselves with the referee system basics for future borrowing and operation.
+
+2、Only submissions from Team Captains, Vice Captains, or Project Managers will be considered valid.
+
+*Passing Requirements:*
+
+1、A perfect score (100/100) in one submission. Responses must include the participant’s name, and only those submitted by Captains/Vice Captains/Project Managers will count.
+
+2、RMUL: Each team must have at least one valid passing submission, regardless of the number of projects entered.
+
+3、RMUC: Each team must have at least one valid passing submission. Teams that pass the RMUL Referee System Exam (Basics) automatically qualify for this stage in RMUC.
+
+*Participation Method:*
+
+1、Team-based registration.
+
+2、Due to varying schedules across regions and event categories, assessments will be conducted via Wenjuanxing links at the following times:
+
++--------------------------------+--------------------------------+-----------------------------------------+
+|           *CATEGORY*           |      *ASSESSMENT WINDOW*       |           *WENJUANXING LINK*            |
+|                                |             (CST)              |                                         |
++--------------------------------+--------------------------------+-----------------------------------------+
+| *RMUL Mainland China Teams*    | 18:00, 10 Feb – 18:00, 12 Feb  | https://djistore.wjx.cn/vm/wWO7cqk.aspx |
+|                                |                           2025 |                                         |
+| *RMUL North America Teams*     | 18:00, 31 Mar – 18:00, 2 Apr   | https://djistore.wjx.cn/vm/Q9WR6T5.aspx |
+|                                |                           2025 |                                         |
+| *RMUC Mainland China Teams*    | 18:00, 17 Feb – 18:00, 23 Feb  | https://djistore.wjx.cn/vm/wWO7cqk.aspx |
+|                                |                           2025 |                                         |
+| *RMUC Hong Kong, Macau, Taiwan | 18:00, 31 Mar – 18:00, 2 Apr   | https://djistore.wjx.cn/vm/Q9WR6T5.aspx |
+| & Overseas Teams*              |                           2025 |                                         |
++--------------------------------+--------------------------------+-----------------------------------------+
+
+*Assessment Content:*
+
+1、 RoboMaster Referee System User Manual ( https://www.robomaster.com/en-US/products/components/referee )
+
+2、 Referee System Module Specifications (same as 2020 season) ( https://www.robomaster.com/en-US/products/components/referee )
+
+3、 FAQ ( https://www.robomaster.com/en-US/products/components/referee ) and Referee System acceptance guidelines（Follow-up updates）
+
+*Format:*
+
+1、25 randomly generated questions (4 points each, 100 total).
+
+2、Time limit: 60 minutes (max 3 minutes per question).
+
+*Attempts:*
+
+Unlimited retries within the assessment window. Passing on any attempt qualifies the team.
+
+*Privileges Upon Passing:*
+
+1、RMUL: Eligibility to submit competition feedback.
+
+2、RMUC:
+
+a.Teams in both RMUC & RMUL: Eligibility for the Referee System Exam (Usage).
+
+b.RMUC-only teams: Eligibility for Referee System Exam (Usage) + one set each of Hero, Infantry, and Sentry Referee System for borrowing.
+
+*(Note: All times are in China Standard Time [CST]. )*
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
