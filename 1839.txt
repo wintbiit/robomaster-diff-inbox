@@ -127,7 +127,7 @@ Notice on RoboMaster 2025 University Championship Mid-term Progress Assessment (
 * 家长
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生所处的学段：
 
@@ -137,14 +137,14 @@ No data
 * 大学
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生是否参加过RM比赛：
 
 * 是
 * 否
 
-No data
+无数据
 
 您的电话：
 
