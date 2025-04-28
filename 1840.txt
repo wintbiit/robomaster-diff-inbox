@@ -1,0 +1,202 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+高校合作赛
+
+* 
+Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+关于RoboMaster 2025机甲大师超级对抗赛弹丸管控的说明
+
+2025-04-28
+
+在 RMUC 2025机甲大师超级对抗赛所有比赛期间，如发现参赛队以不正当方式获取弹丸的情况，将严格按照赛事规则对违规队伍或人员进行处理，并公示。组委会也将对弹丸进行实时清点，若丢失率仍超赛事正常损耗，则后续赛事场次中，参赛队伍进入赛场后，赛场等候区将不提供弹丸，严格执行三分钟准备阶段弹丸预装流程。
+
+RMUC 2025弹丸管控要求如下：
+
+一、检录
+
+1.机器人前往检录区前需自行在供弹链路中预置适量弹丸用于配合赛事检录工作；
+
+2.完成检录后，英雄机器人需在检录区完全退弹，不允许预置弹丸；其他兵种 （使用17mm荧光弹丸）需在检录区退弹至仅剩链路中的弹丸；
+
+3.机器人检录通过至上场比赛的过程中，不允许再预置或清除弹丸。
+
+二、候场
+
+1.除机器人内预置的弹丸外，不允许参赛队携带比赛使用弹丸（42mm发光弹丸、17mm荧光弹丸）和非比赛使用弹丸（如42mm普通弹丸、弹丸类似物等）进入赛场，若携带需存放至候场-弹丸存放处，否则将全部视为组委会所有。
+
+三、退弹
+
+1.适应性训练日，各参赛队以队长为代表在退弹区阅读《弹丸管理知情承诺书》；
+
+2.请参赛队伍在前往检录前，自带大于链路数量的42mm普通弹丸，此弹丸用于在退弹区将42mm发光弹丸清空，届时存放在至候场-弹丸存放处，由工作人员送至退弹区，参赛队在退弹区取回；
+
+3.进入退弹区前，参赛队伍需自行检查并确保将（箱包、推车、身上）携带的比赛弹丸全部归还至弹丸回收桶；在后续退弹过程中，工作人员/志愿者将对参赛队伍所携带的物品（含背包、工具箱等）进行开包检查，参赛队伍需配合检查，如发现参赛人员违规携带官方弹丸离场，将根据 《 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2024/RoboMaster%202024%20%E6%9C%BA%E7%94%B2%E5%A4%A7%E5%B8%88%E8%B6%85%E7%BA%A7%E5%AF%B9%E6%8A%97%E8%B5%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%E6%89%8B%E5%86%8CV2.1%EF%BC%8820240722%EF%BC%89.pdf ) RoboMaster 2025机甲大师超级对抗赛比赛规则手册 V1.1.0 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RoboMaster%202025%20%E6%9C%BA%E7%94%B2%E5%A4%A7%E5%B8%88%E8%B6%85%E7%BA%A7%E5%AF%B9%E6%8A%97%E8%B5%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%E6%89%8B%E5%86%8CV1.1.0%EF%BC%8820241225%EF%BC%89.pdf ) 》 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RoboMaster%202025%20%E6%9C%BA%E7%94%B2%E5%A4%A7%E5%B8%88%E8%B6%85%E7%BA%A7%E5%AF%B9%E6%8A%97%E8%B5%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%E6%89%8B%E5%86%8CV1.1.0%EF%BC%8820241225%EF%BC%89.pdf ) 中 7.2.1.1 通用规范 第 R9 条进行判罚处理，最高取消违规人员的比赛资格；
+
+4.在退弹区，参赛队伍需配合工作人员/志愿者开展退弹工作，清空机器人弹仓内所有弹丸，方可离场；其中，英雄机器人需配合工作人员/志愿者使用自带的42mm普通弹丸将弹仓及链路内所有42mm发光弹丸退出，直至英雄机器人内42mm发光弹丸全部清空。如有机器人的弹丸未清空，则该机器人将扣留在退弹区。
+
+请各参赛队伍严格遵守赛事规定，互相监督，共同维护 RoboMaster 2025机甲大师超级对抗赛的公平竞赛环境，保障赛事顺利进行。
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
