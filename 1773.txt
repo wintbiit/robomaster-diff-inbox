@@ -599,7 +599,7 @@ III. If a non-representative team of the same school wants to participate in cer
 * 家长
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生所处的学段：
 
@@ -609,14 +609,14 @@ No data
 * 大学
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生是否参加过RM比赛：
 
 * 是
 * 否
 
-No data
+无数据
 
 您的电话：
 
@@ -658,4 +658,4 @@ No data
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ).cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

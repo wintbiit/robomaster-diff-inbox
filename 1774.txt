@@ -171,7 +171,7 @@ The revision log in each specification document only lists important updates. If
 |                                | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RoboMaster%20Referee%20System%20Serial%20Port%20Protocol%20V1.7.0%EF%BC%8820250106%EF%BC%89.pdf                         |                                                                                                                                                                                  |                                                                                                                                                                                     |
 |                                | )                                                                                                                                                                                     |                                                                                                                                                                                  |                                                                                                                                                                                     |
 | 1.8.0                          | RoboMaster Referee System Serial Port Protocol Appendix V1.8.0 (                                                                                                                      | Latest                                                                                                                                                                           | 2025.04.25                                                                                                                                                                          |
-|                                | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RoboMaster%20Referee%20System%20Serial%20Port%20Protocol%20V1.8.0%EF%BC%8820250423%EF%BC%89.pdf                         |                                                                                                                                                                                  |                                                                                                                                                                                     |
+|                                | https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM2025/RoboMaster%20Referee%20System%20Serial%20Port%20Protocol%20V1.8.0%EF%BC%8820250423%EF%BC%89.pdf                  |                                                                                                                                                                                  |                                                                                                                                                                                     |
 |                                | )                                                                                                                                                                                     |                                                                                                                                                                                  |                                                                                                                                                                                     |
 +--------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+--------------+
 
@@ -189,7 +189,7 @@ The revision log in each specification document only lists important updates. If
 * 家长
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生所处的学段：
 
@@ -199,14 +199,14 @@ No data
 * 大学
 * 其他
 
-No data
+无数据
 
 您/您的孩子/学生是否参加过RM比赛：
 
 * 是
 * 否
 
-No data
+无数据
 
 您的电话：
 
