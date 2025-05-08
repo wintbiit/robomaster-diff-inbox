@@ -22,12 +22,6 @@ logo ( /zh-CN )
 人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
 
 * 
-高校合作赛
-
-* 
-Sim2Real挑战赛 ( http://www.sim2real.net/track/track/?nav=RMUS2024&type=nav&t=1704350997972 )
-
-* 
 赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
 
 * 
@@ -818,4 +812,4 @@ Robot Function Display Criteria
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
