@@ -1,0 +1,246 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Notice on RMUC 2025 Final Robot Assessment (for international teams)
+
+2025-05-19
+
+<header> *Participants:* All participating teams from Hong Kong, Macao, Taiwan, and overseas that have passed the Mid-term Progress Assessment. Participation: Team leaders fill out and submit the questionnaire: https://djistore.wjx.cn/vm/rQwgBUP.aspx. </header>
+
+Submission Time: From 18:00 on May 31, 2025, to 18:00 on June 2, 2025 (Beijing Time).
+
+Submission Opportunities: 1 attempt.
+
+Passing Criteria: Teams will be ranked based on their scores in the Final Robot Display Assessment. The top 96 teams from mainland China can pass this section; under the same assessment criteria, a certain portion of teams from Hong Kong, Macao, Taiwan, and overseas can pass.
+
+Assessment Content:
+
+1.Final Robot Display
+
+2.Technical Proposal
+
+3.Project documentation (including Project Analysis, Cost Report, Expenditure Record, and Robot BOM Record)
+
+Note: The final robot assessment criteria differ from those in the participant manual, please adhere to this notice.
+
+*Final Robot Display:* Record videos following the sequence in the " RoboMaster 2025 University Series Technical Assessment Criteria ( https://www.robomaster.com/en-US/resource/pages/announcement/1778 )." to display the current completion status of each robot. You should demonstrate as much progress as possible. To prevent issues with reused video materials leading to discrepancies between displayed and actual progress, choose one of the following methods for shooting/submitting proof based on your actual situation. Footage/proof materials that do not meet these requirements will only score up to 50% of the full score for the corresponding content.
+
+a. ( Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/%E8%A3%85%E7%94%B2%E5%9B%BE.pdf ) ) Download the technical assessment armor diagram, print it, and affix it to the robot armor or the reserved installation position of the armor. For robots that do not need armors, like aerial robots, refer to method b.
+
+b. ( Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/%E8%83%8C%E6%99%AF%E6%9D%BF.pdf ) ) Download the technical assessment background board, print it on A3 paper, display it clearly throughout the video using a laptop fullscreen or other physical methods. Post-production synthesis is prohibited.
+
+Shoot videos sequentially according to the "RoboMaster 2025 University Series Technical Assessment Criteria." [ Click to view ( https://www.robomaster.com/en-US/resource/pages/announcement/1778 ) ], edit the recorded materials into a complete video according to the template sequence, and submit the video link.
+
+*Data Reprot:* Refer to the "RoboMaster 2025 Technical Assessment Data Report Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20RMU%202025%20Final%20Robot%20Assessment%20Data%20Report.xlsx ) ), submit the Excel document.
+
+*Technical Proposal:* Refer to the "RMUC 2025 Technical Proposal Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20%20RoboMaster%20Technical%20Proposal.docx ) ), submit a PDF document. Choose the most representative robot equipped with the most advanced technologies this season as an example for the report.
+
+*Project Documentation:*
+
+a. Project Analysis: Refer to the "RMUC 2025 Project Analysis Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20RoboMaster%20Final%20Robot%20Assessment%20Project%20Document.docx ) ), submit a PDF document.
+
+b. Cost Report: Refer to the "RMUC 2025 Cost Report Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20%20RoboMaster%20Cost%20Report.docx ) ), submit a PDF document.
+
+c. Expenditure Record: Refer to the "RMUC 2025 Expenditure Record Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20%20RoboMaster%20Expenditure%20Record.xlsx ) ), submit an Excel document.
+
+d. Robot BOM Record: Refer to the "RMUC 2025 Robot BOM Record Template" (Download Template: Click here ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/Template%20%20RoboMaster%20Robot%20BOM%20Record.xlsx ) ), submit an Excel document.
+
+*Document Requirements:*
+
+1.PDF Format Documents: Main text should be Source Han Serif font size 10.5pt for Chinese or Times New Roman font size 10.5pt for English; fixed 1.5 line spacing; document naming: School + Team Name + Section Name.
+
+2.Excel Format Documents: Main text should be Source Han Serif font size 11pt for Chinese or Times New Roman font size 11pt for English; set to auto-wrap, auto-adjust row height, and column width; maintain vertical center alignment for all text unless otherwise necessary, and align text uniformly either to the left or center horizontally; document naming: RMUC2025 + School Name + Team Name + FInal Robot Assessment.
+
+3.Video: Resolution higher than 720P; add subtitles or cue cards explaining each process in the video; the video should have a tight pace, with each robot's function display time not exceeding 10 minutes; upload the video to YouTube and optionally set a viewing password.
+
+*Permissions Granted:*
+
+1.Full access to the referee system and permission to submit competition feedback.
+
+2.Scores in Project Documentation and Technical Proposal from this section will affect the initial coin amount in each match during the regional competitions for the team.
+
++-----------------------------+--------------------------------+
+| PROJECT DOCUMENTATION SCORE | INFLUENCE ON THE INITIAL COIN  |
+|                             |             AMOUNT             |
++-----------------------------+--------------------------------+
+| S                           | +50                            |
+| A                           | +25                            |
+| B                           |                              0 |
+| C                           |                            -25 |
+| D                           |                            -50 |
++-----------------------------+--------------------------------+
+
++--------------------------+--------------------------------+
+| TECHNICAL PROPOSAL GRADE | INFLUENCE ON THE INITIAL COIN  |
+|                          |             AMOUNT             |
++--------------------------+--------------------------------+
+| S                        | +50                            |
+| A                        | +25                            |
+| B                        |                              0 |
+| C                        |                            -25 |
+| D                        |                            -50 |
++--------------------------+--------------------------------+
+
+</main>
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

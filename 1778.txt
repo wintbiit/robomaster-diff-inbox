@@ -92,380 +92,442 @@ RMU 2025 Progress Assessment Criteria
 
 2024-10-21
 
-- The Technical Assessment criteria consist of two parts: the robot building specifications display criteria and the robot function display criteria.
+The Technical Assessment Criteria consist of two parts: robot building specifications display criteria and robot feature display criteria.
 
-- The RMOC will first assess teams’ compliance with robot building specifications display criteria. If any mandatory item is not displayed in the video, that type of robot cannot get any points for the function display part.
+The RMOC will first assess teams’ compliance with robot building specifications display criteria. If any mandatory item is not displayed in the video, that type of robot cannot get any points for the feature display part.
 
-- The display of each function must be filmed in a single, continuous shot. The required dimensions must be shown in the video. (For example, when displaying simulated strikes of the Dart System on the Base, the video must show the measurement of the 25-meter distance.) Otherwise, points will be deducted accordingly.
+It is strictly prohibited to falsify data or engage in dishonest behavior, with the maximum penalty being disqualification.
 
-- If the function display video of a robot only meets part of the criteria or does not show the mandatory function(s), points will be deducted accordingly; for unique robot features implemented beyond the requirements, bonus points will be awarded.
+Regarding the robot feature display content, points will be deducted for any missing or inadequate functions, while additional points may be awarded for unique features beyond the requirements. If mandatory tasks for a robot type are missing, all optional tasks for that robot type will not receive points. It is allowed to film multiple robots under the same robot type, but each robot shown in the filming must complete the mandatory tasks; otherwise, the robot will not receive points. The final score for this robot type will be based on the overall performance of multiple robots.
 
-- Each robot type has its video data form, which the participating team must fill out truthfully. If the video content does not match the form, points will be deducted accordingly.
+Before formal filming begins, carefully read the display content requirements and special video display requirements. Strictly adhere to the dimensions and effects specified for display. Any omissions will result in point deductions based on the severity, with the maximum penalty being the deduction of all points for the task.
 
-- If the video does not show the mandatory item(s) of a robot applicable to its type, the robot will receive no points for all the optional items.
+In the RMUC Techniccal Assessment, after task completion, key data or processes should be displayed as subtitles in the video. Additionally, fill in the data and content required by the assessment template and complete the data report table. Participating teams must fill in truthfully. If there is a discrepancy between the data and the video content, points will be deducted or penalties imposed based on the severity.
 
-- For sped-up videos, the speed multiplier must be clearly indicated.
+It is recommended that participating teams ensure the robot's state closely resembles a combat-ready state, avoiding exposed or disorganized electrical components and cables.
 
-- For proof of hit rates, the video must show carbon paper marks or the difference in the target robot’s HP before and after the strike. Hit rate data must be displayed as subtitles in videos.
+For sped-up videos, the speed multiplier must be clearly indicated.
 
-- Videos displaying the robot’s automatic recognition capability and the Engineer’s ability to grab and exchange Ores cannot be sped up.
-
-Robot Building Specifications Display Criteria
-
-+--------------------------------+--------------------------------+--------------------------------+-----------+
-| Event                          | Robot Type                     | Item Displayed                 | Type      |
-| RMUC                           | Infantry/Sentry                | The mounting bracket for the   | Mandatory |
-|                                |                                | UWB Positioning Module and     |           |
-|                                |                                | deformation of the bracket     |           |
-|                                |                                | when a force of 40 N is        |           |
-|                                |                                | applied                        |           |
-| The mounting area of the       | Mandatory                      |
++--------------------------------+--------------------------------+--------------------------------+----------+
+| Robot Building Specifications  |
+| Display Criteria               |
+| Event                          | Robot Type                     | Display Content                | Type     |
+| RMUC                           | Infantry/Sentry                | The mounting bracket for the   | Required |
+|                                |                                | UWB Positioning Module and     |          |
+|                                |                                | deformation of the bracket     |          |
+|                                |                                | when a force of 40 N is        |          |
+|                                |                                | applied                        |          |
+| The mounting area of the       | Required                       |
 | Speed Monitor Module (mounted  |                                |
 | properly in accordance with    |                                |
 | the Specifications)            |                                |
-| The mounting location of       | Mandatory                      |
-| the fluorescent projectile     |                                |
+| The installation location      | Required                       |
+| of the fluorescent             |                                |
 | energy-charging device         |                                |
 | (mounted properly in           |                                |
 | accordance with the            |                                |
-| Specifications) and            |                                |
-| a self-test performed          |                                |
-| in compliance with the         |                                |
-| Specifications v.1.1           |                                |
-| The mounting area of the Light | Mandatory                      |
-| Indicator Module (mounted      |                                |
-| properly in accordance with    |                                |
-| the Specifications)            |                                |
-| The mounting of other Referee  | Mandatory                      |
-| System components or the       |                                |
-| mounting locations reserved    |                                |
-| for the Referee System         |                                |
-| Hero                           | The mounting bracket for the   | Mandatory                      |
+| Specifications) and self-test  |                                |
+| according to the Robot         |                                |
+| Building Specifications Manual |                                |
+| V1.1.0.                        |                                |
+| Light Indicator Module         | Required                       |
+| installation area (correctly   |                                |
+| installed according to the     |                                |
+| Specifications)                |                                |
+| The mounting of other Referee  | Required                       |
+| System modules or the mounting |                                |
+| locations reserved for the     |                                |
+| Referee System                 |                                |
+| Hero                           | The mounting bracket for the   | Required                       |
 |                                | UWB Positioning Module and     |                                |
 |                                | deformation of the bracket     |                                |
 |                                | when a force of 40 N is        |                                |
 |                                | applied                        |                                |
-| The mounting area of the       | Mandatory                      |
+| The mounting area of the       | Required                       |
 | Speed Monitor Module (mounted  |                                |
 | properly in accordance with    |                                |
 | the Specifications)            |                                |
-| The mounting area of the Light | Mandatory                      |
-| Indicator Module (mounted      |                                |
-| properly in accordance with    |                                |
-| the Specifications)            |                                |
-| The mounting of other Referee  | Mandatory                      |
-| System components or the       |                                |
-| mounting locations reserved    |                                |
-| for the Referee System         |                                |
-| Engineer                       | The mounting bracket for the   | Mandatory                      |
+| Light Indicator Module         | Required                       |
+| installation area (correctly   |                                |
+| installed according to the     |                                |
+| Specifications)                |                                |
+| The mounting of other Referee  | Required                       |
+| System modules or the mounting |                                |
+| locations reserved for the     |                                |
+| Referee System                 |                                |
+| Engineer                       | The mounting bracket for the   | Required                       |
 |                                | UWB Positioning Module and     |                                |
 |                                | deformation of the bracket     |                                |
 |                                | when a force of 40 N is        |                                |
 |                                | applied                        |                                |
-| The mounting area of the Light | Mandatory                      |
-| Indicator Module (mounted      |                                |
-| properly in accordance with    |                                |
-| the Specifications)            |                                |
-| The mounting of other Referee  | Mandatory                      |
-| System components or the       |                                |
-| mounting locations reserved    |                                |
-| for the Referee System         |                                |
-| Drone                          | The mounting bracket for the   | Mandatory                      |
+| Light Indicator Module         | Required                       |
+| installation area (correctly   |                                |
+| installed according to the     |                                |
+| Specifications)                |                                |
+| The mounting of other Referee  | Required                       |
+| System modules or the mounting |                                |
+| locations reserved for the     |                                |
+| Referee System                 |                                |
+| Drone                          | The mounting bracket for the   | Required                       |
 |                                | UWB Positioning Module and     |                                |
 |                                | deformation of the bracket     |                                |
 |                                | when a force of 40 N is        |                                |
 |                                | applied                        |                                |
-| The mounting area of the       | Mandatory                      |
+| The mounting area of the       | Required                       |
 | Speed Monitor Module (mounted  |                                |
 | properly in accordance with    |                                |
 | the Specifications)            |                                |
-| The mounting location of       | Mandatory                      |
-| the fluorescent projectile     |                                |
-| energy-charging device         |                                |
-| (mounted properly in           |                                |
-| accordance with the            |                                |
+| The installation location      | Required                       |
+| of the fluorescent             |                                |
+| projectile energy-charging     |                                |
+| device (mounted properly       |                                |
+| in accordance with the         |                                |
 | Specifications) and a          |                                |
 | self-test performed as         |                                |
 | required                       |                                |
-| The mounting of other Referee  | Mandatory                      |
-| System components or the       |                                |
-| mounting locations reserved    |                                |
-| for the Referee System         |                                |
-| Dart System                    | The mounting of (or the        | Mandatory                      |
-|                                | mounting locations reserved    |                                |
-|                                | for) the Referee System        |                                |
-| The orthographic projection    | Mandatory                      |
+| The mounting of other Referee  | Required                       |
+| System modules or the mounting |                                |
+| locations reserved for the     |                                |
+| Referee System                 |                                |
+| Dart System                    | Installation or reserved       | Required                       |
+|                                | location for the Referee       |                                |
+|                                | system.                        |                                |
+| The orthographic projection    | Required                       |
 | of the Dart Launcher and       |                                |
 | the Darts to be launched on    |                                |
 | the ground shall not extend    |                                |
 | beyond the outermost edges of  |                                |
 | the bottom frame of the Dart   |                                |
 | System.                        |                                |
-| RMUL 3V3 Match                 | Infantry/Hero/Sentry           | The mounting area of the       | Mandatory |
-|                                |                                | Speed Monitor Module (mounted  |           |
-|                                |                                | properly in accordance with    |           |
-|                                |                                | the Specifications)            |           |
-| The mounting area of the Light | Mandatory                      |
-| Indicator Module (mounted      |                                |
-| properly in accordance with    |                                |
-| the Specifications)            |                                |
-| The mounting of other Referee  | Mandatory                      |
-| System components or the       |                                |
-| mounting locations reserved    |                                |
-| for the Referee System         |                                |
-| RMUL Infantry Match            | Infantry                       | The mounting of (or the        | Mandatory |
-|                                |                                | mounting locations reserved    |           |
-|                                |                                | for) the Referee System        |           |
-| The mounting area of the Light | Mandatory                      |
-| Indicator Module (mounted      |                                |
-| properly in accordance with    |                                |
-| the Specifications)            |                                |
-| The mounting area of the       | Mandatory                      |
+| RMUL 3V3 Match                 | Infantry/Hero/Sentry           | The installation area of the   | Required |
+|                                |                                | Speed Monitor Module (mounted  |          |
+|                                |                                | properly in accordance with    |          |
+|                                |                                | the Specifications)            |          |
+| Light Indicator Module         | Required                       |
+| installation area (correctly   |                                |
+| installed according to the     |                                |
+| Specifications)                |                                |
+| The mounting of other Referee  | Required                       |
+| System modules or the mounting |                                |
+| locations reserved for the     |                                |
+| Referee System                 |                                |
+| RMUL Infantry Match            | Infantry                       | The mounting of (or the        | Required |
+|                                |                                | mounting locations reserved    |          |
+|                                |                                | for) the Referee System        |          |
+| Light Indicator Module         | Required                       |
+| installation area (correctly   |                                |
+| installed according to the     |                                |
+| Specifications)                |                                |
+| The installation area of the   | Required                       |
 | Speed Monitor Module (mounted  |                                |
 | properly in accordance with    |                                |
 | the Specifications)            |                                |
-| RMUL Engineer Challenge        | Engineer                       | The mounting of (or the        | Mandatory |
-|                                |                                | mounting locations reserved    |           |
-|                                |                                | for) the Referee System        |           |
-+--------------------------------+--------------------------------+--------------------------------+-----------+
+| RMUL Engineer Challenge        | Engineer                       | Installation or reserved       | Required |
+|                                |                                | location for the Referee       |          |
+|                                |                                | system.                        |          |
++--------------------------------+--------------------------------+--------------------------------+----------+
 
 Robot Function Display Criteria
 
-+--------------------------------+--------------------------------+--------------------------------+--------------------------------+--------------------------------+-----------+--------+
-| Event                          | Robot Type                     | Item Displayed                 | Special Requirements for Video | Requirements in Each Phase     | Type      | Points |
-|                                |                                |                                | Display                        |                                |           |        |
-| RMUC                           | Full roster display            | All robots built by the        |                                | Mid-Term & Final Robot         | Mandatory | -      |
-|                                |                                | participating team on the full |                                | Assessment                     |           |        |
-|                                |                                | roster are shown together;     |                                |                                |           |        |
-|                                |                                | robots can be powered on       |                                |                                |           |        |
-|                                |                                | simultaneously or one after    |                                |                                |           |        |
-|                                |                                | another                        |                                |                                |           |        |
-| Infantry                       | Define a square track          | Start the video by presenting  | Mid-Term Robot Assessment:     | Mandatory                      |        30 |
-|                                | with inner dimensions of 5     | the robot’s hardware topology  | 1 Infantry  Final Robot        |                                |           |
-|                                | meters by 5 meters and outer   | and confirming that its        | Assessment: 2 Infantries       |                                |           |
-|                                | dimensions of 7 meters by      | cabling complies with the      |                                |                                |           |
-|                                | 7 meters. At the beginning,    | Robot Building Specifications. |                                |                                |           |
-|                                | the robot is stationary at     | This process can be sped up,   |                                |                                |           |
-|                                | a random point on the track.   | but no editing is allowed.     |                                |                                |           |
-|                                | Then it moves at a constant    | The participating team         |                                |                                |           |
-|                                | maximum speed until it has     | must clearly mark the track    |                                |                                |           |
-|                                | completed one full lap. The    | boundaries on the ground and   |                                |                                |           |
-|                                | chassis power is limited to    | demonstrate the dimensions.    |                                |                                |           |
-|                                | 60 W during the process. (If   | After the robot starts moving, |                                |                                |           |
-|                                | the robot is equipped with a   | a stopwatch must be displayed  |                                |                                |           |
-|                                | Supercapacitor Module, a full  | throughout the process to      |                                |                                |           |
-|                                | charge of supercapacitors at   | show the video is not sped     |                                |                                |           |
-|                                | the beginning is allowed.)     | up. Conclude the video with a  |                                |                                |           |
-|                                |                                | truthful record of the robot’s |                                |                                |           |
-|                                |                                | power consumption during the   |                                |                                |           |
-|                                |                                | process.                       |                                |                                |           |
-| The robot(s) automatically     | Display proof of the           | Mid-Term Robot Assessment:     | Mandatory                      |                             30 |
-| recognize and follow a Small   | robot-target distance. The     | 1 Infantry  Final Robot        |                                |                                |
-| Armor Module or a similarly    | shooter and the target must be | Assessment: 2 Infantries       |                                |                                |
-| sized target that is 5         | visible within the same frame. |                                |                                |                                |
-| meters away and rotates at     |  A stopwatch must be displayed |                                |                                |                                |
-| a speed of greater than 0.4    | throughout the process to show |                                |                                |                                |
-| r/s, and launch 50 rounds of   | the video is not sped up.      |                                |                                |                                |
-| projectiles continuously to    |                                |                                |                                |                                |
-| strike the target. Calculate   |                                |                                |                                |                                |
-| the hit rate and provide       |                                |                                |                                |                                |
-| relevant evidence.             |                                |                                |                                |                                |
-| The robot(s) smoothly cross a  | Display proof of a 17° slope   | Mid-Term Robot Assessment:     | Optional                       |                             10 |
-| Launch Ramp for 3 consecutive  | that is 350 mm in height and a | 1 Infantry  Final Robot        |                                |                                |
-| times.                         | landing point further than 650 | Assessment: 2 Infantries       |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+--------------------------------+--------------------------------+-----------+-------+
+| Event                          | Robot Type                     | Display Content                | Special Requirements for Video | Requirements in Each Phase     | Type      | Score |
+|                                |                                |                                | Display                        |                                |           |       |
+| RMUC                           | Full Roster Display            | All robots built by the        |                                | Mid-Term & Final Robot         | Required  | \     |
+|                                |                                | participating team should      |                                | Assessment                     |           |       |
+|                                |                                | be shown on full roster;       |                                |                                |           |       |
+|                                |                                | robots can be powered on       |                                |                                |           |       |
+|                                |                                | simultaneously or one after    |                                |                                |           |       |
+|                                |                                | another                        |                                |                                |           |       |
+| Infantry                       | Define a square track          | Special video shooting         | Mid-term: One infantry robot   | Required                       |        30 |
+|                                | with inner dimensions of 5     | requirements: Before the       |  Final: Two infantry robots    |                                |           |
+|                                | meters by 5 meters and outer   | feature display begins, use    |                                |                                |           |
+|                                | dimensions of 7 meters by 7    | methods such as displaying the |                                |                                |           |
+|                                | meters. At the beginning, the  | robot's hardware topology to   |                                |                                |           |
+|                                | robot should stand still at    | prove that the wiring complies |                                |                                |           |
+|                                | a random point on the track.   | with robot manufacturing       |                                |                                |           |
+|                                | Then it moves at a constant    | standards and verify the       |                                |                                |           |
+|                                | maximum speed (as high as      | accuracy of the power          |                                |                                |           |
+|                                | possible without exceeding     | recording method. This process |                                |                                |           |
+|                                | power limits) until it has     | can be accelerated but not     |                                |                                |           |
+|                                | completed one full lap and     | edited. The participating team |                                |                                |           |
+|                                | finally stops. The chassis     | must clearly mark the track    |                                |                                |           |
+|                                | power should be limited to     | boundaries on the ground and   |                                |                                |           |
+|                                | 60 W during the process. (If   | demonstrate the dimensions.    |                                |                                |           |
+|                                | the robot is equipped with a   | Display the power curve graph  |                                |                                |           |
+|                                | Supercapacitor Module, a full  | in real-time.  After the robot |                                |                                |           |
+|                                | charge of supercapacitors at   | starts moving, a stopwatch     |                                |                                |           |
+|                                | the beginning is allowed.)     | must be displayed throughout   |                                |                                |           |
+|                                |                                | the process to show the video  |                                |                                |           |
+|                                |                                | is not sped up. At the end of  |                                |                                |           |
+|                                |                                | the video, truthfully capture  |                                |                                |           |
+|                                |                                | or extract the power recording |                                |                                |           |
+|                                |                                | results during the robot's     |                                |                                |           |
+|                                |                                | operation, and show the time   |                                |                                |           |
+|                                |                                | taken from the start to the    |                                |                                |           |
+|                                |                                | complete stop of the robot.    |                                |                                |           |
+| The robot automatically        | Before the feature display     | Mid-term: One infantry robot   | Required                       |                             30 |
+| recognizes and follows a       | begins, show proof of the      |  Final: Two infantry robots    |                                |                                |
+| small armor module rotating    | distance between the robot     |                                |                                |                                |
+| at a speed greater than        | and the target, explain that   |                                |                                |                                |
+| 0.4 r/s at a distance of 5     | the target's rotating speed    |                                |                                |                                |
+| meters, continuously launch    | meets the requirements,        |                                |                                |                                |
+| 50 projectiles to strike the   | display and prove that the     |                                |                                |                                |
+| small armor module. Calculate  | robot has emptied the magazine |                                |                                |                                |
+| the hit rate, and display the  | of projectiles, count 50       |                                |                                |                                |
+| difference in health or carbon | projectiles, and load them.    |                                |                                |                                |
+| paper marks before and after   | The shooter and the target     |                                |                                |                                |
+| the target as proof. During    | must be visible within         |                                |                                |                                |
+| the process, the robot can     | the same frame.  Display       |                                |                                |                                |
+| move but must not be touched   | a stopwatch throughout the     |                                |                                |                                |
+| or interfered with before the  | process, and the video cannot  |                                |                                |                                |
+| project is completed.          | be sped up. Use the difference |                                |                                |                                |
+|                                | in health or carbon paper      |                                |                                |                                |
+|                                | marks before and after the     |                                |                                |                                |
+|                                | target as proof of hits.       |                                |                                |                                |
+| Pass smoothly through the      | Display proof of a 17° slope   | Mid-term: One infantry robot   | Optional                       |                             10 |
+| launch ramp 3 consecutive      | that is 350 mm in height and a |  Final: Two infantry robots    |                                |                                |
+| times                          | landing point further than 650 |                                |                                |                                |
 |                                | mm from the top of the slope.  |                                |                                |                                |
-| The robot(s) climb 200 mm-high | Display proof of the 200 mm    | Mid-Term Robot Assessment:     | Optional                       |                             10 |
-| steps for 3 consecutive times. | step height.                   | 1 Infantry  Final Robot        |                                |                                |
-|                                |                                | Assessment: 2 Infantries       |                                |                                |
-| The robot(s) pass through a    | Display proof of the 550       | Mid-Term Robot Assessment:     | Optional                       |                             10 |
-| channel of 550 mm in width     | mm channel width and 450 mm    | 1 Infantry  Final Robot        |                                |                                |
-| and 450 mm in height for 3     | channel height.                | Assessment: 2 Infantries       |                                |                                |
-| consecutive times              |                                |                                |                                |                                |
+|                                | The video cannot be edited.    |                                |                                |                                |
+| Climb a 200 mm-high step for 3 | Display proof of the 200 mm    | Mid-term: One infantry robot   | Optional                       |                             10 |
+| consecutive times.             | step height, with no editing.  |  Final: Two infantry robots    |                                |                                |
+| The robot passes through a     | Display proof of the channel   | Mid-term: One infantry robot   | Optional                       |                             10 |
+| channel of 550 mm in width     | width of 550 mm and height of  |  Final: Two infantry robots    |                                |                                |
+| and 450 mm in height for 3     | 450 mm, with no editing.       |                                |                                |                                |
+| consecutive times.             |                                |                                |                                |                                |
 | Display the robot's unique     | Relevant dimensions of the     | Mid-Term & Final Robot         | Optional                       |                             10 |
-| features. Each feature is      | field must be demonstrated     | Assessment                     |                                |                                |
-| worth 2 points and a maximum   | before the display of each     |                                |                                |                                |
+| features. Each feature is      | site must be demonstrated      | Assessment                     |                                |                                |
+| worth 2 points, and a maximum  | before the display of each     |                                |                                |                                |
 | of 10 points can be awarded    | unique feature. Each feature   |                                |                                |                                |
 | in total. For example:         | must be performed for at least |                                |                                |                                |
-| 1. Simulate activating a       | 3 consecutive times.           |                                |                                |                                |
-| Small/Large Power Rune: The    |                                |                                |                                |                                |
-| robot strikes a rotating       |                                |                                |                                |                                |
-| Small/Large Power Rune.        |                                |                                |                                |                                |
-| Calculate the number of        |                                |                                |                                |                                |
-| hits on the Power Rune Armor   |                                |                                |                                |                                |
-| Module.  2. Display how the    |                                |                                |                                |                                |
-| robot moves spontaneously      |                                |                                |                                |                                |
+|  1. Simulate activating        | 3 consecutive times.           |                                |                                |                                |
+| Small/Large Power Rune: Hit    |                                |                                |                                |                                |
+| the rotating Small/Large Power |                                |                                |                                |                                |
+| Rune with projectiles and      |                                |                                |                                |                                |
+| count the number of hits on    |                                |                                |                                |                                |
+| the Power Rune Armor Module    |                                |                                |                                |                                |
+| each time.  Display how the    |                                |                                |                                |                                |
+| robot moves autonomously       |                                |                                |                                |                                |
 | to the actual location         |                                |                                |                                |                                |
 | corresponding to a marked      |                                |                                |                                |                                |
 | site on the generated map.     |                                |                                |                                |                                |
-|  3. Display how the robot      |                                |                                |                                |                                |
-| performs self-rescue after it  |                                |                                |                                |                                |
-| overturns.                     |                                |                                |                                |                                |
+| The robot self-recovers after  |                                |                                |                                |                                |
+| overturning.                   |                                |                                |                                |                                |
 |                                |                                |                                |                                |                                |           |
-| Hero                           | Define a square track          | Start the video by presenting  | Mid-Term & Final Robot         | Mandatory                      |        30 |
-|                                | with inner dimensions of 5     | the robot’s hardware topology  | Assessment                     |                                |           |
-|                                | meters by 5 meters and outer   | and confirming that its        |                                |                                |           |
-|                                | dimensions of 7 meters by      | cabling complies with the      |                                |                                |           |
-|                                | 7 meters. At the beginning,    | Robot Building Specifications. |                                |                                |           |
-|                                | the robot is stationary at     | This process can be sped up,   |                                |                                |           |
-|                                | a random point on the track.   | but no editing is allowed.     |                                |                                |           |
-|                                | Then it moves at a constant    | The participating team         |                                |                                |           |
-|                                | maximum speed until it has     | must clearly mark the track    |                                |                                |           |
-|                                | completed one full lap. The    | boundaries on the ground and   |                                |                                |           |
-|                                | chassis power is limited to    | demonstrate the dimensions.    |                                |                                |           |
-|                                | 70 W during the process. (If   | After the robot starts moving, |                                |                                |           |
-|                                | the robot is equipped with a   | a stopwatch must be displayed  |                                |                                |           |
-|                                | Supercapacitor Module, a full  | throughout the process to      |                                |                                |           |
-|                                | charge of supercapacitors at   | show the video is not sped     |                                |                                |           |
-|                                | the beginning is allowed.)     | up. Conclude the video with a  |                                |                                |           |
-|                                |                                | truthful record of the robot’s |                                |                                |           |
-|                                |                                | power consumption during the   |                                |                                |           |
-|                                |                                | process.                       |                                |                                |           |
-| The robot(s) automatically     | Display proof of the           | Mid-Term & Final Robot         | Mandatory                      |                             30 |
-| recognize and follow a Small   | robot-target distance. The     | Assessment                     |                                |                                |
-| Armor Module or a similarly    | shooter and the target must be |                                |                                |                                |
-| sized target that is 5         | visible within the same frame. |                                |                                |                                |
-| meters away and rotates at     |  A stopwatch must be displayed |                                |                                |                                |
-| a speed of greater than 0.4    | throughout the process to show |                                |                                |                                |
-| r/s, and launch 20 rounds of   | the video is not sped up.      |                                |                                |                                |
-| projectiles continuously to    |                                |                                |                                |                                |
-| strike the target. Calculate   |                                |                                |                                |                                |
-| the hit rate and provide       |                                |                                |                                |                                |
-| relevant evidence.             |                                |                                |                                |                                |
-| Simulate striking a Base at    | Display proof of the 20-meter  | Mid-Term & Final Robot         | Optional                       |                             30 |
-| a distance:  1. The robot is   | distance from the target and   | Assessment                     |                                |                                |
-| stationary at the beginning.   | the 2-meter movement.  The     |                                |                                |                                |
-|  2. After the display starts,  | shooter and the target must be |                                |                                |                                |
-| the robot first moves more     | visible within the same frame. |                                |                                |                                |
-| than 2 meters in a direction,  |  Set up another camera near    |                                |                                |                                |
-| and then fires 10 rounds       | the target to clearly capture  |                                |                                |                                |
-| of projectiles to strike       | the moment of hit. Edit the    |                                |                                |                                |
-| a Large Armor Module (or a     | video in a chronological       |                                |                                |                                |
-| similarly sized target) 20     | order.                         |                                |                                |                                |
-| meters away while keeping its  |                                |                                |                                |                                |
-| chassis stationary.  3. The    |                                |                                |                                |                                |
-| robot repeats the action in    |                                |                                |                                |                                |
-| step 2 three times. During     |                                |                                |                                |                                |
-| the process, the robot moves   |                                |                                |                                |                                |
-| before launching projectiles,  |                                |                                |                                |                                |
-| while maintaining a distance   |                                |                                |                                |                                |
-| of more than 20 meters from    |                                |                                |                                |                                |
-| the target.  4. The robot’s    |                                |                                |                                |                                |
-| chassis must stop at three     |                                |                                |                                |                                |
-| different positions. A total   |                                |                                |                                |                                |
-| of 30 rounds of projectiles    |                                |                                |                                |                                |
-| shall be fired. Calculate the  |                                |                                |                                |                                |
-| hit rate.                      |                                |                                |                                |                                |
+| Hero                           | Define a square track          | Before the feature display     | Mid-Term & Final Robot         | Required                       |        30 |
+|                                | with inner dimensions of 5     | begins, use methods such       | Assessment                     |                                |           |
+|                                | meters by 5 meters and outer   | as displaying the robot's      |                                |                                |           |
+|                                | dimensions of 7 meters by 7    | hardware topology to prove     |                                |                                |           |
+|                                | meters. At the beginning, the  | that the wiring complies with  |                                |                                |           |
+|                                | robot should stand still at    | robot manufacturing standards  |                                |                                |           |
+|                                | a random point on the track.   | and verify the accuracy of the |                                |                                |           |
+|                                | Then it moves at a constant    | power recording method. This   |                                |                                |           |
+|                                | maximum speed (as high as      | process can be accelerated but |                                |                                |           |
+|                                | possible without exceeding     | not edited. The participating  |                                |                                |           |
+|                                | power limits) until it has     | team must clearly mark the     |                                |                                |           |
+|                                | completed one full lap and     | track boundaries on the        |                                |                                |           |
+|                                | finally stops. The chassis     | ground and demonstrate the     |                                |                                |           |
+|                                | power should be limited to     | dimensions. Display the power  |                                |                                |           |
+|                                | 70 W during the process. (If   | curve graph in real-time.      |                                |                                |           |
+|                                | the robot is equipped with a   | After the robot starts moving, |                                |                                |           |
+|                                | Supercapacitor Module, a full  | a stopwatch must be displayed  |                                |                                |           |
+|                                | charge of supercapacitors at   | throughout the process to      |                                |                                |           |
+|                                | the beginning is allowed.)     | show the video is not sped     |                                |                                |           |
+|                                |                                | up. At the end of the video,   |                                |                                |           |
+|                                |                                | truthfully capture or extract  |                                |                                |           |
+|                                |                                | the power recording results    |                                |                                |           |
+|                                |                                | during the robot's operation,  |                                |                                |           |
+|                                |                                | and show the time taken from   |                                |                                |           |
+|                                |                                | the start to the complete stop |                                |                                |           |
+|                                |                                | of the robot.                  |                                |                                |           |
+| The robot autonomously         | Before the feature display     | Mid-Term & Final Robot         | Required                       |                             30 |
+| recognizes and follows a       | begins, display proof of the   | Assessment                     |                                |                                |
+| Small Armor Module that is     | distance between the robots    |                                |                                |                                |
+| 5 meters away and rotates at   | and the target, explain that   |                                |                                |                                |
+| a speed of greater than 0.4    | the target's rotating speed    |                                |                                |                                |
+| r/s, and launch 20 rounds of   | meets the requirements, and    |                                |                                |                                |
+| projectiles continuously to    | demonstrate and prove that     |                                |                                |                                |
+| strike the target. Calculate   | the robots have emptied the    |                                |                                |                                |
+| the hit rate and provide       | magazine of projectiles,       |                                |                                |                                |
+| relevant evidence. During the  | counted 20 rounds, and loaded  |                                |                                |                                |
+| process, the robot can move    | them. The shooter and the      |                                |                                |                                |
+| but must not be touched or     | target must be visible within  |                                |                                |                                |
+| interfered with before the     | the same frame.  Display       |                                |                                |                                |
+| project is completed.          | a stopwatch throughout the     |                                |                                |                                |
+|                                | process, and the video cannot  |                                |                                |                                |
+|                                | be sped up. Use the difference |                                |                                |                                |
+|                                | in health or carbon paper      |                                |                                |                                |
+|                                | marks before and after the     |                                |                                |                                |
+|                                | target as proof of hits. (You  |                                |                                |                                |
+|                                | can choose to launch multiple  |                                |                                |                                |
+|                                | rounds, resetting the target's |                                |                                |                                |
+|                                | health after each round, and   |                                |                                |                                |
+|                                | take the sum of hits.)         |                                |                                |                                |
+| Simulate long-distance strikes | Before the feature display     | Mid-Term & Final Robot         | Optional                       |                             30 |
+| on the Base:  1. At the        | begins, display proof of       | Assessment                     |                                |                                |
+| start, the robot is placed     | the 20-meter distance from     |                                |                                |                                |
+| stationary.  2. In the formal  | the target and the 2-meter     |                                |                                |                                |
+| stage, the robot first moves   | movement.  The shooter and     |                                |                                |                                |
+| a distance of more than 2      | the target must be visible     |                                |                                |                                |
+| meters, then keeps the chassis | within the same frame.  After  |                                |                                |                                |
+| stationary and launches 10     | the task ends, display proof   |                                |                                |                                |
+| rounds of projectiles to       | of hits. The form of hit rate  |                                |                                |                                |
+| strike a Large Armor Module or | evidence can be chosen from    |                                |                                |                                |
+| a similarly sized target more  | one of the following three:    |                                |                                |                                |
+| than 20 meters away. Note that | 1. Difference in target health |                                |                                |                                |
+| the target's placement angle   | before and after (can be       |                                |                                |                                |
+| and relative ground height     | divided into multiple rounds   |                                |                                |                                |
+| should refer to the Base top   | of launch, resetting target    |                                |                                |                                |
+| armor settings in the rule     | health after each round).  2.  |                                |                                |                                |
+| manual.  3. The robot repeats  | Cover the target with carbon   |                                |                                |                                |
+| the action in step 2 three     | paper and observe the marks    |                                |                                |                                |
+| times. During the process, the | on the carbon paper.  3. Clear |                                |                                |                                |
+| robot moves before launching   | screenshots of the projectile  |                                |                                |                                |
+| projectiles, while maintaining | hitting the target taken from  |                                |                                |                                |
+| a distance of more than 20     | a close-up auxiliary camera    |                                |                                |                                |
+| meters from the target.  4.    | position (one screenshot per   |                                |                                |                                |
+| The robot’s chassis must stop  | hit).                          |                                |                                |                                |
+| at three different positions.  |                                |                                |                                |                                |
+| A total of 30 rounds of        |                                |                                |                                |                                |
+| projectiles shall be fired.    |                                |                                |                                |                                |
+| Calculate the hit rate.        |                                |                                |                                |                                |
 | Display the robot's unique     | Relevant dimensions of the     | Mid-Term & Final Robot         | Optional                       |                             10 |
-| features. Each feature is      | field must be demonstrated     | Assessment                     |                                |                                |
-| worth 2 points and a maximum   | before the display of each     |                                |                                |                                |
+| features. Each feature is      | site must be demonstrated      | Assessment                     |                                |                                |
+| worth 2 points, and a maximum  | before the display of each     |                                |                                |                                |
 | of 10 points can be awarded    | unique feature. Each feature   |                                |                                |                                |
 | in total. For example:  1.     | must be performed for at least |                                |                                |                                |
-| Display how the robot smoothly | 3 consecutive times.           |                                |                                |                                |
-| cross a Launch Ramp.  2.       |                                |                                |                                |                                |
-| Display how the robot climbs   |                                |                                |                                |                                |
-| 200 mm-high steps.  3. Display |                                |                                |                                |                                |
-| how the robot pass through     |                                |                                |                                |                                |
-| a channel of 550 mm in width   |                                |                                |                                |                                |
-| and 450 mm in height.  4.      |                                |                                |                                |                                |
+| Smoothly pass over the launch  | 3 consecutive times.           |                                |                                |                                |
+| ramp.  2. Ascend a step with   |                                |                                |                                |                                |
+| a height difference of 150     |                                |                                |                                |                                |
+| mm.  3. Display how the robot  |                                |                                |                                |                                |
+| passes through a channel of    |                                |                                |                                |                                |
+| 550 mm in width and 450 mm     |                                |                                |                                |                                |
+| in height.  4. Display how     |                                |                                |                                |                                |
+| the robot moves autonomously   |                                |                                |                                |                                |
+| to the actual location         |                                |                                |                                |                                |
+| corresponding to a marked      |                                |                                |                                |                                |
+| site on the generated map.  5. |                                |                                |                                |                                |
+| Self-recovery after the robot  |                                |                                |                                |                                |
+| tips over.                     |                                |                                |                                |                                |
+|                                | <s>　</s>                      | <s>　</s>                      | <s>　</s>                      | <s>　</s>                      | <s>　</s> |
+| Engineer                       | Simulate grabbing and          | Before the feature display     | Mid-Term & Final Robot         | Required                       |        60 |
+|                                | exchanging Ores: Initially,    | begins, display the size       | Assessment                     |                                |           |
+|                                | the robot is placed more       | of the corresponding Small     |                                |                                |           |
+|                                | than 2 meters away from the    | Resource Island and Ores,      |                                |                                |           |
+|                                | Resource Island. No part of    | proving they match the         |                                |                                |           |
+|                                | the robot's projection should  | dimensions in the rule manual. |                                |                                |           |
+|                                | cross the 2-meter line. After  | Display and label the size and |                                |                                |           |
+|                                | moving, grab the Ores from     | pose of the Ore Receptacle,    |                                |                                |           |
+|                                | the Ore Receptacle (inside     | indicating it matches the Ore  |                                |                                |           |
+|                                | the Small Resource Island) and | Receptacle poses specified     |                                |                                |           |
+|                                | exchange them at a location 2  | in Appendix Table 1: Ore       |                                |                                |           |
+|                                | meters away in a straight line | Receptacle's Poses. Specify    |                                |                                |           |
+|                                | from the slot. Display the     | the location of the Ore        |                                |                                |           |
+|                                | highest achievable exchange    | barcode and place it according |                                |                                |           |
+|                                | difficulty level, using the    | to the rules. During exchange, |                                |                                |           |
+|                                | Ore Receptacle poses specified | the barcode must face the      |                                |                                |           |
+|                                | in Appendix Table 1: Ore       | sensing position of the Ore    |                                |                                |           |
+|                                | Receptacle's Poses. At least   | Receptacle.  Throughout the    |                                |                                |           |
+|                                | two Ores must be exchanged     | feature display, display       |                                |                                |           |
+|                                | during the process (exchange   | a stopwatch. After timing      |                                |                                |           |
+|                                | time is not limited), with     | starts, the robot begins to    |                                |                                |           |
+|                                | the same difficulty for        | move. The stopwatch cannot     |                                |                                |           |
+|                                | both exchanges. The Ore        | be paused in the middle. Mark  |                                |                                |           |
+|                                | Receptacle's location and      | the time for each complete     |                                |                                |           |
+|                                | pose for the two Ores must be  | Ore extraction, the time for   |                                |                                |           |
+|                                | different.                     | completing the Ore exchange,   |                                |                                |           |
+|                                |                                | and the total completion time. |                                |                                |           |
+|                                |                                | The video cannot be sped up or |                                |                                |           |
+|                                |                                | edited.                        |                                |                                |           |
+| Complete grabbing of Ores from | Before the feature display     | Mid-Term & Final Robot         | Optional                       |                             30 |
+| the Large Resource Island:     | begins, display the size       | Assessment                     |                                |                                |
+| Refer to the Rules Manual for  | of the corresponding Large     |                                |                                |                                |
+| the placement of Ores on the   | Resource Island and Ores,      |                                |                                |                                |
+| Large Resource Island, placing | proving they match the         |                                |                                |                                |
+| 3 Ores in different locations. | dimensions in the rule manual. |                                |                                |                                |
+| In the initial state, the      |  Throughout the demonstration, |                                |                                |                                |
+| robot is placed at a location  | display a stopwatch. The       |                                |                                |                                |
+| more than two meters away from | stopwatch cannot be paused in  |                                |                                |                                |
+| the Resource Island, and no    | the middle. Mark the time for  |                                |                                |                                |
+| part of the robot's projection | each complete Ore extraction   |                                |                                |                                |
+| can cross the 2-meter line.    | and the total completion time. |                                |                                |                                |
+| After extracting the Ores, the | The video cannot be sped up or |                                |                                |                                |
+| robot places or transports the | edited.                        |                                |                                |                                |
+| Ores to a location beyond the  |                                |                                |                                |                                |
+| 2-meter line.                  |                                |                                |                                |                                |
+| Display the robot's unique     | Relevant dimensions of the     | Mid-Term & Final Robot         | Optional                       |                             10 |
+| features. Each feature is      | site must be demonstrated      | Assessment                     |                                |                                |
+| worth 2 points, and a maximum  | before the display of each     |                                |                                |                                |
+| of 10 points can be awarded    | unique feature. Each feature   |                                |                                |                                |
+| in total. For example:         | must be performed for at least |                                |                                |                                |
+| 1. Automatic Ore exchange      | 3 consecutive times.           |                                |                                |                                |
 | Display how the robot moves    |                                |                                |                                |                                |
-| spontaneously to the actual    |                                |                                |                                |                                |
+| autonomously to the actual     |                                |                                |                                |                                |
 | location corresponding to a    |                                |                                |                                |                                |
 | marked site on the generated   |                                |                                |                                |                                |
-| map.  5. Display how the robot |                                |                                |                                |                                |
-| performs self-rescue after     |                                |                                |                                |                                |
-| it overturns to regain its     |                                |                                |                                |                                |
-| balance                        |                                |                                |                                |                                |
+| map.  The robot self-recovers  |                                |                                |                                |                                |
+| after overturning.  4. Rescue  |                                |                                |                                |                                |
+| other robots after they        |                                |                                |                                |                                |
+| overturn                       |                                |                                |                                |                                |
 |                                |                                |                                |                                |                                |           |
-| Engineer                       | Simulate Ore grabbing and      | Display a stopwatch throughout | Mid-Term & Final Robot         | Mandatory                      |        60 |
-|                                | exchange: Engineer grabs Ores  | the process. Indicate the      | Assessment                     |                                |           |
-|                                | in the Slot (in the Small      | start time, completion time,   |                                |                                |           |
-|                                | Resource Island) and then      | and total duration of each     |                                |                                |           |
-|                                | exchanges them at a location   | exchange. The video must not   |                                |                                |           |
-|                                | 2 meters away from the Slot in | be sped up.                    |                                |                                |           |
-|                                | a straight line. Display the   |                                |                                |                                |           |
-|                                | highest achievable exchange    |                                |                                |                                |           |
-|                                | difficulty level using the     |                                |                                |                                |           |
-|                                | officially designated Ore      |                                |                                |                                |           |
-|                                | Receptacle pose for each       |                                |                                |                                |           |
-|                                | difficulty level. The robot    |                                |                                |                                |           |
-|                                | shall exchange at least        |                                |                                |                                |           |
-|                                | two Ores (no time limit) in    |                                |                                |                                |           |
-|                                | different Slots and when the   |                                |                                |                                |           |
-|                                | Ore Receptacle is at different |                                |                                |                                |           |
-|                                | poses.                         |                                |                                |                                |           |
-| Engineer fully grabs an Ore    | Display a stopwatch throughout | Mid-Term & Final Robot         | Optional                       |                             30 |
-| in the Large Resource Island   | the process. Indicate the time | Assessment                     |                                |                                |
-| (for location layout, see the  | when each Ore is grabbed, and  |                                |                                |                                |
-| description of Large Resource  | the start time, completion     |                                |                                |                                |
-| Island Ores in the Rules       | time, and total duration of    |                                |                                |                                |
-| Manual). Repeat this process 3 | the entire process. The video  |                                |                                |                                |
-| times, and the 3 Ores shall be | must not be sped up.           |                                |                                |                                |
-| placed in different locations. |                                |                                |                                |                                |
-| Display the robot's unique     | Relevant dimensions of the     | Mid-Term & Final Robot         | Optional                       |                             10 |
-| features. Each feature is      | field must be demonstrated     | Assessment                     |                                |                                |
-| worth 2 points and a maximum   | before the display of each     |                                |                                |                                |
-| of 10 points can be awarded    | unique feature. Each feature   |                                |                                |                                |
-| in total. For example:  1.     | must be performed for at least |                                |                                |                                |
-| Display automatic Ore exchange | 3 consecutive times.           |                                |                                |                                |
-|  2. Display how the robot      |                                |                                |                                |                                |
-| moves spontaneously to the     |                                |                                |                                |                                |
-| actual location corresponding  |                                |                                |                                |                                |
-| to a marked site on the        |                                |                                |                                |                                |
-| generated map.  3. Display how |                                |                                |                                |                                |
-| the robot performs self-rescue |                                |                                |                                |                                |
-| after it overturns.  4.        |                                |                                |                                |                                |
-| Display how the robot can      |                                |                                |                                |                                |
-| rescue another robot that      |                                |                                |                                |                                |
-| overturns.                     |                                |                                |                                |                                |
-|                                |                                |                                |                                |                                |           |
-| Sentry                         | Define a square track          | Start the video by presenting  | Mid-Term & Final Robot         | Mandatory                      |        10 |
-|                                | with inner dimensions of 5     | the robot’s hardware topology  | Assessment                     |                                |           |
-|                                | meters by 5 meters and outer   | and confirming that its        |                                |                                |           |
-|                                | dimensions of 7 meters by      | cabling complies with the      |                                |                                |           |
-|                                | 7 meters. At the beginning,    | Robot Building Specifications. |                                |                                |           |
-|                                | the robot is stationary at     | This process can be sped up,   |                                |                                |           |
-|                                | a random point on the track.   | but no editing is allowed.     |                                |                                |           |
-|                                | Then it moves at a constant    | The participating team         |                                |                                |           |
-|                                | maximum speed until it has     | must clearly mark the track    |                                |                                |           |
-|                                | completed one full lap. The    | boundaries on the ground and   |                                |                                |           |
-|                                | chassis power is limited to    | demonstrate the dimensions.    |                                |                                |           |
-|                                | 100 W during the process. (If  | After the robot starts moving, |                                |                                |           |
-|                                | the robot is equipped with a   | a stopwatch must be displayed  |                                |                                |           |
-|                                | Supercapacitor Module, a full  | throughout the process to      |                                |                                |           |
-|                                | charge of supercapacitors      | show the video is not sped     |                                |                                |           |
-|                                | at the beginning is allowed.   | up. Conclude the video with a  |                                |                                |           |
-|                                | Besides, the robot can be      | truthful record of the robot’s |                                |                                |           |
-|                                | controlled manually.)          | power consumption during the   |                                |                                |           |
-|                                |                                | process.                       |                                |                                |           |
-| Sentry automatically           | Display proof of the           | Mid-Term & Final Robot         | Mandatory                      |                             15 |
-| recognizes and follows a Small | robot-target distance. The     | Assessment                     |                                |                                |
-| Armor Module or a similarly    | shooter and the target must be |                                |                                |                                |
-| sized target that is 3 meters  | visible within the same frame. |                                |                                |                                |
-| away and rotates at a speed    |  A stopwatch must be displayed |                                |                                |                                |
-| of greater than 0.4 r/s (a     | throughout the process to show |                                |                                |                                |
-| stopwatch must be displayed    | the video is not sped up.      |                                |                                |                                |
-| throughout the process, and    |                                |                                |                                |                                |
-| the video in PowerPoint must   |                                |                                |                                |                                |
-| not be sped up), and launches  |                                |                                |                                |                                |
-| 50 rounds of projectiles       |                                |                                |                                |                                |
-| continuously to strike the     |                                |                                |                                |                                |
-| target. Calculate the hit      |                                |                                |                                |                                |
-| rate, and display how well     |                                |                                |                                |                                |
-| the visualization program for  |                                |                                |                                |                                |
-| Small Armor Module recognition |                                |                                |                                |                                |
-| works (see Figure 1 at the end |                                |                                |                                |                                |
-| of the article).               |                                |                                |                                |                                |
+| Sentry                         | Define a square track          | Special video shooting         | Mid-Term & Final Robot         | Required                       |        10 |
+|                                | with inner dimensions of 5     | requirements: Before the       | Assessment                     |                                |           |
+|                                | meters by 5 meters and outer   | feature display begins, use    |                                |                                |           |
+|                                | dimensions of 7 meters by 7    | methods such as displaying the |                                |                                |           |
+|                                | meters. At the beginning, the  | robot's hardware topology to   |                                |                                |           |
+|                                | robot should stand still at    | prove that the wiring complies |                                |                                |           |
+|                                | a random point on the track.   | with robot manufacturing       |                                |                                |           |
+|                                | Then it moves at a constant    | standards and verify the       |                                |                                |           |
+|                                | maximum speed (as high as      | accuracy of the power          |                                |                                |           |
+|                                | possible without exceeding     | recording method. This process |                                |                                |           |
+|                                | power limits) until it has     | can be accelerated but not     |                                |                                |           |
+|                                | completed one full lap and     | edited. The participating team |                                |                                |           |
+|                                | finally stops. The chassis     | must clearly mark the track    |                                |                                |           |
+|                                | power should be limited to     | boundaries on the ground and   |                                |                                |           |
+|                                | 100 W during the process. (If  | demonstrate the dimensions.    |                                |                                |           |
+|                                | the robot is equipped with a   | Display the power curve graph  |                                |                                |           |
+|                                | Supercapacitor Module, a full  | in real-time.  After the robot |                                |                                |           |
+|                                | charge of supercapacitors at   | starts moving, a stopwatch     |                                |                                |           |
+|                                | the beginning is allowed.)     | must be displayed throughout   |                                |                                |           |
+|                                |                                | the process to show the video  |                                |                                |           |
+|                                |                                | is not sped up. At the end of  |                                |                                |           |
+|                                |                                | the video, truthfully capture  |                                |                                |           |
+|                                |                                | or extract the power recording |                                |                                |           |
+|                                |                                | results during the robot's     |                                |                                |           |
+|                                |                                | operation, and show the time   |                                |                                |           |
+|                                |                                | taken from the start to the    |                                |                                |           |
+|                                |                                | complete stop of the robot.    |                                |                                |           |
+| The robot automatically        | Before the feature display     | Mid-Term & Final Robot         | Required                       |                             15 |
+| recognizes and follows a       | begins, show proof of the      | Assessment                     |                                |                                |
+| small armor module rotating    | distance between the robot     |                                |                                |                                |
+| at a speed greater than        | and the target, explain that   |                                |                                |                                |
+| 0.4 r/s at a distance of 3     | the target's rotating speed    |                                |                                |                                |
+| meters (display a stopwatch    | meets the requirements,        |                                |                                |                                |
+| throughout, video cannot       | display and prove that the     |                                |                                |                                |
+| be sped up). The robor         | robot has emptied the magazine |                                |                                |                                |
+| continuously launches 50       | of projectiles, count 50       |                                |                                |                                |
+| projectiles to strike the      | projectiles, and load them.    |                                |                                |                                |
+| small armor module. Calculate  | The shooter and the target     |                                |                                |                                |
+| and display the hit rate.      | must be visible within         |                                |                                |                                |
+| Display the visualization      | the same frame.  Display       |                                |                                |                                |
+| program's operation effect     | a stopwatch throughout the     |                                |                                |                                |
+| for recognizing the small      | process, and the video cannot  |                                |                                |                                |
+| armor module (refer to Figure  | be sped up. Use the difference |                                |                                |                                |
+| 1 at the end of the text).     | in health or carbon paper      |                                |                                |                                |
+| The robot can be moved during  | marks before and after the     |                                |                                |                                |
+| the process, but it cannot     | target as proof of hits.       |                                |                                |                                |
+| be touched or interfered with  |                                |                                |                                |                                |
+| before completion.             |                                |                                |                                |                                |
 | Display the automatic          |                                | Mid-Term & Final Robot         | Optional                       |                             10 |
 | movement, positioning,         |                                | Assessment                     |                                |                                |
 | obstacle avoidance, and path   |                                |                                |                                |                                |
-| planning of Sentry in the      |                                |                                |                                |                                |
-| Competition Area and how well  |                                |                                |                                |                                |
-| the visualization program      |                                |                                |                                |                                |
-| works, while ensuring that the |                                |                                |                                |                                |
-| program running data matches   |                                |                                |                                |                                |
-| the actual movements of the    |                                |                                |                                |                                |
-| robot (see Figure 2 at the end |                                |                                |                                |                                |
-| of the article).               |                                |                                |                                |                                |
+| planning of Sentry at the site |                                |                                |                                |                                |
+| and how well the visualization |                                |                                |                                |                                |
+| program works, while ensuring  |                                |                                |                                |                                |
+| that the program running data  |                                |                                |                                |                                |
+| matches the actual movements   |                                |                                |                                |                                |
+| of the robot (see Figure 2 at  |                                |                                |                                |                                |
+| the end of the article).       |                                |                                |                                |                                |
 | Simulate Sentry navigation     | Display proof of the           | Mid-Term & Final Robot         | Optional                       |                             10 |
 | and attack:  1. Preparation:   | robot-target distance. Display | Assessment                     |                                |                                |
 | Define two points, A and B,    | the robot’s planned path       |                                |                                |                                |
@@ -473,271 +535,333 @@ Robot Function Display Criteria
 | other in a straight line.      | shooter and the target must be |                                |                                |                                |
 | Place an obstacle between A    | visible within the same frame. |                                |                                |                                |
 | and B that completely blocks   |  A stopwatch must be displayed |                                |                                |                                |
-| the Sentry’s orthographic      | throughout the process to show |                                |                                |                                |
-| projection, and set a Small    | the video is not sped up.      |                                |                                |                                |
+| the Sentry’s orthographic      | throughout the process, and    |                                |                                |                                |
+| projection, and set a Small    | the video must not be sped up. |                                |                                |                                |
 | Armor Module or a similarly    |                                |                                |                                |                                |
-| sized target at B that rotates |                                |                                |                                |                                |
-| at a speed of greater than 0.4 |                                |                                |                                |                                |
-| r/s.  2. Function display: The |                                |                                |                                |                                |
-| Sentry autonomously navigates  |                                |                                |                                |                                |
+| sized target near point B that |                                |                                |                                |                                |
+| rotates at a speed of greater  |                                |                                |                                |                                |
+| than 0.4 r/s.  2. Function     |                                |                                |                                |                                |
+| display: The Sentry navigates  |                                |                                |                                |                                |
 | from point A to B, and the     |                                |                                |                                |                                |
 | program running data matches   |                                |                                |                                |                                |
 | the actual movements of the    |                                |                                |                                |                                |
 | robot (see the task above).    |                                |                                |                                |                                |
 |  3. The robot automatically    |                                |                                |                                |                                |
-| recognizes and launches 50     |                                |                                |                                |                                |
-| rounds of projectiles at       |                                |                                |                                |                                |
-| the target rotating at point   |                                |                                |                                |                                |
-| B. Display how well the        |                                |                                |                                |                                |
-| visualization program for      |                                |                                |                                |                                |
-| Armor Module recognition works |                                |                                |                                |                                |
-| (see Figure 1 at the end of    |                                |                                |                                |                                |
-| the article).  4. A maximum    |                                |                                |                                |                                |
-| of 5 points will be awarded    |                                |                                |                                |                                |
-| for completing steps 1 and 2,  |                                |                                |                                |                                |
-| and a maximum of 10 points for |                                |                                |                                |                                |
-| completing steps 1, 2, and 3.  |                                |                                |                                |                                |
+| recognizes and shoots 50       |                                |                                |                                |                                |
+| projectiles at the rotating    |                                |                                |                                |                                |
+| armor module at point B.       |                                |                                |                                |                                |
+| Display the visualization      |                                |                                |                                |                                |
+| program's operation effect for |                                |                                |                                |                                |
+| recognizing the armor module   |                                |                                |                                |                                |
+| (refer to Figure 1 at the      |                                |                                |                                |                                |
+| end of the text). Calculate    |                                |                                |                                |                                |
+| the hit rate and display the   |                                |                                |                                |                                |
+| difference in health or carbon |                                |                                |                                |                                |
+| paper marks before and after   |                                |                                |                                |                                |
+| the target as proof.  4. A     |                                |                                |                                |                                |
+| maximum of 5 points will be    |                                |                                |                                |                                |
+| awarded for completing steps   |                                |                                |                                |                                |
+| 1 and 2, and a maximum of 10   |                                |                                |                                |                                |
+| points for completing steps 1, |                                |                                |                                |                                |
+| 2, and 3.                      |                                |                                |                                |                                |
 | Display the robot's unique     | Relevant dimensions of the     | Mid-Term & Final Robot         | Optional                       |                              5 |
-| features. Each feature is      | field must be demonstrated     | Assessment                     |                                |                                |
-| worth 1 point and a maximum    | before the display of each     |                                |                                |                                |
+| features. Each feature is      | site must be demonstrated      | Assessment                     |                                |                                |
+| worth 1 point, and a maximum   | before the display of each     |                                |                                |                                |
 | of 5 points can be awarded     | unique feature. Each feature   |                                |                                |                                |
-| in total. For example:  1.     | must be performed for at least |                                |                                |                                |
-| Display how the robot smoothly | 3 consecutive times.           |                                |                                |                                |
-| cross a Launch Ramp.  2.       |                                |                                |                                |                                |
-| Display how the robot moves    |                                |                                |                                |                                |
-| spontaneously to the actual    |                                |                                |                                |                                |
-| location corresponding to a    |                                |                                |                                |                                |
-| marked site on the generated   |                                |                                |                                |                                |
-| map.  3. Display how the       |                                |                                |                                |                                |
-| robot recognizes and chases    |                                |                                |                                |                                |
-| an opponent robot.  4. Display |                                |                                |                                |                                |
-| how the robot autonomously     |                                |                                |                                |                                |
-| navigates to and occupies the  |                                |                                |                                |                                |
-| Fortress Buff Point.           |                                |                                |                                |                                |
+| in total. For example:         | must be performed for at least |                                |                                |                                |
+| 1. Smoothly pass over the      | 3 consecutive times.           |                                |                                |                                |
+| launch ramp.  2. Display       |                                |                                |                                |                                |
+| how the robot identifies and   |                                |                                |                                |                                |
+| pursues the opponent's robots  |                                |                                |                                |                                |
+|  3. Display how the robot      |                                |                                |                                |                                |
+| autonomously navigates to and  |                                |                                |                                |                                |
+| occupies the Fortress Buff     |                                |                                |                                |                                |
+| Point.                         |                                |                                |                                |                                |
 |                                |                                |                                |                                |                                |           |
-| Drone                          | 1. Display the Drone's fully   | Before loading projectiles,    | Mid-Term & Final Robot         | Optional                       |        50 |
-|                                | enclosed propeller guard and   | verify their quantity by       | Assessment                     |                                |           |
-|                                | the Drone weighing process,    | splitting the projectiles into |                                |                                |           |
-|                                | and indicate the Drone weight  | groups with the same number    |                                |                                |           |
-|                                | in the video. Load projectiles | of projectiles or weighing.    |                                |                                |           |
-|                                | according to the Drone’s       | At the start of the video,     |                                |                                |           |
-|                                | Projectile Load. Specify the   | the Landing Pad’s location     |                                |                                |           |
-|                                | position of a Landing Pad on   | must be clearly shown, along   |                                |                                |           |
-|                                | the ground or another suitable | with evidence of the movement  |                                |                                |           |
-|                                | location based on the size     | distance. Display proof of     |                                |                                |           |
-|                                | of the Competition Area.  2.   | the Drone-target distance. The |                                |                                |           |
-|                                | After takeoff, the Drone flies | shooter and the target must be |                                |                                |           |
-|                                | forward 5 meters and hovers.   | visible within the same frame. |                                |                                |           |
-|                                | (A fully enclosed propeller    |                                |                                |                                |           |
-|                                | guard must be mounted on the   |                                |                                |                                |           |
-|                                | Drone. If the Drone takes      |                                |                                |                                |           |
-|                                | off without such a propeller   |                                |                                |                                |           |
-|                                | guard, the team will receive   |                                |                                |                                |           |
-|                                | zero points for this item and  |                                |                                |                                |           |
-|                                | 10 points will be deducted     |                                |                                |                                |           |
-|                                | from its overall score.)  3.   |                                |                                |                                |           |
-|                                | The Drone launches 50 rounds   |                                |                                |                                |           |
-|                                | of projectiles continuously    |                                |                                |                                |           |
-|                                | to attack a Large Armor Module |                                |                                |                                |           |
-|                                | or a similarly sized target    |                                |                                |                                |           |
-|                                | 5 meters away.  4. Finally,    |                                |                                |                                |           |
-|                                | the Drone lands on the Landing |                                |                                |                                |           |
-|                                | Pad.  5. If only steps 1 and 2 |                                |                                |                                |           |
-|                                | are completed, 10 to 20 points |                                |                                |                                |           |
-|                                | will be awarded depending on   |                                |                                |                                |           |
-|                                | the Drone’s functionality and  |                                |                                |                                |           |
-|                                | Projectile Load.               |                                |                                |                                |           |
+| Drone                          | 1. During the preparation      | Before loading projectiles,    | Mid-Term & Final Robot         | Required                       |        20 |
+|                                | stage, display the Drone       | verify their quantity by       | Assessment                     |                                |           |
+|                                | with full coverage Propeller   | splitting the projectiles into |                                |                                |           |
+|                                | Guard, weigh the robot, and    | groups with the same number    |                                |                                |           |
+|                                | present the robot's weight     | of projectiles or weighing.    |                                |                                |           |
+|                                | in the video (weight without   | You can also use equivalent    |                                |                                |           |
+|                                | loaded projectiles and Referee | weight and equivalent volume   |                                |                                |           |
+|                                | System. If the Referee System  | to demonstrate the projectile  |                                |                                |           |
+|                                | is loaded during weighing,     | load for the robots' takeoff.  |                                |                                |           |
+|                                | this weight must be subtracted | Before the function display    |                                |                                |           |
+|                                | in calculations). Load         | begins, the location of the    |                                |                                |           |
+|                                | projectiles according to the   | landing pad must be specified, |                                |                                |           |
+|                                | rules (or load equivalent      | and proof of movement length   |                                |                                |           |
+|                                | projectile weight + analyze    | must be shown.                 |                                |                                |           |
+|                                | the robot's projectile         |                                |                                |                                |           |
+|                                | capacity). Specify the         |                                |                                |                                |           |
+|                                | position of a Landing Pad on   |                                |                                |                                |           |
+|                                | the ground or another suitable |                                |                                |                                |           |
+|                                | location based on the size of  |                                |                                |                                |           |
+|                                | the site.  2. After takeoff,   |                                |                                |                                |           |
+|                                | the Drone flies forward 5      |                                |                                |                                |           |
+|                                | meters and hovers. (A fully    |                                |                                |                                |           |
+|                                | enclosed propeller guard must  |                                |                                |                                |           |
+|                                | be mounted on the Drone. If    |                                |                                |                                |           |
+|                                | the Drone takes off without    |                                |                                |                                |           |
+|                                | such a propeller guard, the    |                                |                                |                                |           |
+|                                | team will receive zero points  |                                |                                |                                |           |
+|                                | for this task and 10 points    |                                |                                |                                |           |
+|                                | will be deducted from its      |                                |                                |                                |           |
+|                                | overall score.  3. Land back   |                                |                                |                                |           |
+|                                | at the Landing Pad.            |                                |                                |                                |           |
+| 1. During the preparation      | Before the function display    | Mid-Term & Final Robot         | Required                       |                             30 |
+| stage, display the Drone       | begins, show proof of the      | Assessment                     |                                |                                |
+| with full coverage Propeller   | distance between the robots    |                                |                                |                                |
+| Guard, and mark the Landing    | and the target, demonstrate    |                                |                                |                                |
+| Pad Location on the ground or  | and verify that the robots     |                                |                                |                                |
+| other locations according to   | have emptied the magazine      |                                |                                |                                |
+| the size of the Competition    | of projectiles, count 50       |                                |                                |                                |
+| Area.  2. After takeoff, the   | projectiles, and load them.    |                                |                                |                                |
+| Drone flies forward 5 meters   | The shooter and the target     |                                |                                |                                |
+| and hovers. (A fully enclosed  | must be visible within the     |                                |                                |                                |
+| propeller guard must be        | same frame. The location       |                                |                                |                                |
+| mounted on the Drone. If the   | of the landing pad must        |                                |                                |                                |
+| Drone takes off without such   | be specified, and proof        |                                |                                |                                |
+| a propeller guard, the team    | of movement length must be     |                                |                                |                                |
+| will receive zero points for   | shown.  Display a stopwatch    |                                |                                |                                |
+| this task and 10 points will   | throughout the process, and    |                                |                                |                                |
+| be deducted from its overall   | the video cannot be sped up.   |                                |                                |                                |
+| score.  3. Continuously launch | Use the difference in health   |                                |                                |                                |
+| 50 projectiles, attacking      | or carbon paper marks before   |                                |                                |                                |
+| the large armor module from    | and after the target as proof  |                                |                                |                                |
+| a distance of more than 5      | of hits.                       |                                |                                |                                |
+| meters.  4. Finally, land at   |                                |                                |                                |                                |
+| the Landing Pad.               |                                |                                |                                |                                |
 |                                |                                |                                |                                |                                |           |
-| Dart System                    | Simulate striking an Outpost:  | Display the on-site transport  | Mid-Term & Final Robot         | Optional                       |        15 |
+| Dart System                    | Simulate striking the Outpost: | Display the on-site transport  | Mid-Term & Final Robot         | Optional                       |        15 |
 |                                | Launch 8 darts (4 darts per    | and deployment of the Dart     | Assessment                     |                                |           |
 |                                | round, 2 consecutive rounds    | System in the video. The       |                                |                                |           |
 |                                | in total) continuously to      | commissioning time must not    |                                |                                |           |
 |                                | attack a Small Armor Module    | exceed 3 minutes. Display      |                                |                                |           |
 |                                | or a similarly sized target    | proof of distance from the     |                                |                                |           |
 |                                | 16 meters away. Calculate the  | target.  The Dart System and   |                                |                                |           |
-|                                | hit rate and provide relevant  | the target must be visible     |                                |                                |           |
-|                                | evidence.                      | within the same frame.  A      |                                |                                |           |
-|                                |                                | stopwatch must be displayed    |                                |                                |           |
-|                                |                                | throughout the process to show |                                |                                |           |
-|                                |                                | the video is not sped up.      |                                |                                |           |
-|                                |                                | Set up another camera near the |                                |                                |           |
-|                                |                                | target to clearly capture the  |                                |                                |           |
-|                                |                                | moment of hit. Edit the video  |                                |                                |           |
-|                                |                                | in a chronological order.      |                                |                                |           |
-| Simulate striking a Base:      | Display the on-site transport  | Mid-Term & Final Robot         | Optional                       |                             16 |
-| Launch 8 darts continuously    | and deployment of the Dart     | Assessment                     |                                |                                |
-| to attack a Small Armor Module | System in the video. The       |                                |                                |                                |
-| or a similarly sized target    | commissioning time must not    |                                |                                |                                |
-| 25 meters away. Calculate the  | exceed 3 minutes. Display      |                                |                                |                                |
-| hit rate and provide relevant  | proof of distance from the     |                                |                                |                                |
-| evidence.                      | target.  A stopwatch must      |                                |                                |                                |
-|                                | be displayed throughout the    |                                |                                |                                |
-|                                | process to show the video is   |                                |                                |                                |
-|                                | not sped up.  Set up another   |                                |                                |                                |
-|                                | camera near the target to      |                                |                                |                                |
-|                                | clearly capture the moment     |                                |                                |                                |
-|                                | of hit. Edit the video in a    |                                |                                |                                |
-|                                | chronological order.           |                                |                                |                                |
+|                                | hit rate and provide relevant  | the target must be within      |                                |                                |           |
+|                                | evidence. Note that the target | the same frame. Display the    |                                |                                |           |
+|                                | placement angle and relative   | stopwatch throughout.  After   |                                |                                |           |
+|                                | ground height should refer     | the task ends, display proof   |                                |                                |           |
+|                                | to the Outpost Dart Detection  | of hits. The form of hit rate  |                                |                                |           |
+|                                | Target settings in the rule    | evidence can be chosen from    |                                |                                |           |
+|                                | manual.                        | one of the following three:    |                                |                                |           |
+|                                |                                | 1. Difference in target health |                                |                                |           |
+|                                |                                | before and after (can be       |                                |                                |           |
+|                                |                                | divided into multiple rounds   |                                |                                |           |
+|                                |                                | of launch, resetting target    |                                |                                |           |
+|                                |                                | health after each round).  2.  |                                |                                |           |
+|                                |                                | Cover the target with carbon   |                                |                                |           |
+|                                |                                | paper and observe the marks    |                                |                                |           |
+|                                |                                | on the carbon paper.  3. Clear |                                |                                |           |
+|                                |                                | screenshots of the projectile  |                                |                                |           |
+|                                |                                | hitting the target taken from  |                                |                                |           |
+|                                |                                | a close-up auxiliary camera    |                                |                                |           |
+|                                |                                | position (one screenshot per   |                                |                                |           |
+|                                |                                | hit).                          |                                |                                |           |
+| Simulate striking a Random     | Display the on-site transport  | Mid-Term & Final Robot         | Optional                       |                             16 |
+| Fixed Target at the Base       | and deployment of the Dart     | Assessment                     |                                |                                |
+| (8 consecutive shots). Pay     | System in the video. The       |                                |                                |                                |
+| attention to the target        | commissioning time must not    |                                |                                |                                |
+| placement angle and relative   | exceed 3 minutes. Display      |                                |                                |                                |
+| ground height, which should    | proof of distance from the     |                                |                                |                                |
+| refer to the base dart         | target.  The Dart System and   |                                |                                |                                |
+| detection target settings in   | the target must be within      |                                |                                |                                |
+| the rule manual.               | the same frame. Display the    |                                |                                |                                |
+|                                | stopwatch throughout.  After   |                                |                                |                                |
+|                                | the task ends, display proof   |                                |                                |                                |
+|                                | of hits. The form of hit rate  |                                |                                |                                |
+|                                | evidence can be chosen from    |                                |                                |                                |
+|                                | one of the following three:    |                                |                                |                                |
+|                                | 1. Difference in target health |                                |                                |                                |
+|                                | before and after (can be       |                                |                                |                                |
+|                                | divided into multiple rounds   |                                |                                |                                |
+|                                | of launch, resetting target    |                                |                                |                                |
+|                                | health after each round).  2.  |                                |                                |                                |
+|                                | Cover the target with carbon   |                                |                                |                                |
+|                                | paper and observe the marks    |                                |                                |                                |
+|                                | on the carbon paper.  3. Clear |                                |                                |                                |
+|                                | screenshots of the projectile  |                                |                                |                                |
+|                                | hitting the target taken from  |                                |                                |                                |
+|                                | a close-up auxiliary camera    |                                |                                |                                |
+|                                | position (one screenshot per   |                                |                                |                                |
+|                                | hit).                          |                                |                                |                                |
 | Display the robot's unique     | Display the on-site transport  | Mid-Term & Final Robot         | Optional                       |                              4 |
 | features. Each feature is      | and deployment of the Dart     | Assessment                     |                                |                                |
-| worth 2 points and a maximum   | System in the video. The       |                                |                                |                                |
+| worth 2 points, and a maximum  | System in the video. The       |                                |                                |                                |
 | of 4 points can be awarded     | commissioning time must not    |                                |                                |                                |
-| in total. For example:   1.    | exceed 3 minutes. Display      |                                |                                |                                |
+| in total. For example:    1.   | exceed 3 minutes. Display      |                                |                                |                                |
 | Simulate striking a Random     | proof of distance from the     |                                |                                |                                |
-| Fixed Target at the Base       | target.  A stopwatch must      |                                |                                |                                |
-| (8 consecutive shots).  2.     | be displayed throughout the    |                                |                                |                                |
-| Simulate striking a Random     | process to show the video is   |                                |                                |                                |
-| Moving Target at the Base (8   | not sped up.  Set up another   |                                |                                |                                |
-| consecutive shots).            | camera near the target to      |                                |                                |                                |
-|                                | clearly capture the moment     |                                |                                |                                |
-|                                | of hit. Edit the video in a    |                                |                                |                                |
-|                                | chronological order.           |                                |                                |                                |
-| Radar                          | The radar functions properly   |                                | Mid-Term & Final Robot         | Optional                       |        10 |
-|                                | and displays commissioning     |                                | Assessment                     |                                |           |
-|                                | images.                        |                                |                                |                                |           |
-+--------------------------------+--------------------------------+--------------------------------+--------------------------------+--------------------------------+-----------+--------+
+| Fixed Target at the Base       | target. Display the stopwatch  |                                |                                |                                |
+| (8 consecutive shots).  2.     | throughout.  After the task    |                                |                                |                                |
+| Simulate striking a Random     | ends, display proof of hits.   |                                |                                |                                |
+| Moving Target at the Base (8   | The form of hit rate evidence  |                                |                                |                                |
+| consecutive shots).            | can be chosen from one of      |                                |                                |                                |
+|                                | the following three:  1.       |                                |                                |                                |
+|                                | Difference in target health    |                                |                                |                                |
+|                                | before and after (can be       |                                |                                |                                |
+|                                | divided into multiple rounds   |                                |                                |                                |
+|                                | of launch, resetting target    |                                |                                |                                |
+|                                | health after each round).  2.  |                                |                                |                                |
+|                                | Cover the target with carbon   |                                |                                |                                |
+|                                | paper and observe the marks    |                                |                                |                                |
+|                                | on the carbon paper.  3. Clear |                                |                                |                                |
+|                                | screenshots of the projectile  |                                |                                |                                |
+|                                | hitting the target taken from  |                                |                                |                                |
+|                                | a close-up auxiliary camera    |                                |                                |                                |
+|                                | position (one screenshot per   |                                |                                |                                |
+|                                | hit).                          |                                |                                |                                |
+| Radar                          | Function normally and display  |                                | Mid-Term & Final Robot         | Optional                       |        10 |
+|                                | commissioning images           |                                | Assessment                     |                                |           |
++--------------------------------+--------------------------------+--------------------------------+--------------------------------+--------------------------------+-----------+-------+
 
-+--------------------------------+--------------------------------+--------------------------------+-----------+--------+
-| Event                          | Robot Type                     | Item Displayed                 | Type      | Points |
-| RMUL 3v3                       | Full roster display            | All robots built by the        | Mandatory | -      |
-|                                |                                | participating team on the full |           |        |
-|                                |                                | roster are shown together;     |           |        |
-|                                |                                | robots can be powered on       |           |        |
-|                                |                                | simultaneously or one after    |           |        |
-|                                |                                | another                        |           |        |
-| Infantry                       | Complete movements: horizontal | Mandatory                      |        10 |
-|                                | movement and rotation          |                                |           |
-| The robot launches 50 rounds   | Mandatory                      |                             30 |
-| of projectiles continuously    |                                |                                |
-| to strike a target with the    |                                |                                |
-| size of a Large Armor Module   |                                |                                |
-| 5 meters away. Calculate the   |                                |                                |
-| hit rate and provide relevant  |                                |                                |
-| evidence.                      |                                |                                |
-| The robot climbs a 15° slope   | Optional                       |                             10 |
-| and its power consumption data |                                |                                |
-| is displayed in real time.     |                                |                                |
-| The robot automatically        | Optional                       |                              5 |
-| recognizes and follows a       |                                |                                |
-| horizontally moving and        |                                |                                |
-| a rotating Armor Module,       |                                |                                |
-| respectively, and launches     |                                |                                |
-| 30 rounds of projectiles       |                                |                                |
-| continuously to strike the     |                                |                                |
-| Armor Module. Calculate the    |                                |                                |
-| hit rates and provide relevant |                                |                                |
-| evidence.                      |                                |                                |
-|                                |                                |                                |           |
-| Hero                           | Complete movements: horizontal | Mandatory                      |        10 |
-|                                | movement and rotation          |                                |           |
-| The robot launches 10          | Mandatory                      |                             30 |
-| rounds of 42 mm projectiles    |                                |                                |
-| continuously to attack a       |                                |                                |
-| target with the size of a      |                                |                                |
-| Large Armor Module 5 meters    |                                |                                |
-| away. Calculate the hit rate   |                                |                                |
-| and provide relevant evidence. |                                |                                |
-| The robot climbs a 15° slope   | Optional                       |                             10 |
-| (show proof of the 15° slope)  |                                |                                |
-| and its power consumption data |                                |                                |
-| is displayed in real time.     |                                |                                |
-| The robot automatically        | Optional                       |                              5 |
-| recognizes and follows a       |                                |                                |
-| horizontally moving and        |                                |                                |
-| a rotating Armor Module,       |                                |                                |
-| and launches 30 rounds of      |                                |                                |
-| projectiles continuously       |                                |                                |
-| to strike the Armor Module.    |                                |                                |
-| Calculate the hit rates and    |                                |                                |
-| provide relevant evidence.     |                                |                                |
-|                                |                                |                                |           |
-| Sentry                         | Complete movements: horizontal | Mandatory                      |        10 |
-|                                | movement and rotation          |                                |           |
-| The robot launches 50 rounds   | Optional                       |                             30 |
-| of projectiles continuously    |                                |                                |
-| to strike a stationary target  |                                |                                |
-| with the size of a Large       |                                |                                |
-| Armor Module 5 meters away.    |                                |                                |
-| Calculate the hit rate and     |                                |                                |
-| provide relevant evidence.     |                                |                                |
-| The robot automatically        | Optional                       |                              5 |
-| recognizes and follows a       |                                |                                |
-| horizontally moving and        |                                |                                |
-| a rotating Armor Module,       |                                |                                |
-| respectively, and launches     |                                |                                |
-| 30 rounds of projectiles       |                                |                                |
-| continuously to strike the     |                                |                                |
-| Armor Module. Calculate and    |                                |                                |
-| provide proof of the hit rate  |                                |                                |
-| (such as carbon paper marks);  |                                |                                |
-| meanwhile, display how well    |                                |                                |
-| the visualization program for  |                                |                                |
-| Armor Module recognition works |                                |                                |
-| (see Figure 1 at the end of    |                                |                                |
-| the article).                  |                                |                                |
-| Display the automatic          | Optional                       |                              5 |
-| movement, positioning,         |                                |                                |
-| obstacle avoidance, and path   |                                |                                |
-| planning of Sentry in the      |                                |                                |
-| Competition Area and how well  |                                |                                |
-| the visualization program      |                                |                                |
-| works, while ensuring that the |                                |                                |
-| program running data matches   |                                |                                |
-| the actual movements of the    |                                |                                |
-| robot (see Figure 2 at the end |                                |                                |
-| of the article).               |                                |                                |
-| Display different operation    | Optional                       |                              5 |
-| modes of the Sentry (such as   |                                |                                |
-| patrol between two points,     |                                |                                |
-| rotate in place, and automatic |                                |                                |
-| counterattack).                |                                |                                |
-+--------------------------------+--------------------------------+--------------------------------+-----------+--------+
++--------------------------------+--------------------------------+--------------------------------+----------+----------+----------+---+
+| RMUL 3v3 Match                 | Full Roster Display            | Display the full roster of     |          |          | Required | \ |
+|                                |                                | robots made by the team, video |          |          |          |    |
+|                                |                                | shoot of the robots together,  |          |          |          |    |
+|                                |                                | with the option to power on    |          |          |          |    |
+|                                |                                | simultaneously or one by one.  |          |          |          |    |
+| Infantry                       | Complete movement: moving      |                                |          | Required |       10 |
+|                                | horizontally, rotation.        |                                |          |          |          |
+| The robot launches 50 rounds   |                                |                                | Required |       30 |
+| of projectiles continuously    |                                |                                |          |          |
+| to strike a target with the    |                                |                                |          |          |
+| size of a Large Armor Module   |                                |                                |          |          |
+| 5 meters away. Calculate the   |                                |                                |          |          |
+| hit rate and provide relevant  |                                |                                |          |          |
+| evidence.                      |                                |                                |          |          |
+| Climb a 15° slope and display  |                                |                                | Optional |       10 |
+| power data in real-time.       |                                |                                |          |          |
+| The robot automatically        |                                |                                | Optional |        5 |
+| recognizes and follows a       |                                |                                |          |          |
+| translating and a rotating     |                                |                                |          |          |
+| Armor Module, respectively,    |                                |                                |          |          |
+| and launches 30 rounds of      |                                |                                |          |          |
+| projectiles continuously       |                                |                                |          |          |
+| to strike the Armor Module.    |                                |                                |          |          |
+| Calculate the hit rates and    |                                |                                |          |          |
+| provide relevant evidence.     |                                |                                |          |          |
+|                                |                                |                                |          |          |          |
+| Hero                           | Complete movement: moving      |                                |          | Required |       10 |
+|                                | horizontally, rotation.        |                                |          |          |          |
+| The robot launches 10          |                                |                                | Required |       30 |
+| rounds of 42 mm projectiles    |                                |                                |          |          |
+| continuously to attack a       |                                |                                |          |          |
+| target with the size of a      |                                |                                |          |          |
+| Large Armor Module 5 meters    |                                |                                |          |          |
+| away. Calculate the hit rate   |                                |                                |          |          |
+| and provide relevant evidence. |                                |                                |          |          |
+| Climb a 15° slope and display  |                                |                                | Optional |       10 |
+| power data in real-time (show  |                                |                                |          |          |
+| evidence related to the 15°    |                                |                                |          |          |
+| slope).                        |                                |                                |          |          |
+| The robot automatically        |                                |                                | Optional |        5 |
+| recognizes and follows a       |                                |                                |          |          |
+| translating and a rotating     |                                |                                |          |          |
+| Armor Module, and launches     |                                |                                |          |          |
+| 30 rounds of projectiles       |                                |                                |          |          |
+| continuously to strike the     |                                |                                |          |          |
+| Armor Module. Calculate the    |                                |                                |          |          |
+| hit rates and provide relevant |                                |                                |          |          |
+| evidence.                      |                                |                                |          |          |
+|                                |                                |                                |          |          |          |
+| Sentry                         | Complete movement: moving      |                                |          | Required |       10 |
+|                                | horizontally, rotation.        |                                |          |          |          |
+| The robot launches 50 rounds   |                                |                                | Optional |       30 |
+| of projectiles continuously    |                                |                                |          |          |
+| to strike a stationary target  |                                |                                |          |          |
+| with the size of a Large       |                                |                                |          |          |
+| Armor Module 5 meters away.    |                                |                                |          |          |
+| Calculate the hit rate and     |                                |                                |          |          |
+| provide relevant evidence.     |                                |                                |          |          |
+| The robot automatically        |                                |                                | Optional |        5 |
+| recognizes and follows a       |                                |                                |          |          |
+| translating and a rotating     |                                |                                |          |          |
+| Armor Module, respectively,    |                                |                                |          |          |
+| and launches 30 rounds of      |                                |                                |          |          |
+| projectiles continuously       |                                |                                |          |          |
+| to strike the Armor Module.    |                                |                                |          |          |
+| Calculate and provide          |                                |                                |          |          |
+| proof of the hit rate (such    |                                |                                |          |          |
+| as carbon paper marks);        |                                |                                |          |          |
+| meanwhile, display how well    |                                |                                |          |          |
+| the visualization program for  |                                |                                |          |          |
+| Armor Module recognition works |                                |                                |          |          |
+| (see Figure 1 at the end of    |                                |                                |          |          |
+| the article).                  |                                |                                |          |          |
+| Display the automatic          |                                |                                | Optional |        5 |
+| movement, positioning,         |                                |                                |          |          |
+| obstacle avoidance, and path   |                                |                                |          |          |
+| planning of Sentry at the site |                                |                                |          |          |
+| and how well the visualization |                                |                                |          |          |
+| program works, while ensuring  |                                |                                |          |          |
+| that the program running data  |                                |                                |          |          |
+| matches the actual movements   |                                |                                |          |          |
+| of the robot (see Figure 2 at  |                                |                                |          |          |
+| the end of the article).       |                                |                                |          |          |
+| Display different operation    |                                |                                | Optional |        5 |
+| modes of the Sentry (such as   |                                |                                |          |          |
+| patrolling between two points, |                                |                                |          |          |
+| rotating in place, automatic   |                                |                                |          |          |
+| counterattack, etc.).          |                                |                                |          |          |
++--------------------------------+--------------------------------+--------------------------------+----------+----------+----------+---+
 
-+--------------------------------+-------------------------------+--------------------------------+-----------+--------+
-| Event                          | Robot Type                    | Item Displayed                 | Type      | Points |
-| RMUL Infantry Match            | Infantry                      | Complete movements: horizontal | Mandatory |     10 |
-|                                |                               | movement and rotation          |           |        |
-| The robot climbs a 15° slope   | Optional                      |                             10 |
-| and its power consumption data |                               |                                |
-| is displayed in real time.     |                               |                                |
-| The robot launches 50 rounds   | Mandatory                     |                             30 |
-| of projectiles continuously    |                               |                                |
-| to attack a target with the    |                               |                                |
-| size of a Large Armor Module   |                               |                                |
-| 5 meters away. Calculate the   |                               |                                |
-| hit rate and provide relevant  |                               |                                |
-| evidence.                      |                               |                                |
-| The robot automatically        | Optional                      |                              5 |
-| recognizes and follows a       |                               |                                |
-| horizontally moving and        |                               |                                |
-| a rotating Armor Module,       |                               |                                |
-| respectively, and launches     |                               |                                |
-| 30 rounds of projectiles       |                               |                                |
-| continuously to strike the     |                               |                                |
-| Armor Module. Calculate the    |                               |                                |
-| hit rates and provide relevant |                               |                                |
-| evidence.                      |                               |                                |
-| Others                         | Display other unique features | Optional                       | -         |
-| * Extra points will be         |
-| given based on the displayed   |
-| content.                       |
-+--------------------------------+-------------------------------+--------------------------------+-----------+--------+
++--------------------------------+-------------------------------+--------------------------------+----------+----------+----------+----+
+| RMUL Infantry Match            | Infantry                      | Complete movement: moving      |          |          | Required | 10 |
+|                                |                               | horizontally, rotation.        |          |          |          |    |
+| Climb a 15° slope and display  |                               |                                | Required |       10 |
+| power data in real-time.       |                               |                                |          |          |
+| The robot launches 50 rounds   |                               |                                | Required |       30 |
+| of projectiles continuously    |                               |                                |          |          |
+| to attack a target with the    |                               |                                |          |          |
+| size of a Large Armor Module   |                               |                                |          |          |
+| 5 meters away. Calculate the   |                               |                                |          |          |
+| hit rate and provide relevant  |                               |                                |          |          |
+| evidence.                      |                               |                                |          |          |
+| The robot automatically        |                               |                                | Optional |        5 |
+| recognizes and follows a       |                               |                                |          |          |
+| translating and a rotating     |                               |                                |          |          |
+| Armor Module, respectively,    |                               |                                |          |          |
+| and launches 30 rounds of      |                               |                                |          |          |
+| projectiles continuously       |                               |                                |          |          |
+| to strike the Armor Module.    |                               |                                |          |          |
+| Calculate the hit rates and    |                               |                                |          |          |
+| provide relevant evidence.     |                               |                                |          |          |
+| Others                         | Display other unique features |                                |          | Optional | -        |
+| * Extra points will be         |                               |                                |
+| given based on the displayed   |                               |                                |
+| content.                       |                               |                                |
++--------------------------------+-------------------------------+--------------------------------+----------+----------+----------+----+
 
-+--------------------------------+------------+--------------------------------+-----------+--------+
-| Event                          | Robot Type | Item Displayed                 | Type      | Points |
-| Engineer Challenge             | Engineer   | Complete movements: horizontal | Mandatory |     20 |
-|                                |            | movement and rotation          |           |        |
-| Simulate grabbing Ore from     | Mandatory  |                             50 |
-| a Resource Island and moving   |            |                                |
-| with the Ore in a straight     |            |                                |
-| line for 2 meters.             |            |                                |
-| Simulate Ore exchange with     | Optional   |                             30 |
-| the officially designated      |            |                                |
-| Ore Receptacle pose at each    |            |                                |
-| difficulty level (display the  |            |                                |
-| highest achievable exchange    |            |                                |
-| difficulty level).             |            |                                |
-+--------------------------------+------------+--------------------------------+-----------+--------+
++--------------------------------+----------+--------------------------------+----------+----+----------+----+
+| Engineer Challenge             | Engineer | Complete movement: moving      |          |    | Required | 20 |
+|                                |          | horizontally, rotation.        |          |    |          |    |
+| Simulate grabbing Ores from    |          |                                | Required | 50 |
+| the Resource Island, carrying  |          |                                |          |    |
+| the Ores and moving in a       |          |                                |          |    |
+| straight line for 2 meters.    |          |                                |          |    |
+| Simulate exchanging Ore using  |          |                                | Optional | 30 |
+| the officially designated      |          |                                |          |    |
+| poses of Ore Receptacles for   |          |                                |          |    |
+| each difficulty level (display |          |                                |          |    |
+| the highest achievable         |          |                                |          |    |
+| exchange difficulty level).    |          |                                |          |    |
++--------------------------------+----------+--------------------------------+----------+----+----------+----+
+
+Appendix Table 1:  Ore Receptacle's Pose:
+
++------------------+------+-----+------+-----+-----+-----+
+| Difficulty Level | x    | y   | z    | θ   | φ   | α   |
+| Level 1          | -240 | -50 |  720 |   0 |  90 |   0 |
+|             -120 |  -50 | 500 |    0 |  90 |   0 |
+| Level 2          | -130 | 235 |  720 |   0 |  60 | -35 |
+|             -130 | -235 | 720 |    0 |  60 |  35 |
+| Level 3          | -270 |   0 |  725 |  90 |  50 |  40 |
+|             -270 |    0 | 725 |  -90 |  50 |  40 |
+| Level 4          | -270 | -50 |  720 | 120 |  90 | -45 |
+|             -270 |  -50 | 720 | -120 |  90 | -45 |
++------------------+------+-----+------+-----+-----+-----+
 
 联系我们
 
@@ -812,4 +936,4 @@ Robot Function Display Criteria
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
