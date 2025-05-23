@@ -92,7 +92,7 @@ Notice on RMUC 2025 Final Robot Assessment (for international teams)
 
 2025-05-19
 
-<header> *Participants:* All participating teams from Hong Kong, Macao, Taiwan, and overseas that have passed the Mid-term Progress Assessment. Participation: Team leaders fill out and submit the questionnaire: https://djistore.wjx.cn/vm/rQwgBUP.aspx. </header>
+<header> Participants: All participating teams from Hong Kong, Macao, Taiwan, and overseas that have passed the Mid-term Progress Assessment. Participation: Team leaders fill out and submit the questionnaire: https://djistore.wjx.cn/vm/rQwgBUP.aspx. </header>
 
 Submission Time: From 18:00 on May 31, 2025, to 18:00 on June 2, 2025 (Beijing Time).
 
@@ -243,4 +243,4 @@ d. Robot BOM Record: Refer to the "RMUC 2025 Robot BOM Record Template" (Down
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ))
