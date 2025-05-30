@@ -1,0 +1,212 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+关于RoboMaster 2025机甲大师超级对抗赛区域赛异常情况的说明
+
+2025-05-30
+
+在5月29日的RoboMaster 2025机甲大师超级对抗赛区域赛·东部赛区比赛过程中，组委会收到关于初始金币错误的反馈，第一时间对所有队伍初始金币设置进行全量筛查，确发现有北京理工大学与北京理工大学（珠海）、南京航空航天大学与南京航空航天大学金城学院两者的初始金币数值设置调换的异常情况，具体情况见下表1。随后马上对北京理工大学与南京航空航天大学初始金币进行修正。
+
+表1：区域赛初始金币配置错误详情
+
++----------+--------------------------+------------------+------------------+------+
+|   赛区   |           校名           | 正确初始金币数值 | 配置错误金币数值 | 差值 |
++----------+--------------------------+------------------+------------------+------+
+| 南部赛区 | 北京理工大学（珠海）     | 400+0            | 400+50           | +50  |
+| 中部赛区 | 南京航空航天大学金城学院 | 400+0            | 400+75           | +75  |
+| 东部赛区 | 北京理工大学             | 400+50           |              400 |  -50 |
+| 东部赛区 | 南京航空航天大学         | 400+75           |              400 |  -75 |
++----------+--------------------------+------------------+------------------+------+
+
+经过排查确认该情况为区域赛初始金币配置错误导致。组委会经查看RMUC 2025区域赛已进行的所有比赛数据材料后，确认有异常的比赛局次如下：
+
++----------+------+--------------------------+--------------------------+
+|   赛区   | 场次 |           红方           |           蓝方           |
++----------+------+--------------------------+--------------------------+
+| 南部赛区 |   14 | 东莞理工学院             | 北京理工大学（珠海）     |
+| 南部赛区 |   30 | 北京理工大学（珠海）     | 华北理工大学             |
+| 南部赛区 |   45 | 广西大学                 | 北京理工大学（珠海）     |
+| 南部赛区 |   57 | 深圳大学                 | 北京理工大学（珠海）     |
+| 南部赛区 |   66 | 北京理工大学（珠海）     | 东北大学秦皇岛分校       |
+| 南部赛区 |   74 | 北京理工大学（珠海）     | 中国石油大学（华东）     |
+| 南部赛区 |   82 | 北京理工大学（珠海）     | 华北科技学院             |
+|          |
+| 中部赛区 |   16 | 南京航空航天大学金城学院 | 沈阳航空航天大学         |
+| 中部赛区 |   25 | 西安电子科技大学         | 南京航空航天大学金城学院 |
+| 中部赛区 |   42 | 中南大学                 | 南京航空航天大学金城学院 |
+| 中部赛区 |   69 | 沈阳理工大学             | 南京航空航天大学金城学院 |
+| 中部赛区 |   76 | 中南大学                 | 南京航空航天大学金城学院 |
+| 中部赛区 |   84 | 南京航空航天大学金城学院 | 西北工业大学             |
+| 中部赛区 |   87 | 哈尔滨工业大学           | 南京航空航天大学金城学院 |
+|          |
+| 东部赛区 |    1 | 北京理工大学             | 大连理工大学             |
+| 东部赛区 |   15 | 天津大学                 | 南京航空航天大学         |
++----------+------+--------------------------+--------------------------+
+
+在上述比赛结束后5分钟内，双方队长均未提出异议且均已确认成绩，不再对上述比赛局次的比赛结果进行追溯。
+
+因该部分初始金币设置错误对上述局次比赛的参赛队伍造成的影响，在此，组委会向各位参赛老师、同学及观众用户致以诚挚的歉意。在后续比赛中，若有任何异常情况出现，均可通过官方渠道反馈意见与建议，我们将协助排查可能存在的问题，并持续改进。您可通过邮箱（robomaster@ dji.com ( http://dji.com/ ) ）或企业微信（RM高校赛务：rmsaiwu）联系组委会。
+
+RoboMaster 的每一步成长都离不开所有参与者的支持与鞭策。针对本次质量事故，组委会将从整体技术方案、导入流程、数据复核和监督流程等方面进行复盘与反思，持续推动提高办赛质量。
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
