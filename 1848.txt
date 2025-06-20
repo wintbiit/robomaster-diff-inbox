@@ -100,13 +100,19 @@ RoboMaster 2025机甲大师超级对抗赛区域赛赛季总结须知
 
 提交机会：1次
 
-通过条件：获得“C”及以上的等级
+通过条件：获得“C”及以上的等级及综合评估正式队员填写率大于50%
 
-考查内容：总结文档
+考查内容：总结文档、综合评估。
 
-根据参赛手册评审要求，在 R ( https://bbs.robomaster.com/ ) oboMaster 论坛 ( https://bbs.robomaster.com/ ) 战队功能中创建内容模板，选择对应的模板进行撰写，多配图表、流程图，数据充分，重点突出，逻辑清晰
+①根据参赛手册评审要求，在 R ( https://bbs.robomaster.com/ ) oboMaster 论坛 ( https://bbs.robomaster.com/ ) 战队功能中创建内容模板，选择对应的模板进行撰写，多配图表、流程图，数据充分，重点突出，逻辑清晰
 
 《RoboMaster 2025机甲大师超级对抗赛区域赛赛季总结模板》（ 点击查看 ( https://bbs.robomaster.com/wiki/17105169 ) ）
+
+②请点击下方链接进入并填写问卷，报名系统中的参赛队的战队管理层（队长，副队长，预备队长，项目管理，兵种负责人）必填，整体正式队员填写率须达到50%以上，每队链接相互独立。
+
+RMUC 2025区域赛综合评估问卷链接： https://doc.weixin.qq.com/sheet/e3_AT4AdAZiAD8CNu7Q4a1zKTjaLnKhA?scode=AC0A8gfyABEUyY640WAT4AdAZiAD8&tab=BB08J2
+
+填写截止时间：6月24日10:00
 
 通过权限：
 
