@@ -1,0 +1,273 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+Pass list of the RMUL 2025 (North America) Final Robot Assessment
+
+2025-06-20
+
+Notice on RMUL 2025 (North America) Final Robot Assessment： https://www.robomaster.com/en-US/resource/pages/announcement/1829
+
+一、3V3Match
+
++-----+--------------------------------+--------------------+
+| No. | School                         | Team               |
+|   1 | University of Minnesota        | Northstar          |
+|   2 | Simon Fraser University        | Ascension Robotics |
+|   3 | Texas A&M University           | Texas Aimbots      |
+|   4 | University of Washington       | ARUW               |
+|   5 | The University of Texas at     | Stampede           |
+|     | Austin                         |                    |
+|   6 | Rose-Hulman Institute of       | Thornbots          |
+|     | Technology                     |                    |
+|   7 | Georgia Institute of           | RoboRambler        |
+|     | Technology                     |                    |
+|   8 | University of California, San  | Triton Robotics    |
+|     | Diego                          |                    |
+|   9 | The Pennsylvania State         | MechNittany        |
+|     | University                     |                    |
+|  10 | Politecnico di Torino          | RoboTO             |
+|  11 | Polytechnique Montréal         | PolySTAR           |
+|  12 | McMaster University            | MacFalcons         |
+|  13 | University of British Columbia | PacificSpirit      |
+|  14 | Virginia Polytechnic Institute | RoboGrinder        |
+|     | and State University           |                    |
+|  15 | New York University            | Ultraviolet        |
+|  16 | University of Colorado Boulder | CU Robotics        |
+|  17 | National University of         | Calibur            |
+|     | Singapore                      |                    |
+|  18 | Purdue University              | Boilerbot          |
+|  19 | University of Alberta          | Artemis            |
+|  20 | Meijo University               | NAGOYASHACHIHOKO   |
+|  21 | Washington University in St.   | Ursaworks          |
+|     | Louis                          |                    |
+|  22 | Kanto Union University         | OOEDO SAMURAI      |
++-----+--------------------------------+--------------------+
+
+二、Infantry Match
+
++-----+--------------------------------+---------------------+
+| No. | School                         | Team                |
+|   1 | University of Minnesota        | Northstar           |
+|   2 | Simon Fraser University        | Ascension Robotics  |
+|   3 | The University of Texas at     | Error 404           |
+|     | Arlington                      |                     |
+|   4 | University of California,      | Gauchos             |
+|     | Santa Barbara                  |                     |
+|   5 | Duke University                | Azurebot            |
+|   6 | Texas A&M University           | Texas Aimbots       |
+|   7 | University of Washington       | ARUW                |
+|   8 | The University of Texas at     | Stampede            |
+|     | Austin                         |                     |
+|   9 | Rose-Hulman Institute of       | Thornbots           |
+|     | Technology                     |                     |
+|  10 | Georgia Institute of           | RoboRambler         |
+|     | Technology                     |                     |
+|  11 | University of California, San  | Triton Robotics     |
+|     | Diego                          |                     |
+|  12 | Ontario Tech University        | Ridgebots           |
+|  13 | The Pennsylvania State         | MechNittany         |
+|     | University                     |                     |
+|  14 | Politecnico di Torino          | RoboTO              |
+|  15 | Polytechnique Montréal         | PolySTAR            |
+|  16 | McMaster University            | MacFalcons          |
+|  17 | University of British Columbia | PacificSpirit       |
+|  18 | Virginia Polytechnic Institute | RoboGrinder         |
+|     | and State University           |                     |
+|  19 | New York University            | Ultraviolet         |
+|  20 | University of Colorado Boulder | CU Robotics         |
+|  21 | National University of         | Calibur             |
+|     | Singapore                      |                     |
+|  22 | Purdue University              | Boilerbot           |
+|  23 | University of Alberta          | Artemis             |
+|  24 | Meijo University               | NAGOYASHACHIHOKO    |
+|  25 | University of                  | WISCEEE             |
+|     | Wisconsin-Madison              |                     |
+|  26 | Austin Community College       | River Fang Robotics |
+|  27 | Washington University in St.   | Ursaworks           |
+|     | Louis                          |                     |
+|  28 | Kanto Union University         | OOEDO SAMURAI       |
++-----+--------------------------------+---------------------+
+
+三、Engineer Challenge
+
++-----+--------------------------------+--------------------+
+| No. | School                         | Team               |
+|   1 | Simon Fraser University        | Ascension Robotics |
+|   2 | Duke University                | Azurebot           |
+|   3 | Texas A&M University           | Texas Aimbots      |
+|   4 | University of Washington       | ARUW               |
+|   5 | Politecnico di Torino          | RoboTO             |
+|   6 | Polytechnique Montréal         | PolySTAR           |
+|   7 | McMaster University            | MacFalcons         |
+|   8 | Virginia Polytechnic Institute | RoboGrinder        |
+|     | and State University           |                    |
+|   9 | New York University            | Ultraviolet        |
+|  10 | University of Colorado Boulder | CU Robotics        |
+|  11 | National University of         | Calibur            |
+|     | Singapore                      |                    |
+|  12 | Purdue University              | Boilerbot          |
+|  13 | Meijo University               | NAGOYASHACHIHOKO   |
+|  14 | Kanto Union University         | OOEDO SAMURAI      |
++-----+--------------------------------+--------------------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
