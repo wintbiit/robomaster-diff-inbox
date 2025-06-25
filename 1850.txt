@@ -1,0 +1,262 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师超级对抗赛第二批飞手考核须知
+
+2025-06-25
+
+飞手考核通过权限：
+
+①飞手考核分为理论测评和视频考核两个部分。飞手理论测评与飞手视频考核两部分均通过，方可获得空中机器人的起飞资格。若未通过其中任一部分，均不可获得空中机器人的起飞资格，但不影响该飞手的参赛资格和该参赛队伍空中机器人上场资格；每队至多可通过3名飞手。
+
+②持有小型无人驾驶航空器及以上的民用无人驾驶航空器操控员执照默认通过飞手考核，需将操控员理论合格证及执照提交至： https://djistore.wjx.cn/vm/YXtSLVr.aspx
+
+③已通过RMUC 2024飞手考核与RMUC 2025第一批飞手考核的参赛队员，无须参与本次考核，默认获得RMUC 2025的空中机器人起飞资格。注：获得空中机器人起飞资格与进入候场/赛场资格相互独立，互不影响，例梯队队员获得空中机器人起飞资格，其仍无法进入候场/赛场。
+
+飞手理论测评：
+
+参与对象：已获得RMUC 2025复活赛&全国赛参赛资格的参赛队伍
+
+测评时间：即日起—2025年7月10日18:00（北京时间）
+
+测评内容： 国家无人驾驶航空器一体化综合监管服务平台（民用无人驾驶航空器综合管理平台） https://uom.caac.gov.cn/ 中，操控员资质→安全操控理论培训→在线视频培训中的培训内容
+
+测评形式：通过国家无人驾驶航空器一体化综合监管服务平台（民用无人驾驶航空器综合管理平台） https://uom.caac.gov.cn/ 中，操控员资质→安全操控理论培训→在线考试中的考核内容
+
+通过条件：获取平台核发的民用无人驾驶航空器操控员理论合格证，并在测试时间结束前将合格证提交至： https://djistore.wjx.cn/vm/YXtSLVr.aspx
+
+注意事项：
+
+①平台需使用飞手个人有效证件注册，中国大陆队伍可使用身份证，港澳台及海外队伍可使用护照等其他有效证件
+
+②在线考试每天在平台完成45分钟以上视频学习后方可参加，每日可参与的考试次数有限，请合理安排时间
+
+③如比赛期间需更换飞手，每个飞手均需持有合格证，故均需通过飞手考核
+
+飞手视频考核：
+
+参与对象：已获得RMUC 2025复活赛&全国赛参赛资格的参赛队伍
+
+参与方式：将视频上传到优酷/哔哩哔哩等平台，可选择设置观看密码。以参赛队伍为单位，将视频网址、观看密码提交至问卷： https://djistore.wjx.cn/vm/tZgaQXC.aspx
+
+提交时间：即日起—2025年7月10日18:00（北京时间）
+
+提交机会：每个飞手单独提交1次，同一参赛队伍至多有3人可提交
+
+通过条件：考核达到90分方可通过
+
+基本要求：
+
+1.飞手对空中机器人的的操作展示视频，空中无人机不允许使用 GPS 定位信号（可使用锡箔纸屏蔽 GPS 信号或者使用姿态模式飞行）
+
+2.空中机器人轴距大于或等于650mm
+
+3.若考试过程中出现严重错误（例如水平8字航线飞行时在偏离航线后进行错误的姿态纠正），将直接判定为不及格
+
+考察内容：
+
+1.空中机器人原地起飞，悬停 20s，空中机器人在此期间高度漂移 0.5倍桨距范围内，水平漂移 0.5倍桨距范围内（10分）
+
+2.前往5m外的目标点悬停 20s，空中机器人在此期间高度漂移 0.5倍桨距范围内，水平漂移 0.5倍桨距内（10分）
+
+3.在 5m外的目标点进行 360 度旋转，高度漂移0.5倍桨距范围内，水平漂移0.5倍桨距范围内（20分）
+
+4.在2m的高度进行水平8字航线飞行。空中机器人飞行的前进方向，（即飞控的X轴方向）始终与8字型航线相切（50分）
+
+5.降落到起飞点（10分）
+
+视频要求：
+
+1.每单个考查内容视频不允许剪辑
+
+2.每个过程配有字幕或提示板，视频解说需清晰解释视频中每一个过程
+
+3.只展示有效内容，保证视频节奏紧凑，时长控制在三分钟以内
+
+4.清晰度高于 720P
+
+5.视频开头为考核飞手手持身份证的照片（可隐藏身份证号码），港澳台及海外队伍使用前往中国内地的证件（如护照）
+
+6.每项考核需拍摄两份视频。其中一份为先拍摄飞手正脸后，视角慢慢转移到拍摄的飞手背面和空中机器人（飞手必须始终在画面中），然后开始进行考核。另一个人在飞手的正对面拍摄空中机器人和操作手，拍摄的视频以画中画形式显示，时间同步精度控制在5秒内
+
+特别注意事项：
+
+1.飞行过程中，飞手禁止跟随空中机器人移动
+
+2.飞行过程中，须控制悬停漂移距离，避免修正超调过大，避免过多多余操作
+
+3.在2m的高度进行水平8字航线飞行时，飞行器前进方向与8字航线相切，8字航线须完整，请先自行了解8字航线定义，防止无效航线飞行
+
+4.在目标点进行360度旋转时，旋转角度须满360度
+
+5.完成项目时，须按规定在5m外进行，距离须满足要求
+
+6.视频结束时，须按要求降落到起飞点
+
+7.请确保视频清晰度高于720P，确保完整拍摄飞行全过程，拍摄时确保摄像设备稳定性
+
+8.拍摄视频时需注意场地周边物品及人员安全，如发现有无关人员进入测试区域或有危险物品（如电线杆，风筝，未固定的飘带，易被卷起的地毯等物品），将直接判定为不及格
+
+9.根据新发布的《无人驾驶航空器飞行管理暂行条例》 https://www.gov.cn/zhengce/zhengceku/202306/content_6888800.htm ，队伍在拍摄视频时须满足操控人员、飞行场地、飞行器的合规性。建议优先选取大小足够的室内场地；如管制空域范围以外的室外空域（即“微型、轻型、小型无人驾驶航空器的适飞空域”），须使用微型/轻型无人驾驶航空器或操控人员需持有相应民用无人驾驶航空器操控员执照
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
