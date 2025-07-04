@@ -134,7 +134,7 @@ RMUC 2025区域赛综合评估问卷链接： https://doc.weixin.qq.com/sheet/e3
 * 家长
 * 其他
 
-无数据
+No data
 
 您/您的孩子/学生所处的学段：
 
@@ -144,14 +144,14 @@ RMUC 2025区域赛综合评估问卷链接： https://doc.weixin.qq.com/sheet/e3
 * 大学
 * 其他
 
-无数据
+No data
 
 您/您的孩子/学生是否参加过RM比赛：
 
 * 是
 * 否
 
-无数据
+No data
 
 您的电话：
 
@@ -193,4 +193,4 @@ RMUC 2025区域赛综合评估问卷链接： https://doc.weixin.qq.com/sheet/e3
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ).cn/ )
