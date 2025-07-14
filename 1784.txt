@@ -54,7 +54,7 @@ RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
 公告 / 资料
 
 * 
-公告 ( /zh-CN/resource/announcement?djifrom=nav )
+公告 / 规则 ( /zh-CN/resource/announcement?djifrom=nav )
 
 * 
 新闻 ( /zh-CN/resource/news?djifrom=nav )
@@ -203,4 +203,4 @@ RoboMaster 2025机甲大师高校人工智能挑战赛比赛信息及规范文�
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )v.cn/ )025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )5 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
