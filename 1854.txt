@@ -1,0 +1,241 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 / 规则 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster AWARD 2025 候选人公示
+
+2025-07-26
+
+根据 《RoboMaster AWARD 2025 评选公告》 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1844 ) ，RoboMaster AWARD 2025（以下简称“RM AWARD 2025”）经过严格的材料初筛和复筛流程，以下 RM AWARD 2025 候选人已通过材料评审，获得 RM AWARD 2025 提名奖：
+
++--------------------------+----------+--------------------------+--------------+--------+
+| 获奖类别                 | 获奖方向 | 姓名                     | 学校全称     | 队名   |
+| RM AWARD 2025 技术提名奖 | 机械     | 陈翀                     | 华南理工大学 | 华南虎 |
+| 机械                     | 陈嘉俊   | 桂林电子科技大学         | Evolution    |
+| 机械                     | 虢庆翔   | 齐鲁工业大学             | Adam         |
+| 机械                     | 李佳鹏   | 哈尔滨工业大学（威海）   | HERO         |
+| 机械                     | 李沁泽   | 重庆理工大学             | 士继DREAMER  |
+| 机械                     | 刘田     | 华北理工大学             | Horizon      |
+| 机械                     | 潘智杰   | 华南农业大学             | Taurus       |
+| 机械                     | 孙孟泽   | 中国石油大学（华东）     | RPS          |
+| 机械                     | 陶迦伟   | 天津大学                 | 北洋机甲     |
+| 机械                     | 王倍卓   | 北京理工大学             | 追梦         |
+| 机械                     | 王泽寰   | 大连理工大学             | 凌BUG        |
+| 机械                     | 韦松佑   | 东北大学                 | TDT          |
+| 机械                     | 吴毅昕   | 上海交通大学             | 交龙         |
+| 机械                     | 武子轩   | 中国石油大学（华东）     | RPS          |
+| 机械                     | 徐硕     | 哈尔滨工业大学（深圳）   | 南工骁鹰     |
+| 机械                     | 张献元   | 南方科技大学             | ARTINX       |
+| 机械                     | 赵相中   | 华北科技学院             | 风暴         |
+| 机械                     | 赵星杰   | 北方工业大学             | DreamTeam    |
+| 机械                     | 郑嘉琪   | 东莞理工学院             | ACE          |
+| 机械                     | 郑竣文   | 电子科技大学中山学院     | RoboBraver   |
+| 嵌入式                   | 李腾宇   | 中国矿业大学             | CUBOT        |
+| 嵌入式                   | 覃梓函   | 南京理工大学             | Alliance     |
+| 嵌入式                   | 田晴     | 中国石油大学（华东）     | RPS          |
+| 嵌入式                   | 王芃     | 辽宁科技大学             | COD          |
+| 嵌入式                   | 杨康韦   | 四川大学                 | 火锅         |
+| 算法                     | 蔡彬     | 桂林电子科技大学         | Evolution    |
+| 算法                     | 陈东易   | 电子科技大学             | 冬瓜         |
+| 算法                     | 段智竞   | 哈尔滨工业大学（深圳）   | 南工骁鹰     |
+| 算法                     | 关怀     | 上海交通大学             | 交龙         |
+| 算法                     | 兰博颢   | 中南大学                 | FYT          |
+| 算法                     | 李杨     | 华东理工大学             | 起源         |
+| 算法                     | 梁庭玮   | 广东工业大学             | DynamicX     |
+| 算法                     | 路少鹏   | 电子科技大学             | 无际         |
+| 算法                     | 聂显     | 上海交通大学             | 交龙         |
+| 算法                     | 杨博文   | 上海交通大学             | 交龙         |
+| 算法                     | 于丛瑞   | 北京理工大学             | 飞向月球     |
+| 算法                     | 郑派成   | 河北工业大学             | 山海机甲     |
+| 算法                     | 郑嗣炜   | 中南大学                 | FeiSi        |
+| 算法                     | 朱俊衡   | 东北大学                 | TDT          |
+| 硬件                     | 陈博钦   | 深圳大学                 | RobotPilots  |
+| 硬件                     | 王鹏胜   | 北京理工大学             | 追梦         |
+| 硬件                     | 贤梓铭   | 香港科技大学             | ENTERPRIZE   |
+| 硬件                     | 杨宇翔   | 桂林电子科技大学         | Evolution    |
+| RM AWARD 2025 管理提名奖 | 管理     | 曾竟源                   | 华南农业大学 | Taurus |
+| 管理                     | 陈翀     | 华南理工大学             | 华南虎       |
+| 管理                     | 冀彦儒   | 太原理工大学             | TRoMaC       |
+| 管理                     | 李柯轩   | 同济大学                 | SuperPower   |
+| 管理                     | 林溥靖   | 浙江大学                 | Hello World  |
+| 管理                     | 刘天承   | 成都信息工程大学         | 风信子       |
+| 管理                     | 穆俊旭   | 中国科学技术大学         | RoboWalker   |
+| 管理                     | 裴潇勇   | 南京航空航天大学金城学院 | Born of Fire |
+| 管理                     | 容键超   | 广东工业大学             | DynamicX     |
+| 管理                     | 孙晨健   | 武汉工程大学             | Nautilus     |
+| 管理                     | 谭晓通   | 北京理工大学珠海学院     | 毅恒         |
+| 管理                     | 许博     | 电子科技大学中山学院     | RoboBraver   |
+| 管理                     | 袁梓博   | 哈尔滨工业大学（深圳）   | 南工骁鹰     |
+| 管理                     | 张傲寒   | 西北工业大学             | WMJ          |
+| 管理                     | 张淄栋   | 中国石油大学（华东）     | RPS          |
+| 管理                     | 张子晗   | 南方科技大学             | ARTINX       |
++--------------------------+----------+--------------------------+--------------+--------+
+
+以上候选人获奖信息公示期从即日起截止至2025年7月27日18:00。在此期间，任何队伍或个人均可通过邮件形式向 RoboMaster 组委会（robomaster@ dji.com ( http://dji.com ) ）提出异议。公示期结束后，无异议或异议不成立的候选人将进入下一阶段的面试评选。
+
+如有任何其它疑问，请联系 RoboMaster 高校赛务（微信：rmsaiwu）。
+
+RoboMaster 组委会
+
+2025年7月26日
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
