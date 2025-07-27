@@ -144,7 +144,6 @@ RoboMaster AWARD 2025 候选人公示
 | 管理                     | 冀彦儒   | 太原理工大学             | TRoMaC       |
 | 管理                     | 李柯轩   | 同济大学                 | SuperPower   |
 | 管理                     | 林溥靖   | 浙江大学                 | Hello World  |
-| 管理                     | 刘天承   | 成都信息工程大学         | 风信子       |
 | 管理                     | 穆俊旭   | 中国科学技术大学         | RoboWalker   |
 | 管理                     | 裴潇勇   | 南京航空航天大学金城学院 | Born of Fire |
 | 管理                     | 容键超   | 广东工业大学             | DynamicX     |
@@ -238,4 +237,4 @@ RoboMaster 组委会
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )��机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
