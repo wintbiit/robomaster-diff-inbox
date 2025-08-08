@@ -1,0 +1,270 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+RoboMaster 论坛 ( https://bbs.robomaster.com/ )
+RoboMaster 产品
+
+* 
+机器人
+
+* 
+AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+
+* 
+配件
+
+* 
+通用产品 ( /zh-CN/products/components/general?djifrom=nav )
+
+* 
+比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
+
+* 
+裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
+
+* 
+RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
+
+公告 / 资料
+
+* 
+公告 / 规则 ( /zh-CN/resource/announcement?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+活动 ( /zh-CN/resource/activities?djifrom=nav )
+
+* 
+图片 ( /zh-CN/resource/image?djifrom=nav )
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+下载 ( /zh-CN/resource/download?djifrom=nav )
+
+文化作品
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2025机甲大师超级对抗赛全国赛获奖名单
+
+2025-08-08
+
++--------------------------+------------------------+------------+--------+
+| 排名                     | 学校名称               | 队伍名称   | 奖项   |
+| 冠军                     | 上海交通大学           | 交龙       | 一等奖 |
+| 亚军                     | 中国科学技术大学       | RoboWalker | 一等奖 |
+| 季军                     | 华南理工大学           | 华南虎     | 一等奖 |
+| 殿军                     | 东北大学               | TDT        | 一等奖 |
+| 八强                     | 大连理工大学           | 凌BUG      | 一等奖 |
+| 中国石油大学（华东）     | RPS                    | 一等奖     |
+| 同济大学                 | SuperPower             | 一等奖     |
+| 浙江大学                 | Hello World            | 一等奖     |
+| 十六强                   | 东南大学               | 3SE        | 一等奖 |
+| 广东工业大学             | DynamicX               | 一等奖     |
+| 哈尔滨工业大学           | I Hiter                | 一等奖     |
+| 华南农业大学             | Taurus                 | 一等奖     |
+| 南京航空航天大学         | 长空御风               | 一等奖     |
+| 深圳大学                 | RobotPilots            | 一等奖     |
+| 太原工业学院             | 火线                   | 一等奖     |
+| 太原理工大学             | TRoMaC                 | 一等奖     |
+| 三十二强                 | 南方科技大学           | ARTINX     | 二等奖 |
+| 西安交通大学             | 笃行                   | 二等奖     |
+| 南京航空航天大学金城学院 | Born of Fire           | 二等奖     |
+| 山东科技大学             | SmartRobot             | 二等奖     |
+| 电子科技大学中山学院     | RoboBraver             | 二等奖     |
+| 哈尔滨工业大学（威海）   | HERO                   | 二等奖     |
+| 哈尔滨工程大学           | 创梦之翼               | 二等奖     |
+| 武汉工程大学             | Nautilus               | 二等奖     |
+| 五邑大学                 | IMCA                   | 二等奖     |
+| 中南大学                 | FYT                    | 二等奖     |
+| 北方工业大学             | DreamTeam              | 二等奖     |
+| 西北工业大学             | WMJ                    | 二等奖     |
+| 吉林大学                 | TARS_Go                | 二等奖     |
+| 中国矿业大学             | CUBOT                  | 二等奖     |
+| 佛山大学                 | 醒狮                   | 二等奖     |
+| 中国石油大学（北京）     | SPR                    | 二等奖     |
+|                          | 哈尔滨工业大学（深圳） | 南工骁鹰   | 二等奖 |
+| 华东理工大学             | 起源                   | 二等奖     |
+| 四川大学                 | 火锅                   | 二等奖     |
+| 香港科技大学             | ENTERPRIZE             | 二等奖     |
+| 新潟联合大学             | Phoenix Robots         | 二等奖     |
+| 南昌大学                 | Passion                | 二等奖     |
+| 华北科技学院             | 风暴                   | 二等奖     |
+| 首都师范大学             | PIE                    | 二等奖     |
+| 东北林业大学             | Ares                   | 二等奖     |
+| 天津大学                 | 北洋机甲               | 二等奖     |
+| 桂林信息科技学院         | GIRT                   | 二等奖     |
+| 厦门大学嘉庚学院         | TCR                    | 二等奖     |
+| 北京理工大学（珠海）     | 毅恒                   | 二等奖     |
+| 华中科技大学             | 狼牙                   | 二等奖     |
+| 安徽信息工程学院         | Artisans               | 三等奖     |
+| 北京工业大学             | PIP                    | 三等奖     |
+| 北京科技大学             | Reborn                 | 三等奖     |
+| 北京理工大学             | 追梦                   | 三等奖     |
+| 北京信息科技大学         | 星辰                   | 三等奖     |
+| 成都大学                 | Ultra                  | 三等奖     |
+| 成都信息工程大学         | 风信子                 | 三等奖     |
+| 重庆大学                 | 千里                   | 三等奖     |
+| 重庆理工大学             | 士继DREAMER            | 三等奖     |
+| 东北大学秦皇岛分校       | 征龙凌沧               | 三等奖     |
+| 东莞理工学院             | ACE                    | 三等奖     |
+| 东华大学                 | DIODE                  | 三等奖     |
+| 福建理工大学             | 苍侠                   | 三等奖     |
+| 广西大学                 | ROBOTZ                 | 三等奖     |
+| 广州城市理工学院         | 野狼                   | 三等奖     |
+| 桂林电子科技大学         | Evolution              | 三等奖     |
+| 桂林理工大学             | 群星                   | 三等奖     |
+| 国防科技大学             | 军临                   | 三等奖     |
+| 合肥工业大学             | 苍穹                   | 三等奖     |
+| 合肥工业大学(宣城校区)   | WDR                    | 三等奖     |
+| 河北工业大学             | 山海机甲               | 三等奖     |
+| 河北科技大学             | Actor&Thinker          | 三等奖     |
+| 湖南大学                 | 跃鹿                   | 三等奖     |
+| 华北理工大学             | Horizon                | 三等奖     |
+| 江苏大学                 | Aurora                 | 三等奖     |
+| 辽宁科技大学             | COD                    | 三等奖     |
+| 南华大学                 | MA                     | 三等奖     |
+| 南京理工大学             | Alliance               | 三等奖     |
+| 宁波工程学院             | New Legends            | 三等奖     |
+| 齐鲁工业大学             | Adam                   | 三等奖     |
+| 青岛大学                 | 未来                   | 三等奖     |
+| 山东理工大学             | 齐奇                   | 三等奖     |
+| 上海工程技术大学         | 木鸢Birdiebot          | 三等奖     |
+| 上海科技大学             | Magician               | 三等奖     |
+| 深圳技术大学             | 悍匠                   | 三等奖     |
+| 深圳职业技术大学         | RCIA                   | 三等奖     |
+| 沈阳航空航天大学         | TUP                    | 三等奖     |
+| 沈阳理工大学             | Ambition               | 三等奖     |
+| 西安电子科技大学         | IRobot                 | 三等奖     |
+| 西安理工大学             | NEXT E                 | 三等奖     |
+| 西南交通大学             | Helios                 | 三等奖     |
+| 西南石油大学             | 铁人                   | 三等奖     |
+| 香港科技大学（广州）     | PnX                    | 三等奖     |
+| 湘潭大学                 | 逐曦                   | 三等奖     |
+| 燕山大学                 | 燕鹰                   | 三等奖     |
+| 云南大学                 | Future                 | 三等奖     |
+| 长安大学                 | VGD                    | 三等奖     |
+| 长沙理工大学             | 云嵌                   | 三等奖     |
+| 浙江纺织服装职业技术学院 | RoboFuture             | 三等奖     |
+| 浙江理工大学             | 钱塘蛟                 | 三等奖     |
+| 中北大学                 |                    606 | 三等奖     |
+| 仲恺农业工程学院         | 奇点                   | 三等奖     |
++--------------------------+------------------------+------------+--------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 36383255
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
