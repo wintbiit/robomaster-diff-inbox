@@ -28,6 +28,7 @@ logo ( /zh-CN )
 赛事直播｜回放 ( /live?djifrom=nav )
 
 赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+论坛 ( https://bbs.robomaster.com )
 规则 / 公告
 
 * 
@@ -51,7 +52,7 @@ logo ( /zh-CN )
 原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
 
 专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
-报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+报名中心 ( https://bbs.robomaster.com/article/55619 )
 English ( /en-US )
 
 * 登录 ( javascript:void(0); )
@@ -197,9 +198,7 @@ RoboMaster 2025机甲大师高校系列赛异常情况及申诉公告
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )------
-
-关于大赛 ( /zh-CN/robo/overview )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )robo/overview )
 联系我们 ( /zh-CN/contact )
 隐私政策 ( /zh-CN/privacy )
 
