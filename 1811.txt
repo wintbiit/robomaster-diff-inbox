@@ -27,51 +27,22 @@ logo ( /zh-CN )
 * 
 赛事直播｜回放 ( /live?djifrom=nav )
 
-RoboMaster 论坛 ( https://bbs.robomaster.com/ )
-RoboMaster 产品
+赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+规则 / 公告
 
 * 
-机器人
+规则 / 资料中心 ( https://bbs.robomaster.com/wiki/20204847 )
 
 * 
-AI 机器人 ( /zh-CN/products/components/robot?djifrom=nav )
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
 
-* 
-配件
-
-* 
-通用产品 ( /zh-CN/products/components/general?djifrom=nav )
-
-* 
-比赛专用产品 ( /zh-CN/products/components/competition?djifrom=nav )
-
-* 
-裁判系统 ( /zh-CN/products/components/referee?djifrom=nav )
-
-* 
-RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
-
-公告 / 资料
-
-* 
-公告 / 规则 ( /zh-CN/resource/announcement?djifrom=nav )
-
-* 
-新闻 ( /zh-CN/resource/news?djifrom=nav )
-
-* 
-活动 ( /zh-CN/resource/activities?djifrom=nav )
-
-* 
-图片 ( /zh-CN/resource/image?djifrom=nav )
+媒体库
 
 * 
 视频 ( /zh-CN/resource/video?djifrom=nav )
 
 * 
-下载 ( /zh-CN/resource/download?djifrom=nav )
-
-文化作品
+新闻 ( /zh-CN/resource/news?djifrom=nav )
 
 * 
 同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
@@ -79,7 +50,7 @@ RM ASSISTANT ( /zh-CN/products/components/detail/4643?djifrom=nav )
 * 
 原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
 
-专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit?djifrom=Recruitment_From_Nav )
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
 报名中心 ( https://registration.robomaster.com/?djifrom=nav )
 English ( /en-US )
 
@@ -177,6 +148,27 @@ Permissions Upon Passing:
 
 关于RoboMaster
 ------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )------
 
 关于大赛 ( /zh-CN/robo/overview )
 联系我们 ( /zh-CN/contact )
