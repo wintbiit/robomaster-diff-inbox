@@ -1,0 +1,655 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+规则 / 公告
+
+* 
+规则 / 资料中心 ( https://bbs.robomaster.com/wiki/20204847 )
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+媒体库
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2026机甲大师高校系列赛代表队伍名单公示
+
+2025-10-21
+
+RoboMaster 机甲大师高校系列赛（RMU），包括超级对抗赛（RMUC）和高校联盟赛（RMUL）。根据 参赛手册 ( https://bbs.robomaster.com/wiki/20204847 ) 的规定：
+
+1.参赛队伍需取得所在学校（校区）的授权盖章，并依托该高等院校报名参赛；
+
+2.同一支参赛队伍可以同时报名参与RMU的不同赛事。组委会将把同一赛季中，参与不同赛事的同一支参赛队伍视为一个整体，进行各项流程的处理，且同一参赛队伍参与不同赛事必须使用相同的队名；
+
+3.根据不同赛事的规定，在同一赛事中，每所学校可有至多一或二支队伍拥有参赛资格。
+
+RoboMaster组委会鼓励各参赛高校及队伍积极整合学校内外部资源，充分发展并提高自身技术、管理水平，做好队伍内部传承工作，营造健康、良性、可持续发展的备赛环境。基于以上原则，根据自 RMUC 2020 起的超级对抗赛报名审核情况，现公布已通过审核的各高校代表队伍名单。
+
+一、代表队伍拥有RMUC、RMUL优先参赛权及优先积分权。RMU 参赛队伍的参赛资格分配优先原则按顺序为：
+
+1.当赛季已提交报名申请的代表队伍（见下表）；
+
+2.当赛季已提交报名申请且在对应赛事中最新连续赛龄较长的队伍；
+
+3.当赛季通过《参赛授权函》确定代表高校参赛的队伍。
+
+二、根据参赛手册部分特殊情况说明如下：
+
+1.若某高校同时存在代表队伍和非代表队伍参与不同赛项，则在 机甲大师高校积分体系 ( https://www.robomaster.com/zh-CN/robo/rm/integral ) 中，仅按代表队伍的比赛成绩进行积分计算；
+
+2.代表队伍名单将在每个赛季根据RMUC报名审核情况更新。若某高校需在某赛季替换代表队伍或修改队伍关键信息（见 参赛手册 ( https://bbs.robomaster.com/wiki/20204847 ) 中的“五不同”原则），需由所在高校出示《代表队伍更换声明》，组委会将以该声明为准，进行代表队伍的更换。
+
+3.每赛季报名期间队伍拥有一次自由修改队名的机会，若某代表队伍仅需修改队名，提交报名资料后通过RM高校赛务企业微信联系组委会进行报备；报名结束后则不允许修改队名，赛事之间相互独立但遵循同一参赛队伍参与不同赛事必须使用相同的队名原则。
+
+4.如非代表队伍的同校队伍欲参加RMU中的部分赛事（项目），则需与代表队伍进行协商。如代表队伍自愿放弃部分赛事（项目）的报名资格，则组委会将通过该非代表队伍的报名申请。
+
++------+--------------------------------------------+--------------------------------+------------------+
+| 序号 | 学校名称                                   | School Name                    | 队伍名称         |
+| No.  |                                            |                                | Team Name        |
+|    1 | 阿尔伯塔大学                               | University of Alberta          | Artemis          |
+|    2 | 安徽工程大学                               | Anhui University of            | 安凤             |
+|      |                                            | Engineering                    |                  |
+|    3 | 安徽信息工程学院                           | Anhui Institute of Information | Artisans         |
+|      |                                            | Engineering                    |                  |
+|    4 | 澳门大学                                   | University of Macau            | Arcana           |
+|    5 | 包头轻工职业技术学院                       | Baotou Light Industry          | 金牛             |
+|      |                                            | Vocational and Technical       |                  |
+|      |                                            | College                        |                  |
+|    6 | 北部湾大学                                 | North Bay University           | 飞虎             |
+|    7 | 北方工业大学                               | North China University of      | DreamTeam        |
+|      |                                            | Technology                     |                  |
+|    8 | 北京工业大学                               | Beijing University Of          | PIP              |
+|      |                                            | Technology                     |                  |
+|    9 | 北京航空航天大学                           | Beijing University of          | Transistor       |
+|      |                                            | Aeronautics and Astronautics   |                  |
+|   10 | 北京吉利学院                               | Beijing Geely University       | 北吉星           |
+|   11 | 北京交通大学                               | Beijing Jiaotong University    | BNGU             |
+|   12 | 北京交通大学（威海）                       | Beijing Jiaotong University    | BNG              |
+|      |                                            | (Weihai)                       |                  |
+|   13 | 北京科技大学                               | University of Science and      | Reborn           |
+|      |                                            | Technology Beijing             |                  |
+|   14 | 北京理工大学                               | Beijing Institute of           | 追梦             |
+|      |                                            | Technology                     |                  |
+|   15 | 北京理工大学（珠海）                       | Beijing Institute of           | 毅恒             |
+|      |                                            | Technology (Zhuhai)            |                  |
+|   16 | 北京林业大学                               | Beijing Forestry University    | 森林狼           |
+|   17 | 北京师范大学珠海分校                       | Beijing Normal University,     | SoaringRobotics  |
+|      |                                            | Zhuhai                         |                  |
+|   18 | 北京信息科技大学                           | Beijing Information Science    | 星辰             |
+|      |                                            | and Technology University      |                  |
+|   19 | 北京邮电大学                               | Beijing University of Posts    | 逐雁             |
+|      |                                            | and Telecommunications         |                  |
+|   20 | 北师香港浸会大学                           | Beijing Normal–Hong Kong       | Navigator        |
+|      |                                            | Baptist University             |                  |
+|   21 | 宾夕法尼亚州立大学                         | Pennsylvania State University  | RoboX            |
+|   22 | 常熟理工学院                               | Changshu Institute of          | R&A              |
+|      |                                            | Technology                     |                  |
+|   23 | 常州大学                                   | Changzhou University           | Climber          |
+|   24 | 常州工学院                                 | Changzhou Institute of         | FA               |
+|      |                                            | Technology                     |                  |
+|   25 | 成都大学                                   | Chengdu University             | Ultra            |
+|   26 | 成都工业学院                               | Chengdu Institute of           | Success          |
+|      |                                            | Technology                     |                  |
+|   27 | 成都理工大学                               | Chengdu University of          | Treasure         |
+|      |                                            | Technology                     |                  |
+|   28 | 成都信息工程大学                           | Chengdu University of          | 风信子           |
+|      |                                            | Information Technology         |                  |
+|   29 | 赤峰学院                                   | Chifeng University             | 红山             |
+|   30 | 大都会自治大学                             | Metropolitan Autonomous        | RAWS             |
+|      |                                            | University                     |                  |
+|   31 | 大连大学                                   | Dalian University              | 智能引擎         |
+|   32 | 大连交通大学                               | Dalian Jiaotong University     | TOE              |
+|   33 | 大连理工大学                               | Dalian University of           | 凌BUG            |
+|      |                                            | Technology                     |                  |
+|   34 | 大连民族大学                               | Dalian Minzu University        | C·ONE            |
+|   35 | 德州大学奥斯汀分校                         | University of Texas at Austin  | Stampede         |
+|   36 | 德州农工大学                               | Texas A&M University           | Texas Aimbots    |
+|   37 | 电子科技大学                               | University of Electronic       | OnePointFive     |
+|      |                                            | Science and Technology         |                  |
+|   38 | 电子科技大学成都学院                       | Chengdu University of          | 微城市           |
+|      |                                            | Electronic Science and         |                  |
+|      |                                            | Technology of China            |                  |
+|   39 | 电子科技大学中山学院                       | University of Electronic       | RoboBraver       |
+|      |                                            | Science and Technology of      |                  |
+|      |                                            | China, Zhongshan Institute     |                  |
+|   40 | 东北大学                                   | Northeastern University        | TDT              |
+|   41 | 东北大学秦皇岛分校                         | Northeastern University at     | 征龙凌沧         |
+|      |                                            | Qinhuangdao                    |                  |
+|   42 | 东北林业大学                               | Northeast Forestry University  | Ares             |
+|   43 | 东莞城市学院                               | Dongguan City University       | Walker           |
+|   44 | 东莞理工学院                               | Dongguan University of         | ACE              |
+|      |                                            | Technology                     |                  |
+|   45 | 东莞理工学院城市学院                       | City College of Dongguan       | Walker           |
+|      |                                            | University of Technology       |                  |
+|   46 | 东莞理工学院粤台产业科技学院               | Guangdong-Taiwan Institute     | KineticRobotics  |
+|      |                                            | of Industrial Technology,      |                  |
+|      |                                            | Dongguan University of         |                  |
+|      |                                            | Technology                     |                  |
+|   47 | 东莞理工学院中法联合学院                   | DGUT-CNAM Institute, Dongguan  | KineticRobotics  |
+|      |                                            | University of Technology       |                  |
+|   48 | 东华大学                                   | Donghua University             | DIODE            |
+|   49 | 东南大学                                   | Southeast University           | 3SE              |
+|   50 | 都灵理工大学                               | Politecnico di Torino          | RoboTO           |
+|   51 | 俄亥俄州立大学                             | Ohio State University          | Vindicator       |
+|   52 | 法国国立工艺学院                           | Conservatoire national des     | KineticRobotics  |
+|      |                                            | arts et métiers                |                  |
+|   53 | 防灾科技学院                               | School of Disaster Prevention  | 思玄             |
+|      |                                            | Technology                     |                  |
+|   54 | 弗吉尼亚理工大学                           | Virginia Tech                  | RoboGrinder      |
+|   55 | 佛山大学                                   | Foshan University              | 醒狮             |
+|   56 | 福冈联合大学                               | Fukuoka Union University       | FUKUOKA NIWAKA   |
+|   57 | 福建江夏学院                               | Fujian Jiangxia University     | DDU              |
+|   58 | 福建理工大学                               | Fujian University of           | 苍侠             |
+|      |                                            | Technology                     |                  |
+|   59 | 福建农林大学                               | Fujian Agriculture and         | 零七一           |
+|      |                                            | Forestry University            |                  |
+|   60 | 福建师范大学                               | Fujian Normal University       | Pikachu          |
+|   61 | 福州大学                                   | Fuzhou University              | 浮舟湿地         |
+|   62 | 高专大学联合                               | 高専大学連合                   | Scramble         |
+|   63 | 关东联合大学                               | 関東連合大学                   | OOEDO SAMURAI    |
+|   64 | 广东工商职业技术大学                       | Guangdong University of        | 科创者           |
+|      |                                            | Business and Technology        |                  |
+|   65 | 广东工业大学                               | Guangdong University of        | DynamicX         |
+|      |                                            | Technology                     |                  |
+|   66 | 广东交通职业技术学院                       | Guangdong Transportation       | 擎天             |
+|      |                                            | Vocational and Technical       |                  |
+|      |                                            | College                        |                  |
+|   67 | 广西大学                                   | Guangxi University             | ROBOTZ           |
+|   68 | 广西师范大学                               | Guangxi Normal University      | 虎师             |
+|   69 | 广西水利电力职业技术学院                   | Guangxi Water Conservancy and  | 萃芽             |
+|      |                                            | Electric Power Vocational and  |                  |
+|      |                                            | Technical College              |                  |
+|   70 | 广西职业技术学院                           | Guangxi Vocational and         | Knight           |
+|      |                                            | Technical College              |                  |
+|   71 | 广州城市理工学院                           | Guangzhou City University of   | 野狼             |
+|      |                                            | Technology                     |                  |
+|   72 | 广州航海学院                               | Guangzhou Maritime University  | ICBK破冰船       |
+|   73 | 广州南方学院                               | Nanfang College Guangzhou      | 南風             |
+|   74 | 广州铁路职业技术学院                       | Guangzhou Railway Polytechnic  | IRONR            |
+|   75 | 贵阳人文科技学院                           | The College of Humanities      | BIU              |
+|      |                                            | and Science of Guizhou Minzu   |                  |
+|      |                                            | University                     |                  |
+|   76 | 贵州师范大学                               | Guizhou Normal University      | CEC              |
+|   77 | 贵州师范学院                               | Guizhou Teachers College       | Jumper           |
+|   78 | 桂林电子科技大学                           | Guilin University of           | Evolution        |
+|      |                                            | Electronic Technology          |                  |
+|   79 | 桂林电子科技大学北海校区                   | Guilin University of           | 破浪笃行         |
+|      |                                            | Electronic Technology Beihai   |                  |
+|      |                                            | Campus                         |                  |
+|   80 | 桂林理工大学                               | Guilin University of           | 群星             |
+|      |                                            | Technology                     |                  |
+|   81 | 桂林信息科技学院                           | Guilin Institute of            | GIRT             |
+|      |                                            | Information Technology         |                  |
+|   82 | 国防科技大学                               | National University of Defense | 军临             |
+|      |                                            | Technology                     |                  |
+|   83 | 哈尔滨工程大学                             | Harbin Engineering University  | 创梦之翼         |
+|   84 | 哈尔滨工业大学                             | Harbin Institute of Technology | I Hiter          |
+|   85 | 哈尔滨工业大学（深圳）                     | Harbin Institute of Technology | 南工骁鹰         |
+|      |                                            | (Shenzhen)                     |                  |
+|   86 | 哈尔滨工业大学（威海）                     | Harbin Institute of Technology | HERO             |
+|      |                                            | (Weihai)                       |                  |
+|   87 | 哈尔滨理工大学                             | Harbin University of Science   | A.I.R.           |
+|      |                                            | and Technology                 |                  |
+|   88 | 哈尔滨理工大学荣成校区                     | Harbin University of Science   | SPARK            |
+|      |                                            | and Technology Rongcheng       |                  |
+|      |                                            | Campus                         |                  |
+|   89 | 海南大学                                   | Hainan University              | 南海鲨           |
+|   90 | 邯郸学院                                   | Handan College                 | 洪流             |
+|   91 | 杭州电子科技大学                           | Hangzhou University of         | PHOENIX          |
+|      |                                            | Electronic Science and         |                  |
+|      |                                            | Technology                     |                  |
+|   92 | 合肥工业大学                               | Hefei University of Technology | 苍穹             |
+|   93 | 合肥工业大学(宣城校区)                     | Hefei University Of Technology | WDR              |
+|      |                                            | Xuancheng Campus               |                  |
+|   94 | 河北工业大学                               | Hebei University of Technology | 山海机甲         |
+|   95 | 河北轨道运输职业技术学院                   | Hebei Rail Transportation      | 奇点智联         |
+|      |                                            | Vocational and Technical       |                  |
+|      |                                            | College                        |                  |
+|   96 | 河北建筑工程学院                           | Hebei University of            | LuBan            |
+|      |                                            | Architecture                   |                  |
+|   97 | 河北科技大学                               | Hebei University of Science    | Actor&Thinker    |
+|      |                                            | and Technology                 |                  |
+|   98 | 河北师范大学                               | Hebei Normal University        | 金钢             |
+|   99 | 黑河学院                                   | Heihe University               | LBT              |
+|  100 | 黑龙江工程学院                             | Heilongjiang Institute of      | Young Dreams     |
+|      |                                            | Technology                     |                  |
+|  101 | 黑龙江科技大学                             | Heilongjiang University of     | 战狼             |
+|      |                                            | Science and Technology         |                  |
+|  102 | 湖北工业大学                               | Hubei University of Technology | 力创RM           |
+|  103 | 湖南城市学院                               | Hunan City University          | Alien_Monster    |
+|  104 | 湖南大学                                   | Hunan University               | 跃鹿             |
+|  105 | 湖南理工学院                               | Hunan Institute of Technology  | 八林狐           |
+|  106 | 华北电力大学                               | North China Electric Power     | 龙龙             |
+|      |                                            | University                     |                  |
+|  107 | 华北科技学院                               | North China Institute of       | 风暴             |
+|      |                                            | Science and Technology         |                  |
+|  108 | 华北理工大学                               | North China University of      | Horizon          |
+|      |                                            | Science and Technology         |                  |
+|  109 | 华东交通大学                               | East China Jiaotong University | RealSteel        |
+|  110 | 华东理工大学                               | East China University of       | 起源             |
+|      |                                            | Science and Technology         |                  |
+|  111 | 华南理工大学                               | South China University of      | 华南虎           |
+|      |                                            | Technology                     |                  |
+|  112 | 华南农业大学                               | South China Agricultural       | Taurus           |
+|      |                                            | University                     |                  |
+|  113 | 华南师范大学                               | South China Normal University  | PIONEER          |
+|  114 | 华南师范大学（佛山校区）                   | South China Normal University  | VANGUARD         |
+|      |                                            | Foshan Campus                  |                  |
+|  115 | 华侨大学                                   | Huaqiao University             | EDR              |
+|  116 | 华盛顿大学                                 | Washington University          | ARUW             |
+|  117 | 华中科技大学                               | Huazhong University of Science | 狼牙             |
+|      |                                            | and Technology                 |                  |
+|  118 | 怀化学院                                   | Huaihua College                | 电气学院         |
+|  119 | 淮南联合大学                               | Huainan United University      | 硬骨头           |
+|  120 | 黄冈师范学院                               | Huanggang Normal University    | HDR              |
+|  121 | 惠州学院                                   | Huizhou University             | District 46      |
+|  122 | 吉林大学                                   | Jilin University               | TARS_Go          |
+|  123 | 吉林建筑科技学院                           | Jilin Institute of             | 吉剑客           |
+|      |                                            | Architecture and Technology    |                  |
+|  124 | 集美大学                                   | Jimei University               | 科来             |
+|  125 | 集美大学诚毅学院                           | Chengyi College, Jimei         | 潜渊             |
+|      |                                            | University                     |                  |
+|  126 | 济宁学院                                   | Jining College                 | 凌云             |
+|  127 | 加州大学圣地亚哥分校                       | University of California San   | Triton Robotics  |
+|      |                                            | Diego                          |                  |
+|  128 | 江南大学霞客湾校区                         | Jiangnan University, Xiake Bay | SHARK            |
+|      |                                            | Campus                         |                  |
+|  129 | 江苏大学                                   | Jiangsu University             | Aurora           |
+|  130 | 江苏航空职业技术学院                       | Jiangsu Aviation Vocational    | 飞凡创新         |
+|      |                                            | and Technical College          |                  |
+|  131 | 江苏开放大学                               | Jiangsu Open University        | 开拓者           |
+|  132 | 江苏科技大学                               | Jiangsu University of Science  | HLL              |
+|      |                                            | and Technology                 |                  |
+|  133 | 江西机电职业技术学院                       | Jiangxi Vocational and         | 机电168          |
+|      |                                            | Technical College of           |                  |
+|      |                                            | Mechatronics                   |                  |
+|  134 | 江西理工大学                               | Jiangxi University of Science  | 乘风             |
+|      |                                            | and Technology                 |                  |
+|  135 | 卡内基梅隆大学                             | Carnegie Mellon University     | Scotty Robotics  |
+|  136 | 科罗拉多大学博尔德分校                     | University of Colorado Boulder | CU Robotics      |
+|  137 | 昆明城市学院                               | Kunming City College           | T.Rex            |
+|  138 | 昆明理工大学津桥学院                       | Kunming University of Science  | Courage          |
+|      |                                            | and Technology, Jinqiao        |                  |
+|      |                                            | College                        |                  |
+|  139 | 兰州理工大学                               | Lanzhou University of          | 红柳猎人         |
+|      |                                            | Technology                     |                  |
+|  140 | 利物浦大学                                 | University of Liverpool        | GMaster          |
+|  141 | 辽宁工业大学                               | Liaoning University of         | RoboTeam         |
+|      |                                            | Technology                     |                  |
+|  142 | 辽宁科技大学                               | University of Science and      | COD              |
+|      |                                            | Technology Liaoning            |                  |
+|  143 | 辽宁石油化工大学                           | Liaoning University of         | TCN              |
+|      |                                            | Petroleum and Chemical         |                  |
+|      |                                            | Technology                     |                  |
+|  144 | 岭南师范学院                               | Lingnan Normal University      | 载质pioneer      |
+|  145 | 鲁汶大学                                   | University of Leuven           | FLACRA Leuven    |
+|  146 | 陆军边海防学院                             | Army Academy of Border and     | 钢钉             |
+|      |                                            | Coastal Defense                |                  |
+|  147 | 陆军勤务学院                               | Engineering University of the  | 陆擎             |
+|      |                                            | Joint Logistics Support Force, |                  |
+|      |                                            | PLA                            |                  |
+|  148 | 陆军装甲兵学院                             | Army Academy of Armoured       | 铁甲             |
+|      |                                            | Forces                         |                  |
+|  149 | 罗斯霍曼理工学院                           | Rose Homan Institute of        | R. R. R.         |
+|      |                                            | Technology                     |                  |
+|  150 | 麦克马斯特大学                             | McMaster University            | MacFalcons       |
+|  151 | 茅台学院                                   | Moutai College                 | MTI              |
+|  152 | 蒙特雷科技大学                             | Monterey University of         | HypeBirds        |
+|      |                                            | Technology                     |                  |
+|  153 | 蒙特利尔理工大学                           | Montreal Polytechnic           | PolySTAR         |
+|      |                                            | University                     |                  |
+|  154 | 闽江学院                                   | Minjiang College               | 赤源机甲         |
+|  155 | 闽南师范大学                               | Minnan Normal University       | Flame Fang       |
+|  156 | 名城大学                                   | Meijo University               | NAGOYASHACHIHOKO |
+|  157 | 南昌大学                                   | Nanchang University            | Passion          |
+|  158 | 南昌航空大学                               | Nanchang Hangkong University   | 洪鹰             |
+|  159 | 南昌理工学院                               | Nanchang University of         | 赣南虎           |
+|      |                                            | Technology                     |                  |
+|  160 | 南方科技大学                               | Southern University of Science | ARTINX           |
+|      |                                            | and Technology                 |                  |
+|  161 | 南华大学                                   | Nanhua University              | MA               |
+|  162 | 南京工程学院                               | Nanjing Institute of           | 涅槃凤凰         |
+|      |                                            | Technology                     |                  |
+|  163 | 南京工业大学                               | Nanjing Tech University        | BlueSpace        |
+|  164 | 南京航空航天大学                           | Nanjing University of          | 长空御风         |
+|      |                                            | Aeronautics and Astronautics   |                  |
+|  165 | 南京航空航天大学金城学院                   | Nanhang Jincheng College       | Born of Fire     |
+|  166 | 南京理工大学                               | Nanjing University of Science  | Alliance         |
+|      |                                            | and Technology                 |                  |
+|  167 | 南京理工大学江阴校区                       | Nanjing University of Science  | Combat           |
+|      |                                            | and Technology Jiangyin Campus |                  |
+|  168 | 南京晓庄学院                               | Nanjing Xiaozhuang University  | 飙车不易         |
+|  169 | 南京邮电大学                               | Nanjing University of Posts    | Potential        |
+|      |                                            | and Telecommunications         |                  |
+|  170 | 南通大学                                   | Nantong University             | NSE              |
+|  171 | 内蒙古科技大学                             | Inner Mongolia University of   | 雷霆             |
+|      |                                            | Science and Technology         |                  |
+|  172 | 宁波大学                                   | Ningbo University              | FalconAttack     |
+|  173 | 宁波工程学院                               | Ningbo Institute of Technology | New Legends      |
+|  174 | 宁波诺丁汉大学                             | University of Nottingham       | AIM              |
+|      |                                            | Ningbo China                   |                  |
+|  175 | 纽约大学                                   | New York University            | UltraViolet      |
+|  176 | 诺丁汉大学                                 | University of Nottingham       | AIM              |
+|  177 | 诺丁汉大学马来西亚分校                     | University of Nottingham,      | AIM              |
+|      |                                            | Malaysia Campus                |                  |
+|  178 | 女王大学                                   | Queen's University             | Queen's Knights  |
+|  179 | 普渡大学                                   | Purdue University              | BoilerBot        |
+|  180 | 齐鲁工业大学                               | Qilu University of Technology  | Adam             |
+|  181 | 青岛大学                                   | Qingdao University             | 未来             |
+|  182 | 青岛理工大学                               | Qingdao Technological          | MOVE             |
+|      |                                            | University                     |                  |
+|  183 | 青海大学                                   | Qinghai University             | 河湟谷人         |
+|  184 | 萨马拉大学                                 | Samara University              | UnitedROBOTIClub |
+|  185 | 厦门大学                                   | Xiamen University              | RCS              |
+|  186 | 厦门大学嘉庚学院                           | Jiageng College of Xiamen      | TCR              |
+|      |                                            | University                     |                  |
+|  187 | 厦门华厦学院                               | Xiamen Huaxia University       | 忒修斯之船       |
+|  188 | 厦门理工学院                               | Xiamen University of           | PFA              |
+|      |                                            | Technology                     |                  |
+|  189 | 山东大学                                   | Shan Dong University           | 齐鲁             |
+|  190 | 山东科技大学                               | Shandong University of Science | SmartRobot       |
+|      |                                            | and Technology                 |                  |
+|  191 | 山东理工大学                               | Shandong University of         | 齐奇             |
+|      |                                            | Technology                     |                  |
+|  192 | 山西机电职业技术学院                       | Shanxi Institute of Mechanical | 筑梦             |
+|      |                                            | and Electrical Engineering     |                  |
+|  193 | 山西晋中理工学院                           | Shanxi Jinzhong Institute of   | 三晋壹号         |
+|      |                                            | Technology                     |                  |
+|  194 | 陕西科技大学                               | Shaanxi University of Science  | BattleSwanX      |
+|      |                                            | and Technology                 |                  |
+|  195 | 上海大学                                   | Shanghai University            | SRM              |
+|  196 | 上海第二工业大学                           | Shanghai Second Polytechnic    | Sniper           |
+|      |                                            | University                     |                  |
+|  197 | 上海电力大学                               | Shanghai University of         | 灵晔             |
+|      |                                            | Electric Power                 |                  |
+|  198 | 上海工程技术大学                           | Shanghai University of         | 木鸢Birdiebot    |
+|      |                                            | Engineering Science            |                  |
+|  199 | 上海海事大学                               | Shanghai Maritime University   | 海狮             |
+|  200 | 上海交通大学                               | Shanghai Jiao Tong University  | 交龙             |
+|  201 | 上海科技大学                               | ShanghaiTech University        | Magician         |
+|  202 | 上海理工大学                               | University of Shanghai for     | RoboVigor        |
+|      |                                            | Science and Technology         |                  |
+|  203 | 上海师范大学天华学院                       | Shanghai Normal University     | Future Robot     |
+|      |                                            | Tianhua College                |                  |
+|  204 | 深圳北理莫斯科大学                         | Shenzhen MSU-BIT University    | 北极熊           |
+|  205 | 深圳大学                                   | Shenzhen University            | RobotPilots      |
+|  206 | 深圳技术大学                               | Shenzhen University of         | 悍匠             |
+|      |                                            | Technology                     |                  |
+|  207 | 深圳信息职业技术学院                       | Shenzhen Institute of          | 撼龙             |
+|      |                                            | Information Technology         |                  |
+|  208 | 深圳职业技术大学                           | Shenzhen Polytechnic           | RCIA             |
+|      |                                            | University                     |                  |
+|  209 | 沈阳工业大学                               | Shenyang University of         | DTS              |
+|      |                                            | Technology                     |                  |
+|  210 | 沈阳工业大学（辽阳分校）                   | Shenyang University of         | 化梦工航         |
+|      |                                            | Technology, Liaoyang Campus    |                  |
+|  211 | 沈阳航空航天大学                           | Shenyang Aerospace University  | TUP              |
+|  212 | 沈阳化工大学                               | Shenyang University of         | 化梦工航         |
+|      |                                            | Chemical Technology            |                  |
+|  213 | 沈阳建筑大学                               | Shenyang Jianzhu University    | 简锋             |
+|  214 | 沈阳理工大学                               | Shenyang Ligong University     | Ambition         |
+|  215 | 石河子大学                                 | Shihezi University             | 戈壁明珠         |
+|  216 | 首都师范大学                               | Capital Normal University      | PIE              |
+|  217 | 四川大学                                   | Sichuan University             | 火锅             |
+|  218 | 四川大学锦城学院                           | Jincheng College of Sichuan    | 小蛮             |
+|      |                                            | University                     |                  |
+|  219 | 苏州大学应用技术学院                       | Applied Technology College of  | 苏鸾             |
+|      |                                            | Soochow University             |                  |
+|  220 | 宿迁学院                                   | Suqian College                 | 楚霸王           |
+|  221 | 台湾国立成功大学                           | National Cheng Kung            | 相當優雅NeverNo  |
+|      |                                            | University, Taiwan             |                  |
+|  222 | 台湾中正大学                               | National Chung Cheng           | KineticRobotics  |
+|      |                                            | University                     |                  |
+|  223 | 太原工业学院                               | Taiyuan Institute of           | 火线             |
+|      |                                            | Technology                     |                  |
+|  224 | 太原科技大学                               | Taiyuan University of Science  | NewMaker         |
+|      |                                            | and Technology                 |                  |
+|  225 | 太原理工大学                               | Taiyuan University of          | TRoMaC           |
+|      |                                            | Technology                     |                  |
+|  226 | 天津城建大学                               | Tianjin Urban Construction     | TCUSTAR          |
+|      |                                            | University                     |                  |
+|  227 | 天津大学                                   | Tianjin University             | 北洋机甲         |
+|  228 | 天津工业大学                               | Tiangong University            | Triple i         |
+|  229 | 天津理工大学                               | Tianjin University of          | LIF              |
+|      |                                            | Technology                     |                  |
+|  230 | 同济大学                                   | Tongji University              | SuperPower       |
+|  231 | 同济大学浙江学院                           | Zhejiang College of Tongji     | 天禄             |
+|      |                                            | University                     |                  |
+|  232 | 潍坊科技学院                               | Weifang Institute of           | AIC              |
+|      |                                            | Technology                     |                  |
+|  233 | 温州大学                                   | Wenzhou University             | Plus             |
+|  234 | 温州职业技术学院                           | Wenzhou Polytechnic            | INSIST           |
+|  235 | 文华学院                                   | Wenhua College                 | MSE STAR         |
+|  236 | 五邑大学                                   | Wuyi University                | IMCA             |
+|  237 | 武汉工程大学                               | Wuhan Institute of Technology  | Nautilus         |
+|  238 | 武汉交通职业学院                           | Wuhan Jiaotong Vocational      | Rocket           |
+|      |                                            | College                        |                  |
+|  239 | 武汉科技大学                               | Wuhan University of Science    | 崇实             |
+|      |                                            | and Technology                 |                  |
+|  240 | 武汉理工大学                               | Wuhan University of Technology | PRIME            |
+|  241 | 西安电子科技大学                           | Xidian University              | IRobot           |
+|  242 | 西安交通大学                               | Xi'an Jiaotong University      | 笃行             |
+|  243 | 西安理工大学                               | Xi'an University of Technology | NEXT E           |
+|  244 | 西北工业大学                               | Northwestern Polytechnical     | WMJ              |
+|      |                                            | University                     |                  |
+|  245 | 西北农林科技大学                           | Northwest A&F University       | 猎隼             |
+|  246 | 西藏农牧学院                               | Tibet Agriculture and Animal   | 雪域雄鹰         |
+|      |                                            | Husbandry College              |                  |
+|  247 | 西交利物浦大学                             | Xi'an Jiaotong-Liverpool       | GMaster          |
+|      |                                            | University                     |                  |
+|  248 | 西南大学                                   | Southwest University           | GKD              |
+|  249 | 西南交通大学                               | Southwest Jiaotong University  | Helios           |
+|  250 | 西南科技大学                               | Southwest University of        | 龙山飞虎         |
+|      |                                            | Science and Technology         |                  |
+|  251 | 西南林业大学                               | Southwest Forestry University  | 浮云             |
+|  252 | 西南民族大学                               | Southwest University for       | 新竹             |
+|      |                                            | Nationalities                  |                  |
+|  253 | 西南石油大学                               | Southwest Petroleum University | 铁人             |
+|  254 | 西南石油大学南充校区                       | Southwest Petroleum University | 泓龙             |
+|      |                                            | Nanchong Campus                |                  |
+|  255 | 西浦创业家学院（太仓）                     | Xi'an Jiaotong-Liverpool       | OmniX            |
+|      |                                            | University, Entrepreneur       |                  |
+|      |                                            | College (Taicang)              |                  |
+|  256 | 香港大学                                   | The University of Hong Kong    | HerKules         |
+|  257 | 香港浸会大学                               | Hong Kong Baptist University   | Navigator        |
+|  258 | 香港科技大学                               | Hong Kong University of        | ENTERPRIZE       |
+|      |                                            | Science and Technology         |                  |
+|  259 | 香港科技大学（广州）                       | Hong Kong University of        | PnX              |
+|      |                                            | Science and Technology         |                  |
+|      |                                            | (Guangzhou)                    |                  |
+|  260 | 香港中文大学                               | Chinese University of Hong     | Power Shuttle    |
+|      |                                            | Kong                           |                  |
+|  261 | 香港中文大学（深圳）                       | The Chinese University of Hong | Polar Dragon     |
+|      |                                            | Kong (Shenzhen)                |                  |
+|  262 | 湘潭大学                                   | Xiangtan University            | 逐曦             |
+|  263 | 新加坡国立大学                             | National University of         | Calibur          |
+|      |                                            | Singapore                      |                  |
+|  264 | 新疆工程学院                               | Xinjiang Institute of          | 金胡杨           |
+|      |                                            | Technology                     |                  |
+|  265 | 新乡学院                                   | Xinxiang College               | 电创             |
+|  266 | 新潟联合大学                               | Niigata Union University       | Phoenix Robots   |
+|  267 | 燕山大学                                   | Yanshan University             | 燕鹰             |
+|  268 | 伊利诺伊大学厄巴纳香槟分校                 | University of Illinois         | IlliniRM         |
+|      |                                            | Urbana-Champaign               |                  |
+|  269 | 英属哥伦比亚大学                           | University of British Columbia | Bearbots         |
+|  270 | 豫章师范学院                               | Yuzhang Teachers College       | HC&BaYi          |
+|  271 | 云南大学                                   | Yunnan University              | Future           |
+|  272 | 云南林业职业技术学院                       | Yunnan Forestry Technological  | 巅峰             |
+|      |                                            | College                        |                  |
+|  273 | 枣庄学院                                   | Zaozhuang University           | Summit           |
+|  274 | 长安大学                                   | Changan University             | VGD              |
+|  275 | 长春工业大学                               | Changchun University of        | 达摩克利斯       |
+|      |                                            | Technology                     |                  |
+|  276 | 长春理工大学                               | Changchun University of        | LD世界           |
+|      |                                            | Science and Technology         |                  |
+|  277 | 长江大学                                   | Yangtze University             | 匆匆前进         |
+|  278 | 长沙理工大学                               | Changsha University of Science | 云嵌             |
+|      |                                            | and Technology                 |                  |
+|  279 | 浙江大学                                   | Zhejiang University            | Hello World      |
+|  280 | 浙江大学（舟山校区）                       | Zhejiang University, Zhoushan  | 空之境           |
+|      |                                            | Campus                         |                  |
+|  281 | 浙江大学伊利诺伊大学厄巴纳香槟校区联合学院 | Zhejiang University-University | META             |
+|      |                                            | of Illinois Urbana-Champaign   |                  |
+|  282 | 浙江纺织服装职业技术学院                   | Zhejiang Textile and Clothing  | Robofuture       |
+|      |                                            | Vocational and Technical       |                  |
+|      |                                            | College                        |                  |
+|  283 | 浙江理工大学                               | Zhejiang Sci-Tech University   | 钱塘蛟           |
+|  284 | 浙江师范大学                               | Zhejiang Normal University     | 浙狮             |
+|  285 | 郑州大学                                   | Zhengzhou University           | 中州烛龙         |
+|  286 | 郑州铁路职业技术学院                       | Zhengzhou Railway Vocational   | 铁龙战神         |
+|      |                                            | and Technical College          |                  |
+|  287 | 中北大学                                   | North University of China      |              606 |
+|  288 | 中国科学技术大学                           | University of Science and      | RoboWalker       |
+|      |                                            | Technology of China            |                  |
+|  289 | 中国科学院深圳先进技术研究院               | Shenzhen Institute of Advanced | Future           |
+|      |                                            | Technology, Chinese Academy of |                  |
+|      |                                            | Sciences                       |                  |
+|  290 | 中国矿业大学                               | China University of Mining and | CUBOT            |
+|      |                                            | Technology                     |                  |
+|  291 | 中国民航大学                               | Civil Aviation University of   | 因特雷           |
+|      |                                            | China                          |                  |
+|  292 | 中国人民警察大学                           | Chinese People's Police        | 无畏先锋         |
+|      |                                            | University                     |                  |
+|  293 | 中国石油大学（北京）                       | China University of Petroleum  | SPR              |
+|      |                                            | (Beijing)                      |                  |
+|  294 | 中国石油大学（北京）克拉玛依校区           | China University of Petroleum  | GS戈壁之魂       |
+|      |                                            | (Beijing) Karamay Campus       |                  |
+|  295 | 中国石油大学（华东）                       | China University of Petroleum  | RPS              |
+|      |                                            | (East China)                   |                  |
+|  296 | 中南大学                                   | Central South University       | FYT              |
+|  297 | 中央民族大学                               | Central University for         | 参北斗           |
+|      |                                            | Nationalities                  |                  |
+|  298 | 仲恺农业工程学院                           | Zhongkai University of         | 奇点             |
+|      |                                            | Agriculture Engineering        |                  |
+|  299 | 重庆大学                                   | Chongqing University           | 千里             |
+|  300 | 重庆理工大学                               | Chongqing University of        | 士继DREAMER      |
+|      |                                            | Technology                     |                  |
+|  301 | 重庆三峡学院                               | Chongqing Three Gorges         | LionHeart        |
+|      |                                            | University                     |                  |
+|  302 | 珠海科技学院                               | Zhuhai College of Science and  | 征途             |
+|      |                                            | Technology                     |                  |
+|  303 | 遵义师范学院                               | Zunyi Normal University        | 尊狮             |
++------+--------------------------------------------+--------------------------------+------------------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

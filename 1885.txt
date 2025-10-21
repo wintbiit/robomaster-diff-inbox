@@ -1,0 +1,580 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+规则 / 公告
+
+* 
+规则 / 资料中心 ( https://bbs.robomaster.com/wiki/20204847 )
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+媒体库
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
+报名中心 ( https://registration.robomaster.com/?djifrom=nav )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster University Series Scoring and Ranking System (as of August 2025)
+
+2025-10-21
+
+RoboMaster University Series Scoring and Ranking System: https://www.robomaster.com/en-US/robo/rm/integral?djifrom=nav
+
+Public notice period: October 21–24, 2025, until 6:00 PM.
+
+If you have any questions during the notice period, please scan the QR code below to add the RMOC official WeChat account and submit your feedback.
+
++---------------------------------------+--------------------------------------------+--------------------------------+--------+
+| 机甲大师高校积分榜（截止至2025年8月） |
+| RoboMaster Score and Rank             |
+| Chart for Universities  (As of        |
+| August 2025)                          |
+| 排名                                  | 学校名称                                   | 积分                           |
+| Rank                                  | School Name                                | Score                          |
+|                                     1 | 上海交通大学                               | Shanghai Jiao Tong University  | 25.000 |
+|                                     2 | 华南理工大学                               | South China University of      | 23.300 |
+|                                       |                                            | Technology                     |        |
+|                                     3 | 东北大学                                   | Northeastern University        | 22.700 |
+|                                     4 | 浙江大学                                   | Zhejiang University            | 21.100 |
+|                                     5 | 华南农业大学                               | South China Agricultural       | 20.100 |
+|                                       |                                            | University                     |        |
+|                                     6 | 广东工业大学                               | Guangdong University of        | 20.000 |
+|                                       |                                            | Technology                     |        |
+|                                     6 | 深圳大学                                   | Shenzhen University            | 20.000 |
+|                                     8 | 南京航空航天大学                           | Nanjing University of          | 19.700 |
+|                                       |                                            | Aeronautics and Astronautics   |        |
+|                                     9 | 哈尔滨工业大学                             | Harbin Institute of Technology | 19.300 |
+|                                    10 | 西安交通大学                               | Xi'an Jiaotong University      | 18.800 |
+|                                    11 | 中国石油大学（华东）                       | China University of Petroleum  | 18.720 |
+|                                       |                                            | (East China)                   |        |
+|                                    12 | 南方科技大学                               | Southern University of Science | 18.400 |
+|                                       |                                            | and Technology                 |        |
+|                                    13 | 太原理工大学                               | Taiyuan University of          | 18.040 |
+|                                       |                                            | Technology                     |        |
+|                                    14 | 东南大学                                   | Southeast University           | 17.940 |
+|                                    15 | 哈尔滨工业大学（威海）                     | Harbin Institute of Technology | 17.200 |
+|                                       |                                            | (Weihai)                       |        |
+|                                    16 | 大连理工大学                               | Dalian University of           | 17.180 |
+|                                       |                                            | Technology                     |        |
+|                                    17 | 太原工业学院                               | Taiyuan Institute of           | 17.000 |
+|                                       |                                            | Technology                     |        |
+|                                    17 | 五邑大学                                   | Wuyi University                | 17.000 |
+|                                    19 | 中国科学技术大学                           | University of Science and      | 16.860 |
+|                                       |                                            | Technology of China            |        |
+|                                    20 | 电子科技大学中山学院                       | University of Electronic       | 16.640 |
+|                                       |                                            | Science and Technology of      |        |
+|                                       |                                            | China, Zhongshan Institute     |        |
+|                                    21 | 南昌大学                                   | Nanchang University            | 15.700 |
+|                                    22 | 中南大学                                   | Central South University       | 15.500 |
+|                                    23 | 吉林大学                                   | Jilin University               | 14.900 |
+|                                    24 | 山东科技大学                               | Shandong University of Science | 14.800 |
+|                                       |                                            | and Technology                 |        |
+|                                    25 | 哈尔滨工程大学                             | Harbin Engineering University  | 14.780 |
+|                                    26 | 南京航空航天大学金城学院                   | Nanhang Jincheng College       | 14.600 |
+|                                    27 | 同济大学                                   | Tongji University              | 14.400 |
+|                                    28 | 桂林电子科技大学                           | Guilin University of           | 14.365 |
+|                                       |                                            | Electronic Technology          |        |
+|                                    29 | 武汉工程大学                               | Wuhan Institute of Technology  | 14.300 |
+|                                    30 | 中国矿业大学                               | China University of Mining and | 13.600 |
+|                                       |                                            | Technology                     |        |
+|                                    31 | 上海工程技术大学                           | Shanghai University of         | 13.565 |
+|                                       |                                            | Engineering Science            |        |
+|                                    32 | 哈尔滨工业大学（深圳）                     | Harbin Institute of Technology | 13.535 |
+|                                       |                                            | (Shenzhen)                     |        |
+|                                    33 | 华中科技大学                               | Huazhong University of Science | 13.340 |
+|                                       |                                            | and Technology                 |        |
+|                                    34 | 桂林信息科技学院                           | Guilin Institute of            | 12.975 |
+|                                       |                                            | Information Technology         |        |
+|                                    35 | 西安电子科技大学                           | Xidian University              | 12.965 |
+|                                    36 | 西北工业大学                               | Northwestern Polytechnical     | 12.500 |
+|                                       |                                            | University                     |        |
+|                                    37 | 佛山大学                                   | Foshan University              | 12.320 |
+|                                    38 | 首都师范大学                               | Capital Normal University      | 12.235 |
+|                                    39 | 中国石油大学（北京）                       | China University of Petroleum  | 12.170 |
+|                                       |                                            | (Beijing)                      |        |
+|                                    40 | 北京理工大学珠海学院                       | Beijing Institute of           | 12.055 |
+|                                       |                                            | Technology, Zhuhai             |        |
+|                                    41 | 东北林业大学                               | Northeast Forestry University  | 11.535 |
+|                                    42 | 南京理工大学                               | Nanjing University of Science  | 11.415 |
+|                                       |                                            | and Technology                 |        |
+|                                    43 | 北京理工大学                               | Beijing Institute of           | 11.300 |
+|                                       |                                            | Technology                     |        |
+|                                    44 | 华北科技学院                               | North China Institute of       | 11.280 |
+|                                       |                                            | Science and Technology         |        |
+|                                    45 | 北方工业大学                               | North China University of      | 11.000 |
+|                                       |                                            | Technology                     |        |
+|                                    46 | 天津大学                                   | Tianjin University             | 10.860 |
+|                                    47 | 北京科技大学                               | University of Science and      | 10.785 |
+|                                       |                                            | Technology Beijing             |        |
+|                                    48 | 齐鲁工业大学                               | Qilu University of Technology  | 10.615 |
+|                                    49 | 国防科技大学                               | National University of Defense | 10.560 |
+|                                       |                                            | Technology                     |        |
+|                                    50 | 四川大学                                   | Sichuan University             |  9.850 |
+|                                    51 | 沈阳理工大学                               | Shenyang Ligong University     |  9.505 |
+|                                    52 | 广州城市理工学院                           | Guangzhou City University of   |  9.465 |
+|                                       |                                            | Technology                     |        |
+|                                    53 | 西南石油大学                               | Southwest Petroleum University |  9.335 |
+|                                    54 | 辽宁科技大学                               | University of Science and      |  9.305 |
+|                                       |                                            | Technology Liaoning            |        |
+|                                    55 | 香港科技大学                               | Hong Kong University of        |  9.250 |
+|                                       |                                            | Science and Technology         |        |
+|                                    56 | 厦门大学嘉庚学院                           | Jiageng College of Xiamen      |  9.235 |
+|                                       |                                            | University                     |        |
+|                                    57 | 合肥工业大学                               | Hefei University of Technology |  8.665 |
+|                                    57 | 西南交通大学                               | Southwest Jiaotong University  |  8.665 |
+|                                    57 | 中北大学                                   | North University of China      |  8.665 |
+|                                    60 | 重庆大学                                   | Chongqing University           |  8.650 |
+|                                    61 | 东莞理工学院                               | Dongguan University of         |  8.610 |
+|                                       |                                            | Technology                     |        |
+|                                    62 | 浙江纺织服装职业技术学院                   | Zhejiang Textile and Clothing  |  8.565 |
+|                                       |                                            | Vocational and Technical       |        |
+|                                       |                                            | College                        |        |
+|                                    63 | 燕山大学                                   | Yanshan University             |  8.515 |
+|                                    63 | 安徽信息工程学院                           | Anhui Institute of Information |  8.415 |
+|                                       |                                            | Engineering                    |        |
+|                                    65 | 东北大学秦皇岛分校                         | Northeastern University at     |  8.515 |
+|                                       |                                            | Qinhuangdao                    |        |
+|                                    65 | 福建理工大学                               | Fujian University of           |  8.415 |
+|                                       |                                            | Technology                     |        |
+|                                    65 | 合肥工业大学(宣城校区)                     | Hefei University Of Technology |  8.415 |
+|                                       |                                            | Xuancheng Campus               |        |
+|                                    68 | 成都大学                                   | Chengdu University             |  8.265 |
+|                                    69 | 桂林理工大学                               | Guilin University of           |  8.250 |
+|                                       |                                            | Technology                     |        |
+|                                    70 | 深圳职业技术大学                           | Shenzhen Polytechnic           |  8.230 |
+|                                       |                                            | University                     |        |
+|                                    71 | 华东理工大学                               | East China University of       |  8.215 |
+|                                       |                                            | Science and Technology         |        |
+|                                    72 | 长安大学                                   | Changan University             |  8.170 |
+|                                    73 | 沈阳航空航天大学                           | Shenyang Aerospace University  |  8.130 |
+|                                    74 | 北京信息科技大学                           | Beijing Information Science    |  8.070 |
+|                                       |                                            | and Technology University      |        |
+|                                    75 | 湖南大学                                   | Hunan University               |  8.000 |
+|                                    75 | 太原科技大学                               | Taiyuan University of Science  |  8.000 |
+|                                       |                                            | and Technology                 |        |
+|                                    77 | 南华大学                                   | Nanhua University              |  7.900 |
+|                                    77 | 山东理工大学                               | Shandong University of         |  7.900 |
+|                                       |                                            | Technology                     |        |
+|                                    79 | 河北科技大学                               | Hebei University of Science    |  7.850 |
+|                                       |                                            | and Technology                 |        |
+|                                    79 | 深圳技术大学                               | Shenzhen University of         |  7.850 |
+|                                       |                                            | Technology                     |        |
+|                                    79 | 新潟联合大学                               | Niigata Universities Alliance  |  7.850 |
+|                                    82 | 成都信息工程大学                           | Chengdu University of          |  7.775 |
+|                                       |                                            | Information Technology         |        |
+|                                    83 | 上海科技大学                               | ShanghaiTech University        |  7.650 |
+|                                    84 | 华北理工大学                               | North China University of      |  7.600 |
+|                                       |                                            | Science and Technology         |        |
+|                                    85 | 福建师范大学                               | Fujian Normal University       |  7.375 |
+|                                    86 | 河北工业大学                               | Hebei University of Technology |  7.350 |
+|                                    87 | 西安理工大学                               | Xi'an University of Technology |  7.334 |
+|                                    88 | 香港大学                                   | The University of Hong Kong    |  7.275 |
+|                                    89 | 成都工业学院                               | Chengdu Institute of           |  7.175 |
+|                                       |                                            | Technology                     |        |
+|                                    90 | 青岛大学                                   | Qingdao University             |  7.100 |
+|                                    91 | 北京工业大学                               | Beijing University Of          |  6.900 |
+|                                       |                                            | Technology                     |        |
+|                                    92 | 湘潭大学                                   | Xiangtan University            |  6.850 |
+|                                    93 | 桂林电子科技大学北海校区                   | Guilin University of           |  6.459 |
+|                                       |                                            | Electronic Technology Beihai   |        |
+|                                       |                                            | Campus                         |        |
+|                                    94 | 青岛理工大学                               | Qingdao Technological          |  6.375 |
+|                                       |                                            | University                     |        |
+|                                    95 | 茅台学院                                   | Moutai College                 |  6.348 |
+|                                    96 | 西交利物浦大学                             | Xi'an Jiaotong-Liverpool       |  6.280 |
+|                                       |                                            | University                     |        |
+|                                    97 | 火箭军工程大学                             | Rocket Force University of     |  6.268 |
+|                                       |                                            | Engineering                    |        |
+|                                    98 | 浙江理工大学                               | Zhejiang Sci-Tech University   |  6.250 |
+|                                    99 | 常州大学                                   | Changzhou University           |  6.225 |
+|                                   100 | 仲恺农业工程学院                           | Zhongkai University of         |  6.165 |
+|                                       |                                            | Agriculture Engineering        |        |
+|                                   101 | 西南民族大学                               | Southwest University for       |  6.098 |
+|                                       |                                            | Nationalities                  |        |
+|                                   102 | 东华大学                                   | Donghua University             |  6.000 |
+|                                   102 | 浙江师范大学                               | Zhejiang Normal University     |  6.000 |
+|                                   102 | 中国民航大学                               | Civil Aviation University of   |  6.000 |
+|                                       |                                            | China                          |        |
+|                                   105 | 长沙理工大学                               | Changsha University of Science |  5.975 |
+|                                       |                                            | and Technology                 |        |
+|                                   106 | 湖北工业大学                               | Hubei University of Technology |  5.905 |
+|                                   107 | 防灾科技学院                               | School of Disaster Prevention  |  5.900 |
+|                                       |                                            | Technology                     |        |
+|                                   108 | 福建农林大学                               | Fujian Agriculture and         |  5.850 |
+|                                       |                                            | Forestry University            |        |
+|                                   109 | 陆军勤务学院                               | Engineering University of the  |  5.825 |
+|                                       |                                            | Joint Logistics Support Force, |        |
+|                                       |                                            | PLA                            |        |
+|                                   110 | 沈阳建筑大学                               | Shenyang Jianzhu University    |  5.800 |
+|                                   111 | 文华学院                                   | Wenhua College                 |  5.725 |
+|                                   111 | 云南大学                                   | Yunnan University              |  5.725 |
+|                                   113 | 北京林业大学                               | Beijing Forestry University    |  5.695 |
+|                                   114 | 华南师范大学                               | South China Normal University  |  5.600 |
+|                                   114 | 江苏大学                                   | Jiangsu University             |  5.600 |
+|                                   114 | 宁波工程学院                               | Ningbo Institute of Technology |  5.600 |
+|                                   117 | 电子科技大学成都学院                       | Chengdu University of          |  5.575 |
+|                                       |                                            | Electronic Science and         |        |
+|                                       |                                            | Technology of China            |        |
+|                                   118 | 内蒙古科技大学                             | Inner Mongolia University of   |  5.575 |
+|                                       |                                            | Science and Technology         |        |
+|                                   119 | 重庆三峡学院                               | Chongqing Three Gorges         |  5.475 |
+|                                       |                                            | University                     |        |
+|                                   120 | 广西大学                                   | Guangxi University             |  5.425 |
+|                                   120 | 香港科技大学（广州）                       | Hong Kong University of        |  5.425 |
+|                                       |                                            | Science and Technology         |        |
+|                                       |                                            | (Guangzhou)                    |        |
+|                                   122 | 北部湾大学                                 | North Bay University           |  5.424 |
+|                                   123 | 大连民族大学                               | Dalian Minzu University        |  5.350 |
+|                                   123 | 深圳信息职业技术学院                       | Shenzhen Institute of          |  5.350 |
+|                                       |                                            | Information Technology         |        |
+|                                   125 | 武汉理工大学                               | Wuhan University of Technology |  5.350 |
+|                                   126 | 江西理工大学                               | Jiangxi University of Science  |  5.275 |
+|                                       |                                            | and Technology                 |        |
+|                                   126 | 上海电力大学                               | Shanghai University of         |  5.275 |
+|                                       |                                            | Electric Power                 |        |
+|                                   128 | 重庆理工大学                               | Chongqing University of        |  5.250 |
+|                                       |                                            | Technology                     |        |
+|                                   128 | 广州铁路职业技术学院                       | Guangzhou Railway Polytechnic  |  5.250 |
+|                                   128 | 南京理工大学江阴校区                       | Nanjing University of Science  |  5.250 |
+|                                       |                                            | and Technology Jiangyin Campus |        |
+|                                   131 | 同济大学浙江学院                           | Zhejiang College of Tongji     |  5.150 |
+|                                       |                                            | University                     |        |
+|                                   132 | 中国人民警察大学                           | Chinese People's Police        |  5.109 |
+|                                       |                                            | University                     |        |
+|                                   133 | 河南科技大学                               | Henan University of Science    |  5.100 |
+|                                       |                                            | and Technology                 |        |
+|                                   134 | 安徽理工大学                               | Anhui University of Science    |  5.025 |
+|                                       |                                            | and Technology                 |        |
+|                                   134 | 大连大学                                   | Dalian University              |  5.025 |
+|                                   134 | 集美大学                                   | Jimei University               |  5.025 |
+|                                   134 | 辽宁石油化工大学                           | Liaoning University of         |  5.025 |
+|                                       |                                            | Petroleum and Chemical         |        |
+|                                       |                                            | Technology                     |        |
+|                                   134 | 西南石油大学南充校区                       | Southwest Petroleum University |  5.025 |
+|                                       |                                            | Nanchong Campus                |        |
+|                                   134 | 新疆工程学院                               | Xinjiang Institute of          |  5.025 |
+|                                       |                                            | Technology                     |        |
+|                                   140 | 江苏航空职业技术学院                       | Jiangsu Aviation Vocational    |  4.975 |
+|                                       |                                            | and Technical College          |        |
+|                                   140 | 中国科学院大学                             | University of Chinese Academy  |  4.975 |
+|                                       |                                            | of Sciences                    |        |
+|                                   142 | 河北师范大学                               | Hebei Normal University        |  4.950 |
+|                                   143 | 北京邮电大学                               | Beijing University of Posts    |  4.875 |
+|                                       |                                            | and Telecommunications         |        |
+|                                   143 | 海南大学                                   | Hainan University              |  4.875 |
+|                                   143 | 江苏开放大学                               | Jiangsu Open University        |  4.875 |
+|                                   143 | 宁波诺丁汉大学                             | University of Nottingham       |  4.875 |
+|                                       |                                            | Ningbo China                   |        |
+|                                   143 | 南通理工学院                               | Nantong Institute of           |  4.875 |
+|                                       |                                            | Technology                     |        |
+|                                   143 | 内蒙古师范大学                             | Inner Mongolia Normal          |  4.875 |
+|                                       |                                            | University                     |        |
+|                                   149 | 西北农林科技大学                           | Northwest A&F University       |  4.768 |
+|                                   150 | 南昌航空大学                               | Nanchang Hangkong University   |  4.750 |
+|                                   151 | 闽江学院                                   | Minjiang College               |  4.725 |
+|                                   152 | 广州航海学院                               | Guangzhou Maritime University  |  4.650 |
+|                                   152 | 贵州师范大学                               | Guizhou Normal University      |  4.650 |
+|                                   152 | 陆军装甲兵学院                             | Army Academy of Armoured       |  4.650 |
+|                                       |                                            | Forces                         |        |
+|                                   152 | 武汉科技大学                               | Wuhan University of Science    |  4.650 |
+|                                       |                                            | and Technology                 |        |
+|                                   156 | 内蒙古大学                                 | Inner Mongolia University      |  4.634 |
+|                                   157 | 深圳北理莫斯科大学                         | Shenzhen MSU-BIT University    |  4.625 |
+|                                   158 | 常熟理工学院                               | Changshu Institute of          |  4.500 |
+|                                       |                                            | Technology                     |        |
+|                                   158 | 济宁学院                                   | Jining College                 |  4.500 |
+|                                   158 | 济南大学                                   | Jinan Universty                |  4.500 |
+|                                   158 | 山东大学（威海）                           | Shandong University , Weihai   |  4.500 |
+|                                   158 | 浙江大学伊利诺伊大学厄巴纳香槟校区联合学院 | Zhejiang University-University |  4.500 |
+|                                       |                                            | of Illinois Urbana-Champaign   |        |
+|                                   163 | 杭州电子科技大学                           | Hangzhou University of         |  4.480 |
+|                                       |                                            | Electronic Science and         |        |
+|                                       |                                            | Technology                     |        |
+|                                   164 | 宜宾学院                                   | Yibin University               |  4.425 |
+|                                   165 | 广州南方学院                               | Nanfang College Guangzhou      |  4.400 |
+|                                   165 | 贵阳人文科技学院                           | The College of Humanities      |  4.400 |
+|                                       |                                            | and Science of Guizhou Minzu   |        |
+|                                       |                                            | University                     |        |
+|                                   165 | 哈尔滨理工大学                             | Harbin University of Science   |  4.400 |
+|                                       |                                            | and Technology                 |        |
+|                                   165 | 南昌理工学院                               | Nanchang University of         |  4.400 |
+|                                       |                                            | Technology                     |        |
+|                                   165 | 上海理工大学                               | University of Shanghai for     |  4.400 |
+|                                       |                                            | Science and Technology         |        |
+|                                   165 | 石家庄铁道大学                             | Shijiazhuang Railway           |  4.400 |
+|                                       |                                            | University                     |        |
+|                                   165 | 天津工业大学                               | Tiangong University            |  4.400 |
+|                                   172 | 南通大学                                   | Nantong University             |  4.350 |
+|                                   172 | 郑州大学                                   | Zhengzhou University           |  4.350 |
+|                                   174 | 广东交通职业技术学院                       | Guangdong Transportation       |  4.250 |
+|                                       |                                            | Vocational and Technical       |        |
+|                                       |                                            | College                        |        |
+|                                   174 | 三江学院                                   | Sanjiang University            |  4.250 |
+|                                   174 | 山东石油化工学院                           | Shandong Institute of          |  4.250 |
+|                                       |                                            | Petroleum and Chemical         |        |
+|                                       |                                            | Technology                     |        |
+|                                   174 | 陕西科技大学                               | Shaanxi University of Science  |  4.250 |
+|                                       |                                            | and Technology                 |        |
+|                                   174 | 沈阳工学院                                 | Shenyang Institute of          |  4.250 |
+|                                       |                                            | Technology                     |        |
+|                                   174 | 枣庄学院                                   | Zaozhuang University           |  4.250 |
+|                                   174 | 珠海科技学院                               | Zhuhai College of Science and  |  4.250 |
+|                                       |                                            | Technology                     |        |
+|                                   181 | 大连交通大学                               | Dalian Jiaotong University     |  4.200 |
+|                                   182 | 黑河学院                                   | Heihe University               |  4.175 |
+|                                   182 | 华南师范大学（佛山校区）                   | South China Normal University  |  4.175 |
+|                                       |                                            | Foshan Campus                  |        |
+|                                   182 | 南京工业大学                               | Nanjing Tech University        |  4.175 |
+|                                   185 | 武汉大学                                   | Wuhan University               |  4.130 |
+|                                   186 | 重庆第二师范学院                           | Chongqing University of        |  4.100 |
+|                                       |                                            | Education                      |        |
+|                                   187 | 福州大学                                   | Fuzhou University              |  4.025 |
+|                                   187 | 惠州学院                                   | Huizhou University             |  4.025 |
+|                                   187 | 沈阳化工大学                               | Shenyang University of         |  4.025 |
+|                                       |                                            | Chemical Technology            |        |
+|                                   190 | 厦门理工学院                               | Xiamen University of           |  4.000 |
+|                                       |                                            | Technology                     |        |
+|                                   191 | 上海大学                                   | Shanghai University            |  3.975 |
+|                                   192 | 昆明理工大学津桥学院                       | Kunming University of Science  |  3.949 |
+|                                       |                                            | and Technology, Jinqiao        |        |
+|                                       |                                            | College                        |        |
+|                                   193 | 厦门大学                                   | Xiamen University              |  3.900 |
+|                                   194 | 北京交通大学                               | Beijing Jiaotong University    |  3.800 |
+|                                   194 | 北师香港浸会大学                           | Beijing Normal–Hong Kong       |  3.800 |
+|                                       |                                            | Baptist University             |        |
+|                                   194 | 长江大学                                   | Yangtze University             |  3.800 |
+|                                   194 | 黑龙江大学                                 | Heilongjiang University        |  3.800 |
+|                                   194 | 集美大学诚毅学院                           | Chengyi College, Jimei         |  3.800 |
+|                                       |                                            | University                     |        |
+|                                   194 | 香港中文大学（深圳）                       | The Chinese University of Hong |  3.800 |
+|                                       |                                            | Kong (Shenzhen)                |        |
+|                                   200 | 安徽大学                                   | Anhui University               |  3.775 |
+|                                   200 | 北京航空航天大学                           | Beijing University of          |  3.775 |
+|                                       |                                            | Aeronautics and Astronautics   |        |
+|                                   200 | 长春理工大学                               | Changchun University of        |  3.775 |
+|                                       |                                            | Science and Technology         |        |
+|                                   200 | 浙大城市学院                               | Hangzhou City University       |  3.775 |
+|                                   204 | 伊利诺伊大学厄巴纳香槟分校                 | University of Illinois         |  3.750 |
+|                                       |                                            | Urbana-Champaign               |        |
+|                                   205 | 广东海洋大学                               | Guangdong Ocean University     |  3.650 |
+|                                   205 | 湖北第二师范学院                           | Hubei University of Education  |  3.650 |
+|                                   205 | 华东交通大学                               | East China Jiaotong University |  3.650 |
+|                                   205 | 盐城师范学院                               | Yancheng Teachers University   |  3.650 |
+|                                   209 | 呼伦贝尔学院                               | Hulunbuir University           |  3.550 |
+|                                   209 | 苏州大学应用技术学院                       | Applied Technology College of  |  3.550 |
+|                                       |                                            | Soochow University             |        |
+|                                   209 | 潍坊科技学院                               | Weifang Institute of           |  3.550 |
+|                                       |                                            | Technology                     |        |
+|                                   209 | 浙江工业大学                               | Zhejiang University of         |  3.550 |
+|                                       |                                            | Technology                     |        |
+|                                   213 | 长春工业大学                               | Changchun University of        |  3.400 |
+|                                       |                                            | Technology                     |        |
+|                                   213 | 广东轻工职业技术大学                       | Guangdong Industry Polytechnic |  3.400 |
+|                                       |                                            | University                     |        |
+|                                   213 | 广州工商学院                               | Guangzhou College of           |  3.400 |
+|                                       |                                            | Technology and Business        |        |
+|                                   213 | 山西机电职业技术学院                       | Shanxi Institute of Mechanical |  3.400 |
+|                                       |                                            | and Electrical Engineering     |        |
+|                                   213 | 西安科技大学                               | Xi'an University of Science    |  3.400 |
+|                                       |                                            | and Technology                 |        |
+|                                   213 | 西南大学                                   | Southwest University           |  3.400 |
+|                                   219 | 华侨大学                                   | Huaqiao University             |  3.150 |
+|                                   220 | 复旦大学                                   | Fudan University               |  3.125 |
+|                                   220 | 江南大学霞客湾校区                         | Jiangnan University, Xiakewan  |  3.125 |
+|                                       |                                            | Campus                         |        |
+|                                   222 | 新乡学院                                   | Xinxiang College               |  2.975 |
+|                                   223 | 常州工学院                                 | Changzhou Institute of         |  2.750 |
+|                                       |                                            | Technology                     |        |
+|                                   223 | 河北大学                                   | Hebei University               |  2.750 |
+|                                   223 | 湖南工学院                                 | Hunan Institute of Technology  |  2.750 |
+|                                   226 | 天津理工大学                               | Tianjin University of          |  2.600 |
+|                                       |                                            | Technology                     |        |
+|                                   227 | 北京石油化工学院                           | Beijing Institute of           |  2.375 |
+|                                       |                                            | Petrochemical Technology       |        |
+|                                   227 | 成都理工大学工程技术学院                   | The Engineering&Technical      |  2.375 |
+|                                       |                                            | College of Chengdu University  |        |
+|                                       |                                            | of Technology                  |        |
+|                                   227 | 重庆邮电大学                               | Chongqing University of Posts  |  2.375 |
+|                                       |                                            | and Telecommunications         |        |
+|                                   227 | 广东工商职业技术大学                       | Guangdong University of        |  2.375 |
+|                                       |                                            | Business and Technology        |        |
+|                                   227 | 海军大连舰艇学院                           | PLA Dalian Naval Academy       |  2.375 |
+|                                   227 | 湖南工程学院                               | Hunan Institute of Engineering |  2.375 |
+|                                   227 | 武汉华夏理工学院                           | Wuhan Huaxia Institute of      |  2.375 |
+|                                       |                                            | Technology                     |        |
+|                                   227 | 西南林业大学                               | Southwest Forestry University  |  2.375 |
+|                                   227 | 西浦创业家学院（太仓）                     | Xi'an Jiaotong-Liverpool       |  2.375 |
+|                                       |                                            | University, Entrepreneur       |        |
+|                                       |                                            | College (Taicang)              |        |
+|                                   227 | 新疆大学                                   | Xinjiang University            |  2.375 |
+|                                   237 | 陆军边海防学院                             | Army Academy of Border and     |  2.359 |
+|                                       |                                            | Coastal Defense                |        |
+|                                   238 | 华北电力大学                               | North China Electric Power     |  2.275 |
+|                                       |                                            | University                     |        |
+|                                   238 | 吉利学院                                   | Geely University of China      |  2.275 |
+|                                   238 | 江苏科技大学                               | Jiangsu University of Science  |  2.275 |
+|                                       |                                            | and Technology                 |        |
+|                                   238 | 西安工业大学                               | Xi'an Technological University |  2.275 |
+|                                   242 | 德州农工大学                               | Texas A&M University           |  2.250 |
+|                                   242 | 弗吉尼亚理工大学                           | Virginia Tech                  |  2.250 |
+|                                   242 | 关东联合大学                               | Kanto Universities Alliance    |  2.250 |
+|                                   242 | 麦克马斯特大学                             | McMaster University            |  2.250 |
+|                                   242 | 普渡大学                                   | Purdue University              |  2.250 |
+|                                   247 | 河北建筑工程学院                           | Hebei University of            |  2.225 |
+|                                       |                                            | Architecture                   |        |
+|                                   248 | 重庆交通大学                               | Chongqing Jiaotong University  |  2.125 |
+|                                   248 | 广西师范大学                               | Guangxi Normal University      |  2.125 |
+|                                   248 | 湖北科技学院                               | Hubei University of Science    |  2.125 |
+|                                       |                                            | and Technology                 |        |
+|                                   248 | 江苏海洋大学                               | Jiangsu Ocean University       |  2.125 |
+|                                   248 | 江西工程学院                               | Jiangxi University of          |  2.125 |
+|                                       |                                            | Engineering                    |        |
+|                                   248 | 南京航空航天大学（天目湖校区）             | Nanjing University of          |  2.125 |
+|                                       |                                            | Aeronautics and Astronautics,  |        |
+|                                       |                                            | Tianmuhu Campus                |        |
+|                                   248 | 南京邮电大学                               | Nanjing University of Posts    |  2.125 |
+|                                       |                                            | and Telecommunications         |        |
+|                                   248 | 沈阳工业大学                               | Shenyang University of         |  2.125 |
+|                                       |                                            | Technology                     |        |
+|                                   248 | 沈阳工业大学辽阳分校                       | Shenyang University of         |  2.125 |
+|                                       |                                            | Technology, Liaoyang Campus    |        |
+|                                   248 | 石河子大学                                 | Shihezi University             |  2.125 |
+|                                   248 | 台州学院                                   | Taizhou University             |  2.125 |
+|                                   259 | 陆军边海防学院昆明校区                     | Army Border and Coastal        |  1.824 |
+|                                       |                                            | Defense Academ, Kunming Campus |        |
+|                                   260 | 柳州工学院                                 | Liuzhou Institute of           |  1.725 |
+|                                       |                                            | Technology                     |        |
+|                                   261 | 长春大学                                   | Changchun University           |  1.275 |
+|                                   262 | 北京交通大学（威海校区）                   | Beijing Jiaotong University    |  0.950 |
+|                                       |                                            | Weihai Campus                  |        |
+|                                   262 | 淮阴工学院                                 | Huaiyin Institute of           |  0.950 |
+|                                       |                                            | Technology                     |        |
+|                                   264 | 江西冶金职业技术学院                       | Jiangxi Metallurgical          |  0.850 |
+|                                       |                                            | Vocational and Technical       |        |
+|                                       |                                            | College                        |        |
+|                                   264 | 宁波大学                                   | Ningbo University              |  0.850 |
+|                                   264 | 青海大学                                   | Qinghai University             |  0.850 |
+|                                   264 | 山东大学                                   | Shan Dong University           |  0.850 |
+|                                   264 | 中原工学院                                 | Zhongyuan University of        |  0.850 |
+|                                       |                                            | Technology                     |        |
++---------------------------------------+--------------------------------------------+--------------------------------+--------+
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
