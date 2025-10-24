@@ -175,11 +175,11 @@ If you have any questions during the notice period, please scan the QR code belo
 |                                    62 | 浙江纺织服装职业技术学院                   | Zhejiang Textile and Clothing  |  8.565 |
 |                                       |                                            | Vocational and Technical       |        |
 |                                       |                                            | College                        |        |
-|                                    63 | 燕山大学                                   | Yanshan University             |  8.515 |
-|                                    63 | 安徽信息工程学院                           | Anhui Institute of Information |  8.415 |
-|                                       |                                            | Engineering                    |        |
-|                                    65 | 东北大学秦皇岛分校                         | Northeastern University at     |  8.515 |
+|                                    63 | 东北大学秦皇岛分校                         | Northeastern University at     |  8.515 |
 |                                       |                                            | Qinhuangdao                    |        |
+|                                    63 | 燕山大学                                   | Yanshan University             |  8.515 |
+|                                    65 | 安徽信息工程学院                           | Anhui Institute of Information |  8.415 |
+|                                       |                                            | Engineering                    |        |
 |                                    65 | 福建理工大学                               | Fujian University of           |  8.415 |
 |                                       |                                            | Technology                     |        |
 |                                    65 | 合肥工业大学(宣城校区)                     | Hefei University Of Technology |  8.415 |
@@ -273,7 +273,7 @@ If you have any questions during the notice period, please scan the QR code belo
 |                                   123 | 大连民族大学                               | Dalian Minzu University        |  5.350 |
 |                                   123 | 深圳信息职业技术学院                       | Shenzhen Institute of          |  5.350 |
 |                                       |                                            | Information Technology         |        |
-|                                   125 | 武汉理工大学                               | Wuhan University of Technology |  5.350 |
+|                                   123 | 武汉理工大学                               | Wuhan University of Technology |  5.350 |
 |                                   126 | 江西理工大学                               | Jiangxi University of Science  |  5.275 |
 |                                       |                                            | and Technology                 |        |
 |                                   126 | 上海电力大学                               | Shanghai University of         |  5.275 |
