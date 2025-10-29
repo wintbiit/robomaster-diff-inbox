@@ -74,6 +74,8 @@ English ( /en-US )
 
 2026 赛季，大疆面向报名第二十五届全国大学生机器人大赛 RoboMaster 及 ROBOCON 赛事(以下分别简称为 RoboMaster 2026、ROBOCON 2026） ，并通过报名审核的参赛队，正式开放「大疆赞助权益」申请，完成并通过申请的队伍，将获得「大疆赞助权益」。
 
+*新增权益细则，以及 ROBOCON 相关赞助权益详情，将于实施前持续更新，请以后续 RoboMaster 官方最新公告信息为准
+
 一、赞助权益
 
 1.  机甲大师赛事相关物资购买教育折扣：
@@ -83,8 +85,6 @@ English ( /en-US )
 *满足要求的新队伍，额外享有以超低价格购买步兵套件的折扣资格
 
 （2）教育折扣详情，可查看 附录 1：RoboMaster 2026机甲大师高校系列赛物资购买说明 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1879 )
-
-*新增权益细则，以及 ROBOCON 相关赞助权益详情，将于实施前持续更新，请以后续 RoboMaster 官方最新公告信息为准
 
 2. 大疆赞助产品赠送：
 
@@ -116,15 +116,15 @@ RoboMaster 2026 机甲大师超级对抗赛 · 全国赛赛事现场、论坛活
 
 （2）报名 ROBOCON 2026 并通过报名审核的参赛队
 
-a. 申请流程：填写申请问卷 附录 2： RoboMaster / ROBOCON | 大疆赞助权益申请（2026赛季） ( https://djistore.wjx.cn/vm/wFunDds.aspx ) ，完成信息登记与淘宝账号录入
+2. 申请流程：填写申请问卷 附录 2： RoboMaster / ROBOCON | 大疆赞助权益申请（2026赛季） ( https://djistore.wjx.cn/vm/wFunDds.aspx ) ，完成信息登记与淘宝账号录入
 
-b. 申请开放时间：
+3. 申请开放时间：
 
 （1）RoboMaster 2026 高校系列赛参赛队：截止 2026 年 11 月 30 日 18:00
 
 （2）ROBOCON 2026 参赛队申请时间，以后续赛事报名截止时间为准
 
-c. 审核授予与公示：审核通过后获得「大疆赞助权益」，并公示于 附录 3： RoboMaster / ROBOCON | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNp5xGM79zTse37zzg?scode=AC0A8gfyABElmOdfqfAZMAygaZAKA&tab=BB08J2 )
+4. 审核授予与公示：审核通过后获得「大疆赞助权益」，并公示于 附录 3： RoboMaster / ROBOCON | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNp5xGM79zTse37zzg?scode=AC0A8gfyABElmOdfqfAZMAygaZAKA&tab=BB08J2 )
 
 四、赞助标识规范
 
@@ -144,7 +144,7 @@ b. 若参赛队原有赞助商排序已确定，应选择不展示大疆标识
 
 1. 组委会有权调整权益细则，各战队须以 机甲大师官网最新公告 为准。
 
-2. 赞助权益与具体权益福利内容（如教育折扣、产品领用/赠送）为 独立流程，使用折扣购买物资或申领产品需 另行遵循专项规则（详见后续发布的相关公告）。
+2. 赞助权益与具体权益福利内容（如教育折扣、产品领用/赠送）为 独立流程，使用折扣购买物资或申领产品需另行遵循专项规则（详见后续发布的相关公告）。
 
 3. 通过「大疆赞助权益」获取的 所有折扣权限/技术物资/大疆产品等，仅限用于 RoboMaster/ROBOCON 2026 赛事及相关参赛备赛活动，不得进行转卖、转租或其他获利行为；若经查证违规行为属实，组委会有权收回大疆赞助权益、相关物资与产品以及相关不当获利。
 
@@ -231,4 +231,4 @@ b. 若参赛队原有赞助商排序已确定，应选择不展示大疆标识
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ))
