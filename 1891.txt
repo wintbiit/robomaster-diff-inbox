@@ -201,7 +201,7 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 |   77 | 南昌大学                                  | Nanchang University            | Passion          |
 |   78 | 南方科技大学                              | Southern University of Science | ARTINX           |
 |      |                                           | and Technology                 |                  |
-|   79 | 南华大学                                  | Nanhua University              | MA               |
+|   79 | 南华大学                                  | University of South China      | MA               |
 |   80 | 南京工业大学                              | Nanjing Tech University        | BlueSpace        |
 |   81 | 南京航空航天大学                          | Nanjing University of          | 长空御风         |
 |      |                                           | Aeronautics and Astronautics   |                  |
@@ -276,12 +276,11 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 |      |                                           | University                     |                  |
 |  128 | 西蒙菲莎大学                              | Simon Fraser University        | Ascension        |
 |  129 | 西南交通大学                              | Southwest Jiaotong University  | Helios           |
-|  130 | 西南民族大学                              | Southwest University for       | 新竹             |
-|      |                                           | Nationalities                  |                  |
+|  130 | 西南民族大学                              | Southwest Minzu University     | 新竹             |
 |  131 | 西南石油大学                              | Southwest Petroleum University | 铁人             |
 |  132 | 厦门大学                                  | Xiamen University              | RCS              |
-|  133 | 厦门大学嘉庚学院                          | Jiageng College of Xiamen      | TCR              |
-|      |                                           | University                     |                  |
+|  133 | 厦门大学嘉庚学院                          | Xiamen University Tan Kah Kee  | TCR              |
+|      |                                           | College                        |                  |
 |  134 | 厦门理工学院                              | Xiamen University of           | PFA              |
 |      |                                           | Technology                     |                  |
 |  135 | 香港大学                                  | The University of Hong Kong    | HerKules         |
@@ -593,14 +592,14 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 |       163 | 陆军工程大学                               | Army Engineering University of                       |                  | 开路先锋         |                  |
 |           |                                            | PLA                                                  |                  |                  |                  |
 |       164 | 茅台学院                                   | Moutai College                                       | MTI              | MTI              | MTI              |
-|       165 | 闽江学院                                   | Minjiang College                                     | 赤源机甲         | 赤源机甲         | 赤源机甲         |
+|       165 | 闽江学院                                   | Minjiang University                                  | 赤源机甲         | 赤源机甲         | 赤源机甲         |
 |       166 | 南昌大学                                   | Nanchang University                                  | Passion          |                  |                  |
 |       167 | 南昌航空大学                               | Nanchang Hangkong University                         | 洪鹰             | 洪鹰             | 洪鹰             |
 |       168 | 南昌理工学院                               | Nanchang University of                               | 新跃             | 新跃             |                  |
 |           |                                            | Technology                                           |                  |                  |                  |
 |       169 | 南方科技大学                               | Southern University of Science                       | ARTINX           |                  |                  |
 |           |                                            | and Technology                                       |                  |                  |                  |
-|       170 | 南华大学                                   | Nanhua University                                    | MA               |                  |                  |
+|       170 | 南华大学                                   | University of South China                            | MA               |                  |                  |
 |       171 | 南京大学                                   | Nanjing University                                   | 鲸麟             | 鲸麟             | 鲸麟             |
 |       172 | 南京工程学院                               | Nanjing Institute of                                 | zerone           | zerone           |                  |
 |           |                                            | Technology                                           |                  |                  |                  |
@@ -656,7 +655,7 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 |       203 | 山西电子科技学院                           | Shanxi University of                                 |                  | 燎原             |                  |
 |           |                                            | Electronic Science and                               |                  |                  |                  |
 |           |                                            | Technology                                           |                  |                  |                  |
-|       204 | 山西工商学院                               | Shanxi Technology and Business                       | 熵火翼           | 熵火翼           |                  |
+|       204 | 山西工商学院                               | Shanxi Technology and Business                       | TB Power         | TB Power         |                  |
 |           |                                            | University                                           |                  |                  |                  |
 |       205 | 山西工学院                                 | Shanxi College of Technology                         |                  | 雁翎             |                  |
 |       206 | 山西机电职业技术学院                       | Shanxi Institute of Mechanical                       | 筑梦             | 筑梦             | 筑梦             |
@@ -773,16 +772,15 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 |           |                                            | Campus                                               |                  |                  |                  |
 |       278 | 西南交通大学                               | Southwest Jiaotong University                        | Helios           |                  |                  |
 |       279 | 西南林业大学                               | Southwest Forestry University                        |              404 |              404 |                  |
-|       280 | 西南民族大学                               | Southwest University for                             | 新竹             | 新竹             | 新竹             |
-|           |                                            | Nationalities                                        |                  |                  |                  |
+|       280 | 西南民族大学                               | Southwest Minzu University                           | 新竹             | 新竹             | 新竹             |
 |       281 | 西南石油大学                               | Southwest Petroleum University                       | 铁人             |                  |                  |
 |       282 | 西南石油大学南充校区                       | Southwest Petroleum University                       | 泓龙             | 泓龙             |                  |
 |           |                                            | Nanchong Campus                                      |                  |                  |                  |
 |       283 | 西浦创业家学院（太仓）                     | XJTLU Entrepreneur College                           | OmniX            | OmniX            | OmniX            |
 |           |                                            | (Taicang)                                            |                  |                  |                  |
 |       284 | 厦门大学                                   | Xiamen University                                    | RCS              |                  | RCS              |
-|       285 | 厦门大学嘉庚学院                           | Jiageng College of Xiamen                            | TCR              |                  |                  |
-|           |                                            | University                                           |                  |                  |                  |
+|       285 | 厦门大学嘉庚学院                           | Xiamen University Tan Kah Kee                        | TCR              |                  |                  |
+|           |                                            | College                                              |                  |                  |                  |
 |       286 | 厦门理工学院                               | Xiamen University of                                 | PFA              |                  |                  |
 |           |                                            | Technology                                           |                  |                  |                  |
 |       287 | 香港大学                                   | The University of Hong Kong                          | HerKules         |                  | HerKules         |
@@ -931,6 +929,16 @@ RoboMaster 2026机甲大师高校系列赛报名名单公示
 大疆官网 ( https://www.dji.com )
 大疆商城 ( https://store.dji.com )
 招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )://we.dji.com/zh-CN )
 精彩活动 ( https://www.dji.com/event )
 
 联系方式
