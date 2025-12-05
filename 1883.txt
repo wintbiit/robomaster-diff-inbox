@@ -70,8 +70,6 @@ RoboMaster University Series (RMU), which comprises the RoboMaster University Ch
 
 2.The same registered team may enter multiple RMU events in the same season. The RoboMaster Organizing Committee will treat a single team participating in different events during the same season as one entity for all administrative procedures, and a team must use the same team name across different events.
 
-3.Depending on the specific event rules, each institution may have at most one or two teams qualified to participate in the same event.
-
 The RoboMaster Organizing Committee encourages participating universities and teams to actively integrate internal and external resources, steadily develop and improve technical and management capabilities, ensure smooth internal team succession, and foster a healthy, positive, and sustainable pre‑competition environment. Based on these principles and the RMUC registration reviews since RMUC 2020, the RoboMaster Organizing Committee now publishes the list of university representative teams that have passed review.
 
 Representative teams have priority participation rights and priority point allocation for RMUC and RMUL. The priority order for allocating RMU participation slots is:
@@ -651,5 +649,7 @@ Special cases and clarifications from the Participant Manual:
 电话：+86 (0)755 84357613
 
 邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
 
 Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )

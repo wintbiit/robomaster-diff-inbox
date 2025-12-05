@@ -64,7 +64,370 @@ RMU 2026 Instructions for Purchasing Materials
 
 2025-10-21
 
-*To be updated.*
+I. Education Discount Application Process
+
+* DJI sponsorship benefits application: Review the announcement " Announcement on DJI Sponsorship Benefits and Application Process ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1889 ) ", complete the DJI sponsorship benefits application questionnaire linked in that announcement, and submit your benefits application and Taobao account registration.
+* Eligible groups: Teams that have registered for and passed the registration review for RMU 2026  (including the RMUC and RMUL) or ROBOCON 2026.
+
+For the ROBOCON-related education discount purchase procedure and the detailed list of items, see subsequent announcements.
+
+II. Material Details
+
+Special notes regarding the Referee System onboard modules:
+
+1.The Referee System onboard modules are designed to serve the RMU competitions. The modules sold are the same as those used on the official website for the current season (see the competition rules and related documents for exact applicability). Future feature updates will be driven by the competition rules and may add or remove functions or change module support (some modules may become unusable after iterations). In addition, the serial protocol will be gradually reduced, with self-detectable data being removed.
+
+2.The retail version of the Referee System onboard modules cannot be used in official competition. Teams are advised to prioritize using the onboard modules loaned/provided for the current season when preparing for competition to minimize procurement expenses.
+
++--------------------------------+----------------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+-----------------+
+| *Material*                     | *Product detail*                                         | *Discount requirements*        | *Price (RMB)*                                                                                                   | *Cap (set)*                    | *Channel*       |
+| Accessories                    | https://bbs.robomaster.com/wiki/20204847/804789?source=7 | Teams must hold DJI            | See "Appendix I: Accessories and Discount Amount" (                                                             | Taobao  E-mail                 |
+|                                |                                                          | sponsorship benefits           | https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABE4hjn59KAT4AVAatAEw&tab=000003 | purchase                       |
+|                                |                                                          |                                | )                                                                                                               |                                |
+| RoboMaster Self-Assembly Robot | https://bbs.robomaster.com/wiki/20204847/811010?source=7 | Teams must hold DJI            | RMB 7699/unit                                                                                                   |                              1 | E-mail purchase |
+| Type A                         |                                                          | sponsorship benefits and meet  |                                                                                                                 |                                |                 |
+|                                |                                                          | the following requirements:    |                                                                                                                 |                                |                 |
+|                                |                                                          | * 1. Did not successfully      |                                                                                                                 |                                |                 |
+|                                |                                                          | participate in the RMUC        |                                                                                                                 |                                |                 |
+|                                |                                                          | or RMUL in both the 2024       |                                                                                                                 |                                |                 |
+|                                |                                                          | and 2025 seasons. *   * 2.     |                                                                                                                 |                                |                 |
+|                                |                                                          | Limited stock; available on    |                                                                                                                 |                                |                 |
+|                                |                                                          | a first-come, first-served     |                                                                                                                 |                                |                 |
+|                                |                                                          | basis.                         |                                                                                                                 |                                |                 |
+| RMB 16999/unit                 |                                                        1 | E-mail purchase                |
+| Teams must hold DJI            | RMB 16999/unit                                           |                              2 | E-mail purchase                                                                                                 |
+| sponsorship benefits and meet  |                                                          |                                |                                                                                                                 |
+| the following requirements:    |                                                          |                                |                                                                                                                 |
+| * 1. Did not successfully      |                                                          |                                |                                                                                                                 |
+| participate in the RMUC        |                                                          |                                |                                                                                                                 |
+| in both the 2024 and 2025      |                                                          |                                |                                                                                                                 |
+| seasons. *   * 2. Limited      |                                                          |                                |                                                                                                                 |
+| stock; available on a          |                                                          |                                |                                                                                                                 |
+| first-come, first-served       |                                                          |                                |                                                                                                                 |
+| basis.                         |                                                          |                                |                                                                                                                 |
+| Teams do not need to hold DJI  | Retail price: RMB 21999/unit                             | /                              | E-mail purchase                                                                                                 |
+| sponsorship benefits. This     |                                                          |                                |                                                                                                                 |
+| price is not eligible for      |                                                          |                                |                                                                                                                 |
+| the education discount. All    |                                                          |                                |                                                                                                                 |
+| RMU  participating teams may   |                                                          |                                |                                                                                                                 |
+| purchase at the retail price.  |                                                          |                                |                                                                                                                 |
+| * 1. Limited stock; available  |                                                          |                                |                                                                                                                 |
+| on a first-come, first-served  |                                                          |                                |                                                                                                                 |
+| basis.                         |                                                          |                                |                                                                                                                 |
+| Livox Mid-70 LiDAR             | https://www.livoxtech.com/mid-70                         | Teams must hold DJI            | RMB 3599/unit                                                                                                   | Refer to the "Discount         | E-mail purchase |
+|                                |                                                          | sponsorship benefits and meet  |                                                                                                                 | requirement"                   |                 |
+|                                |                                                          | the following requirements     |                                                                                                                 |                                |                 |
+|                                |                                                          | (each qualifying item entitles |                                                                                                                 |                                |                 |
+|                                |                                                          | the team to one unit): *       |                                                                                                                 |                                |                 |
+|                                |                                                          |   1. Registered for RMUC       |                                                                                                                 |                                |                 |
+|                                |                                                          | and passed the registration    |                                                                                                                 |                                |                 |
+|                                |                                                          | review — one unit.  *   2.     |                                                                                                                 |                                |                 |
+|                                |                                                          | Registered for RMUC and passed |                                                                                                                 |                                |                 |
+|                                |                                                          | the RMUC Season Planning       |                                                                                                                 |                                |                 |
+|                                |                                                          | section — one unit.  *   3.    |                                                                                                                 |                                |                 |
+|                                |                                                          | Registered for RMUC and passed |                                                                                                                 |                                |                 |
+|                                |                                                          | the RMUC Mid-term Progress     |                                                                                                                 |                                |                 |
+|                                |                                                          | Documentation section — one    |                                                                                                                 |                                |                 |
+|                                |                                                          | unit.  *   4. Only registered  |                                                                                                                 |                                |                 |
+|                                |                                                          | for the RMUL 2026 3v3 Match    |                                                                                                                 |                                |                 |
+|                                |                                                          | and passed the registration    |                                                                                                                 |                                |                 |
+|                                |                                                          | review — one unit. * The       |                                                                                                                 |                                |                 |
+|                                |                                                          | two products share the same    |                                                                                                                 |                                |                 |
+|                                |                                                          | discount offer.  Each team may |                                                                                                                 |                                |                 |
+|                                |                                                          | purchase a maximum of 3 units. |                                                                                                                 |                                |                 |
+| Retail price: RMB 5,999 per    |
+| unit. If required, please      |
+| visit the DJI Store and search |
+| for "Livox" to purchase.       |
+| Livox Mid-360 LiDAR            | https://www.livoxtech.com/cn/mid-360                     | RMB 2599/unit                  | Refer to the "Discount                                                                                          | E-mail purchase                |
+|                                |                                                          |                                | requirement"                                                                                                    |                                |
+| Retail price: RMB 3999 per     |
+| unit. If required, please      |
+| visit the DJI Store and search |
+| for "Livox" to purchase.       |
+| Referee System onboard modules | https://bbs.robomaster.com/wiki/20204847/804682?source=7 | /                              | Click here (                                                                                                    | Phone/WeChat purchase          |
+|                                |                                                          |                                | https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABEjBdojbrAT4AVAatAEw&tab=000001 |                                |
+|                                |                                                          |                                | ) to view details                                                                                               |                                |
++--------------------------------+----------------------------------------------------------+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+-----------------+
+
+Appendix I: Accessories and Discount Quota
+
+*The discount quota will be announced during the "Status Review" period.
+
+See: https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABEBPk7dVIAT4AVAatAEw&tab=000003 ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABEBPk7dVIAT4AVAatAEw&tab=000003 )
+
+Appendix II: After Sales Policy
+
+See: https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABECGrpMaUAT4AVAatAEw&tab=000007 ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABECGrpMaUAT4AVAatAEw&tab=000007 )
+
+III. Overview of Purchase Channels
+
++-----+-----------------------------------------------------------------------------------------------------------------------+--------------------------------+--------------------------------+
+| No. | Channels                                                                                                              | Targeted purchasers            | Notes                          |
+|   1 | Taobao                                                                                                                | Teams that hold DJI            | 1. Eligible for the discounts  |
+|     |                                                                                                                       | sponsorship benefits           | described in "II. Material     |
+|     |                                                                                                                       |                                | Details".   2. Discount        |
+|     |                                                                                                                       |                                | period: 18:00 on November 6,   |
+|     |                                                                                                                       |                                | 2025 to 18:00 on September     |
+|     |                                                                                                                       |                                | 23, 2026. Retail-priced sales  |
+|     |                                                                                                                       |                                | remain available year‑round.   |
+|     |                                                                                                                       |                                |  3. Supported payment methods: |
+|     |                                                                                                                       |                                | online payment and credit      |
+|     |                                                                                                                       |                                | card. Corporate bank transfers |
+|     |                                                                                                                       |                                | and contract issuance are not  |
+|     |                                                                                                                       |                                | supported.   4. Discounted     |
+|     |                                                                                                                       |                                | items can only be purchased    |
+|     |                                                                                                                       |                                | through Taobao, except under   |
+|     |                                                                                                                       |                                | special circumstances. If      |
+|     |                                                                                                                       |                                | you have a special situation,  |
+|     |                                                                                                                       |                                | please contact the event       |
+|     |                                                                                                                       |                                | office via the official WeChat |
+|     |                                                                                                                       |                                | account.   5. Orders are       |
+|     |                                                                                                                       |                                | accepted only with shipping    |
+|     |                                                                                                                       |                                | addresses in Mainland China.   |
+|   2 | E-mail purchase                                                                                                       | Teams that hold DJI            | 1. Eligible for the discounts  |
+|     |                                                                                                                       | sponsorship benefits           | described in “II. Material     |
+|     |                                                                                                                       |                                | Details”.   2. Discount        |
+|     |                                                                                                                       |                                | period: 18:00 on November 6,   |
+|     |                                                                                                                       |                                | 2025 to 18:00 on September     |
+|     |                                                                                                                       |                                | 23, 2026. Retail-priced sales  |
+|     |                                                                                                                       |                                | remain available year‑round.   |
+|     |                                                                                                                       |                                |   3. Payment and contracts:    |
+|     |                                                                                                                       |                                | Bank transfers (including      |
+|     |                                                                                                                       |                                | corporate transfers) are       |
+|     |                                                                                                                       |                                | accepted, and contracts can    |
+|     |                                                                                                                       |                                | be issued. If a contract is    |
+|     |                                                                                                                       |                                | required, please schedule your |
+|     |                                                                                                                       |                                | purchase accordingly. Contract |
+|     |                                                                                                                       |                                | signing must be completed      |
+|     |                                                                                                                       |                                | before payment and shipment.   |
+|     |                                                                                                                       |                                | 4. Purchase channel suspension |
+|     |                                                                                                                       |                                | around the competition:        |
+|     |                                                                                                                       |                                | Unless otherwise arranged,     |
+|     |                                                                                                                       |                                | the email‑order channel will   |
+|     |                                                                                                                       |                                | be suspended starting 15       |
+|     |                                                                                                                       |                                | days before the competition    |
+|     |                                                                                                                       |                                | and will resume 5 days after   |
+|     |                                                                                                                       |                                | the competition ends. For      |
+|     |                                                                                                                       |                                | exceptional cases, please      |
+|     |                                                                                                                       |                                | contact the event office via   |
+|     |                                                                                                                       |                                | the official WeChat account    |
+|     |                                                                                                                       |                                | (scan the QR code below).   5. |
+|     |                                                                                                                       |                                | For detailed steps, see  “2)   |
+|     |                                                                                                                       |                                | Email Purchase Process” below. |
+|   3 | DJI Store (                                                                                                           | All                            | 1. Only some of the            |
+|     | https://store.dji.com/cn/list/accessories?from=site-nav&tab=103&page=1&sort=recommendation&category=101%3D101.216.305 |                                | competition-related materials  |
+|     | )                                                                                                                     |                                | are available at DJI store.    |
+|     |                                                                                                                       |                                | 2. You can only purchase       |
+|     |                                                                                                                       |                                | these materials at full        |
+|     |                                                                                                                       |                                | price and cannot enjoy the     |
+|     |                                                                                                                       |                                | discounts mentioned in "II.    |
+|     |                                                                                                                       |                                | Material Details". 3. Payment  |
+|     |                                                                                                                       |                                | methods: credit card and bank  |
+|     |                                                                                                                       |                                | transfer (including corporate  |
+|     |                                                                                                                       |                                | transfers) are supported.      |
+|     |                                                                                                                       |                                | Please contact the online      |
+|     |                                                                                                                       |                                | store customer service to      |
+|     |                                                                                                                       |                                | arrange payment. Contract      |
+|     |                                                                                                                       |                                | issuance is not supported.     |
+|   4 | Phone/WeChat purchase                                                                                                 | All                            | Participating teams purchasing |
+|     |                                                                                                                       |                                | non-competition items (e.g.,   |
+|     |                                                                                                                       |                                | referee system modules)        |
+|     |                                                                                                                       |                                | or non-participating teams     |
+|     |                                                                                                                       |                                | buying products should use     |
+|     |                                                                                                                       |                                | the following methods: * 1.    |
+|     |                                                                                                                       |                                | Phone purchase: Please contact |
+|     |                                                                                                                       |                                | Mr. Mei at +86 0755-84357614   |
+|     |                                                                                                                       |                                | * 2. WeChat purchase:          |
+|     |                                                                                                                       |                                | Please contact the RM Sales    |
+|     |                                                                                                                       |                                | enterprise WeChat account      |
+|     |                                                                                                                       |                                | (scan the QR code below)       |
++-----+-----------------------------------------------------------------------------------------------------------------------+--------------------------------+--------------------------------+
+
+1) Taobao Purchase Process
+
+Note: Orders are accepted only with shipping addresses in Mainland China.
+
++-----+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+
+| No. | Process                        | Description                                                                                                     | Notes                          |
+|   1 | Login to Taobao                | Log in to Taobao, search for                                                                                    | For teams participating in     |
+|     |                                | "RoboMaster 萝马集市" and                                                                                       | multiple RMU events, fill in   |
+|     |                                | enter the store. Select the                                                                                     | one of the valid registration  |
+|     |                                | items you need.                                                                                                 | codes.                         |
+|   2 | Register the Taobao account to | 1. Confirm the Taobao account your team will use to place                                                       | 1. If one team participates    |
+|     | be used for orders             | orders this season. Once registered, this account cannot be                                                     | in multiple RMU events, only   |
+|     |                                | changed for the season.   2. Account registration requires                                                      | one account registration       |
+|     |                                | applying for DJI sponsorship benefits. See the announcement                                                     | is required.   2. After        |
+|     |                                | “ DJI Sponsorship Benefits and Application Process (                                                            | submitting the questionnaire,  |
+|     |                                | https://www.robomaster.com/zh-CN/resource/pages/announcement/1889                                               | the account cannot be changed, |
+|     |                                | ) ” and complete the DJI sponsorship benefits application                                                       | so please double-check         |
+|     |                                | questionnaire in that announcement to apply for benefits and                                                    | before submission.   3.        |
+|     |                                | register your Taobao account.                                                                                   | Register no later than         |
+|     |                                |                                                                                                                 | November 30, 2025. If you      |
+|     |                                |                                                                                                                 | miss the deadline, you will    |
+|     |                                |                                                                                                                 | forfeit the Taobao discount    |
+|     |                                |                                                                                                                 | purchase qualification and     |
+|     |                                |                                                                                                                 | must use email purchase to     |
+|     |                                |                                                                                                                 | obtain discounts later.        |
+|     |                                |                                                                                                                 |  4.Questionnaire data are      |
+|     |                                |                                                                                                                 | collected periodically;        |
+|     |                                |                                                                                                                 | binding the discount to the    |
+|     |                                |                                                                                                                 | account may take time, so      |
+|     |                                |                                                                                                                 | please be patient.             |
+|   3 | Obtain discount eligibility    | 1. Use the registered Taobao account to contact the store customer service on Taobao and confirm                | 1. Discounted items for        |
+|     |                                | whether the discount binding is successful.   2. Check “ Appendix 1: Accessories and Discount Quota (           | the same team may only be      |
+|     |                                | https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABEjdhrCHgAT4AVAatAEw&tab=000002 | purchased by the designated    |
+|     |                                | ) ” to confirm and calculate the discount amount your team is entitled to.                                      | (registered) account.   2.     |
+|     |                                |                                                                                                                 | If you have questions about    |
+|     |                                |                                                                                                                 | your discount amount, contact  |
+|     |                                |                                                                                                                 | the Taobao store customer      |
+|     |                                |                                                                                                                 | service. Customer service      |
+|     |                                |                                                                                                                 | hours: weekdays 09:00–12:00    |
+|     |                                |                                                                                                                 | and 14:00–18:00 (China time).  |
+|   4 | Confirm the order              | 1.Transfer the amount                                                                                           | If the quantity purchased      |
+|     |                                | corresponding to the                                                                                            | exceeds the discount limit,    |
+|     |                                | quantities and totals verified                                                                                  | the excess items will be       |
+|     |                                | by staff, and include your                                                                                      | charged at the retail price.   |
+|     |                                | school name as the payment                                                                                      |                                |
+|     |                                | reference/memo.  2. Email the                                                                                   |                                |
+|     |                                | final purchase checklist and                                                                                    |                                |
+|     |                                | a photo/scan of the transfer                                                                                    |                                |
+|     |                                | receipt to robomaster@dji.com.                                                                                  |                                |
+|     |                                | Email subject format: School                                                                                    |                                |
+|     |                                | Name + Team Name + Final                                                                                        |                                |
+|     |                                | Checklist&Payment Proof +                                                                                       |                                |
+|     |                                | Amount   3. The RMOC will                                                                                       |                                |
+|     |                                | verify the payment using the                                                                                    |                                |
+|     |                                | transfer information; once                                                                                      |                                |
+|     |                                | receipt is confirmed, shipment                                                                                  |                                |
+|     |                                | will be processed.                                                                                              |                                |
+|   5 | Invoice issuance and           | 1. If you need an invoice, you can request it directly from your order record and fill                          | 1. Required invoicing          |
+|     | after-sales (optional)         | in the invoicing information.   2.Invoices are expected to be issued within 10 working                          | information:  * Taxpayer name  |
+|     |                                | days after shipment and will be sent to the provided email address.   3. For after-sales                        | * Taxpayer identification      |
+|     |                                | service (repairs, returns, exchanges, etc.), read “ Appendix II: After-sales Policy (                           | number * Address * Phone       |
+|     |                                | https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABEIHJn8OWAT4AVAatAEw&tab=000006 | * Bank and account number      |
+|     |                                | ) ” and contact the Taobao store customer service for processing.                                               | * Invoice type (default:       |
+|     |                                |                                                                                                                 | VAT ordinary invoice) *        |
+|     |                                |                                                                                                                 | Email address to receive       |
+|     |                                |                                                                                                                 | the electronic invoice 2.      |
+|     |                                |                                                                                                                 | Other special requests can     |
+|     |                                |                                                                                                                 | be handled by contacting the   |
+|     |                                |                                                                                                                 | Taobao store customer service. |
++-----+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+
+
+2) E-mail Purchase Process
+
++-----+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+
+| No. | Process                        | Description                                                                                                     | Notes                          |
+|   1 | Download and fill in the       | 1.Download RM 202 6 ( https://docs.qq.com/sheet/DUFlXYlBkUFJJd2Vp?tab=000004 ) Materials Purchase Order V1.0 (  | 1. Do not delete any cells     |
+|     | documents                      | https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNv6R0NDUbTTunVS7o?scode=AC0A8gfyABE7WGAAX8AT4AVAatAEw&tab=000005 | in the checklist or alter its  |
+|     |                                | ) 2.Fill in the “RM 2026 Materials Purchase Order” as required                                                  | format; only fill in the blank |
+|     |                                |                                                                                                                 | cells.   2. Discounted items   |
+|     |                                |                                                                                                                 | are subject to a quantity      |
+|     |                                |                                                                                                                 | limit. Please keep track of    |
+|     |                                |                                                                                                                 | the total number of discounted |
+|     |                                |                                                                                                                 | units you have used. If you    |
+|     |                                |                                                                                                                 | exceed the quota, record the   |
+|     |                                |                                                                                                                 | purchase at the retail price.  |
+|   2 | Order confirmation             | 1. Email the checklist file to                                                                                  | 1. If you decide to cancel the |
+|     |                                | robomaster@dji.com for review.                                                                                  | purchase after submitting the  |
+|     |                                | * Email subject format: School                                                                                  | checklist, please notify us    |
+|     |                                | Name + Team Name + Purchase                                                                                     | by email promptly; otherwise   |
+|     |                                | List + Amount * Checklist                                                                                       | the corresponding discount     |
+|     |                                | file name format: School Name                                                                                   | quota will remain locked and   |
+|     |                                | + Purchase List + Amount  2.                                                                                    | cannot be reused.   2. Do not  |
+|     |                                | The RMOC will reply within                                                                                      | make any payment until you     |
+|     |                                | 3–4 business days to confirm                                                                                    | have  *confirmed the order     |
+|     |                                | the checklist.   3. Once the                                                                                    | details and the total amount*  |
+|     |                                | checklist is confirmed, the                                                                                     | . Sales contracts or other     |
+|     |                                | required inventory will be                                                                                      | verbal assurances are not      |
+|     |                                | reserved (locked). If payment                                                                                   | valid grounds for payment;     |
+|     |                                | is not completed within 7                                                                                       | even after a contract is       |
+|     |                                | days, the reservation will be                                                                                   | signed, payment should only    |
+|     |                                | cancelled.                                                                                                      | be made after the order has    |
+|     |                                |                                                                                                                 | been separately confirmed.     |
+|     |                                |                                                                                                                 |   3. If a team pays before     |
+|     |                                |                                                                                                                 | the order details have been    |
+|     |                                |                                                                                                                 | confirmed and the payment      |
+|     |                                |                                                                                                                 | is received with no matching   |
+|     |                                |                                                                                                                 | order, shipment cannot proceed |
+|     |                                |                                                                                                                 | and the funds will be refunded |
+|     |                                |                                                                                                                 | via the original payment       |
+|     |                                |                                                                                                                 | method. If a refund is not     |
+|     |                                |                                                                                                                 | possible, the payment will     |
+|     |                                |                                                                                                                 | be applied by completing a     |
+|     |                                |                                                                                                                 | supplementary confirmation     |
+|     |                                |                                                                                                                 | for the corresponding order;   |
+|     |                                |                                                                                                                 | items on that order will       |
+|     |                                |                                                                                                                 | *no longer be eligible for     |
+|     |                                |                                                                                                                 | the educational discount* .    |
+|     |                                |                                                                                                                 |  4. If your intended purchase  |
+|     |                                |                                                                                                                 | includes both market‑priced    |
+|     |                                |                                                                                                                 | items and discounted items,    |
+|     |                                |                                                                                                                 | you must split them into two   |
+|     |                                |                                                                                                                 | separate checklists and send   |
+|     |                                |                                                                                                                 | them to the designated email   |
+|     |                                |                                                                                                                 | separately; otherwise the      |
+|     |                                |                                                                                                                 | email will be returned. After  |
+|     |                                |                                                                                                                 | checklists are confirmed,      |
+|     |                                |                                                                                                                 | payments for market‑priced     |
+|     |                                |                                                                                                                 | and discounted items must be   |
+|     |                                |                                                                                                                 | made separately and cannot be  |
+|     |                                |                                                                                                                 | combined; otherwise shipment   |
+|     |                                |                                                                                                                 | cannot be arranged.            |
+|   3 | Payment & shipping             | *   Transfer the amount                                                                                         | 1. Transfers must only be      |
+|     |                                | corresponding to the                                                                                            | made after the purchase        |
+|     |                                | quantities and totals verified                                                                                  | checklist has been submitted   |
+|     |                                | by staff, and include your                                                                                      | and verified. Direct           |
+|     |                                | school name as the payment                                                                                      | transfers made without         |
+|     |                                | reference/memo.  *   Email the                                                                                  | prior checklist verification   |
+|     |                                | final purchase checklist and                                                                                    | will be considered invalid;    |
+|     |                                | a photo/scan of the transfer                                                                                    | funds will be refunded after   |
+|     |                                | receipt to robomaster@dji.com.                                                                                  | deduction of any incurred      |
+|     |                                |  * Email subject format:                                                                                        | fees.   2. Payments must       |
+|     |                                | School Name + Team Name +                                                                                       | be settled in RMB only. RMB    |
+|     |                                | Final Checklist&Payment Proof                                                                                   | account details:  Account      |
+|     |                                | + Amount  *   The RMOC will                                                                                     | name: 深圳市睿炽科技有限公司   |
+|     |                                | verify the payment using the                                                                                    | Account number:                |
+|     |                                | transfer information; once                                                                                      | 755936619710201 Account Bank:  |
+|     |                                | receipt is confirmed, shipment                                                                                  | 招商银行深圳科技园支行         |
+|     |                                | will be processed.                                                                                              |                                |
+|   4 | Invoice issuance               | *   If you have specific                                                                                        | 1. Invoice seal:               |
+|     | (optional)                     | requirements for the invoice                                                                                    | 深圳市睿炽科技有限公司   2.    |
+|     |                                | type, invoice title, or the                                                                                     | Invoice details: names of      |
+|     |                                | invoice amount, please state                                                                                    | the purchased items, purchase  |
+|     |                                | them in the email when you                                                                                      | amounts, and quantities.       |
+|     |                                | submit the payment proof. If                                                                                    | 3. Invoices cannot be issued   |
+|     |                                | no requirements are provided,                                                                                   | in advance and unit prices on  |
+|     |                                | a regular VAT electronic                                                                                        | invoices cannot be altered. If |
+|     |                                | invoice will be issued by                                                                                       | you require assistance, please |
+|     |                                | default.  *   Invoices will                                                                                     | contact the event office via   |
+|     |                                | be issued after the goods have                                                                                  | the corporate WeChat account   |
+|     |                                | been shipped. The invoicing                                                                                     | (scan the QR code below).      |
+|     |                                | process takes approximately                                                                                     |                                |
+|     |                                | one week—please allow time                                                                                      |                                |
+|     |                                | for processing.  *   Once the                                                                                   |                                |
+|     |                                | invoice is issued, it will be                                                                                   |                                |
+|     |                                | sent to the same email address                                                                                  |                                |
+|     |                                | used to submit the purchase                                                                                     |                                |
+|     |                                | checklist.                                                                                                      |                                |
+|   5 | Contract Signing               | 1. If your team requires                                                                                        | Teams that do not require a    |
+|     | (Optional)                     | a contract as proof of                                                                                          | contract for reimbursement may |
+|     |                                | payment, please mark "Yes"                                                                                      | omit this step.                |
+|     |                                | in the "Contract Required"                                                                                      |                                |
+|     |                                | column of the list. Upon                                                                                        |                                |
+|     |                                | verification of the discounted                                                                                  |                                |
+|     |                                | quantity, the RMOC will                                                                                         |                                |
+|     |                                | contact your team to proceed                                                                                    |                                |
+|     |                                | with further arrangements.                                                                                      |                                |
+|     |                                |   2.Important: Please plan                                                                                      |                                |
+|     |                                | your purchase timeline                                                                                          |                                |
+|     |                                | accordingly. Payment and                                                                                        |                                |
+|     |                                | shipping can only be processed                                                                                  |                                |
+|     |                                | after the contract has been                                                                                     |                                |
+|     |                                | signed. Retroactive contract                                                                                    |                                |
+|     |                                | submissions are not supported.                                                                                  |                                |
++-----+--------------------------------+-----------------------------------------------------------------------------------------------------------------+--------------------------------+
 
 联系我们
 
