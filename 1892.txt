@@ -68,7 +68,32 @@ RoboMaster 2026 机甲大师超级对抗赛赛季规划须知： https://bbs.rob
 
 Notice on RoboMaster 2026 University Championship Season Planning: https://bbs.robomaster.com/wiki/20204847/812041?source=7
 
-一、赛季规划通过名单
+一、最佳赛季规划获奖名单
+
+最佳赛季规划公示期截止时间为2025年12月19日11:00，公示期内，如有疑问请微信联系 RoboMaster高校赛务企业微信 进行反馈。
+
+公示期结束后，无异议或异议不成立的获奖队伍将获得对应综合类奖项及相应奖励。
+
++--------------------------+------------+----------------+---------------------------------------------------+
+| 学校名称                 | 队伍名称   | 奖金           | 备注                                              |
+| 同济大学                 | SuperPower | 1000元（税前） | 开源链接 (                                        |
+|                          |            |                | https://bbs.robomaster.com/wiki/24617704?source=3 |
+|                          |            |                | )                                                 |
+| 吉林大学                 | TARS Go    | 1000元（税前） | 开源链接 (                                        |
+|                          |            |                | https://bbs.robomaster.com/wiki/28979283?source=3 |
+|                          |            |                | )                                                 |
+| 太原理工大学             | TRoMaC     | 1000元（税前） | 开源链接 (                                        |
+|                          |            |                | https://bbs.robomaster.com/wiki/21498773          |
+|                          |            |                | )                                                 |
+| 哈尔滨工业大学（威海）   | HERO       | 1000元（税前） | 开源链接 (                                        |
+|                          |            |                | https://bbs.robomaster.com/wiki/29222608          |
+|                          |            |                | )                                                 |
+| 合肥工业大学（宣城校区） | WDR        | 1000元（税前） | 开源链接 (                                        |
+|                          |            |                | https://bbs.robomaster.com/wiki/22675807          |
+|                          |            |                | )                                                 |
++--------------------------+------------+----------------+---------------------------------------------------+
+
+二、赛季规划通过名单
 
 +-------------------------------------------+--------------------------------+------------------+------+
 | 学校名称                                  | School Name                    | 队伍名称         | 等级 |
@@ -395,4 +420,4 @@ Notice on RoboMaster 2026 University Championship Season Planning: https://bbs.r
 
 邮箱： robomaster@dji.com
 
-Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
