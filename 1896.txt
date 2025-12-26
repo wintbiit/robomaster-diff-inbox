@@ -1,0 +1,224 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+论坛 ( https://bbs.robomaster.com )
+规则 / 公告
+
+* 
+规则 / 资料中心 ( https://bbs.robomaster.com/wiki/20204847 )
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+媒体库
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
+报名中心 ( https://bbs.robomaster.com/article/55619 )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2026机甲大师超级对抗赛自定义客户端字体使用规范
+
+2025-12-26
+
+为保障赛事顺利进行，规避因在自定义客户端软件UI界面中的知识产权侵权风险，维护赛事品牌形象与法律合规性，特制定本规范。本规范明确参赛队在设计、开发、部署自定义客户端时必须遵守的字体使用规则。
+
+*一、适用范围：*
+
+本规范适用于2026年所有参与 RoboMaster 机甲大师超级对抗赛的参赛队。约束范围涵盖参赛队以比赛为目的设计、开发、部署，并在比赛现场、直播、录播或任何官方渠道中露出的选手自定义客户端界面所有UI视觉元素（包括但不限于文字标签、按钮文本、logo展示、菜单项、对话框内容、数据图表文本等）。
+
+二、UI界面字体来源规范：
+
+（一）字体来源许可
+
+1.参赛队在其自定义客户端UI界面上显示的所有文本，请使用本规范附录所列出的官方指定开源字体。这些字体均已明确其开源许可，允许在商业和非商业项目中免费使用和分发。
+
+2.参赛队可在UI界面中使用完全原创的字体，但需满足：
+
+1）保存字体设计源文件及创作过程文档，以及其他能证明其原创性的留痕。
+
+2）禁止对现有字体（包括开源字体）的二创修改，如调整笔画、字宽等衍生设计。
+
+3）若自设计字体被证实存在侵权及其他损害赛事品牌价值的行为发生，由参赛队承担全部罚款与法律后果；
+
+（二）禁止使用的其他字体：
+
+1.禁止在自定义客户端UI界面中使用任何未包含在本规范附录中的字体。
+
+2.此限制包括但不限于：
+
+1）任何需购买商业授权但未付费的字体。
+
+2）任何来源不明、授权状态不清晰的免费字体。
+
+3）任何仅允许个人使用或非商业使用的字体。
+
+4）任何嵌入在开发工具、操作系统或第三方库中，但其授权条款不允许在参赛队分发软件中免费商用的字体。
+
+*三、UI界面字体使用规范：*
+
+（一）字体文件完整性：
+
+使用的开源字体文件应保持其原始完整性。除开源许可明确允许，否则不得对字体文件进行未经授权的修改（如二次创作、字形修改、违反授权信息及分发条例等）。如需修改，必须严格遵守该字体的开源许可协议条款，并承担由此产生的所有责任。
+
+（二）样式与渲染：
+
+参赛队可以使用开源字体提供的不同字重和样式，只要这些变体包含在官方发布的字体文件中，参赛队即可自行负责字体在其客户端环境中的呈现效果。
+
+*四、侵权风险与责任：*
+
+（一）自查责任
+
+参赛队有义务确保其自定义客户端完ui界面遵守本字体规范。在提交客户端软件、部署到比赛设备以及在比赛任何环节使用该客户端前，必须进行严格的自查。
+
+（二）侵权风险告知
+
+若参赛队违反本规范，在其自定义客户端UI界面中使用非附录指定的开源字体（包括但不限于商用字体、未授权字体）或自创字体，由此引发的任何知识产权侵权纠纷、索赔、诉讼、行政处罚或给RoboMaster赛事品牌造成的声誉损害等一切后果，均由该参赛队自行承担。
+
+（三）追责权利保留
+
+RoboMaster赛事组委会保留以下权利：
+
+1.在赛前、赛中或赛后对参赛队的自定义客户端进行抽查或要求提交字体使用证明。
+
+2.因参赛队字体侵权导致组委会遭受损失的，由参赛队进行直接赔偿。
+
+*附录：*
+
+指定字体包
+
+https://pan-sec.djicorp.com/s/iqp5byJWP9BJWgc ( https://pan-sec.djicorp.com/s/iqp5byJWP9BJWgc )
+
+icon素材参考网站
+
++----------+---------------------------------------+
+| 名称     | 网址                                  |
+| iconpark | https://iconpark.oceanengine.com/home |
+|          | (                                     |
+|          | https://iconpark.oceanengine.com/home |
+|          | )                                     |
+| icons    | https://igoutu.cn/icons (             |
+|          | https://igoutu.cn/icons )             |
+| ikonate  | https://ikonate.com/ (                |
+|          | https://ikonate.com/ )                |
++----------+---------------------------------------+
+
+*icon参考列表所列网站仅作设计参考与资源检索指引之用，与 RoboMaster 赛事组委会无任何关联。参赛队实际使用时，务必确保自行设计的图标具有完全原创性，或选用明确无版权争议的第三方图标。如因使用侵权图标引发法律纠纷，全部法律后果由参赛队承担；同时RoboMaster赛事组委会保留追究其法律责任与经济损失的权利。
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
