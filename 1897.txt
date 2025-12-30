@@ -1,0 +1,186 @@
+Group 3 Copy 7 Created with Sketch. Path 5 Copy Created with Sketch. Group Created with Sketch.
+
+logo ( /zh-CN )
+高校系列赛
+
+* 
+赛事介绍 ( /zh-CN/robo/overview?djifrom=nav )
+
+* 
+超级对抗赛
+
+* 
+赛事介绍 ( /zh-CN/robo/rm?djifrom=nav )
+
+* 
+积分体系 ( /zh-CN/robo/rm/integral?djifrom=nav )
+
+* 
+高校联盟赛 ( /zh-CN/robo/college-league?djifrom=nav )
+
+* 
+人工智能挑战赛 ( /zh-CN/robo/drone?djifrom=nav )
+
+* 
+赛事培训体系 ( /zh-CN/robo/training-system?djifrom=nav )
+
+* 
+赛事直播｜回放 ( /live?djifrom=nav )
+
+赛事产品 ( https://bbs.robomaster.com/wiki/20204847/804051 )
+论坛 ( https://bbs.robomaster.com )
+规则 / 公告
+
+* 
+规则 / 资料中心 ( https://bbs.robomaster.com/wiki/20204847 )
+
+* 
+公告 ( /zh-CN/resource/announcement?djifrom=nav )
+
+媒体库
+
+* 
+视频 ( /zh-CN/resource/video?djifrom=nav )
+
+* 
+新闻 ( /zh-CN/resource/news?djifrom=nav )
+
+* 
+同名动画 ( https://www.bilibili.com/video/BV1oV411s7Tz/?share_source=copy_web&vd_source=6bc463093097ab118d8625234301e62d )
+
+* 
+原创内容 ( /zh-CN/cultural/robot?djifrom=nav )
+
+专属招聘通道 ( https://www.robomaster.com/zh-CN/recruit )
+报名中心 ( https://bbs.robomaster.com/article/55619 )
+English ( /en-US )
+
+* 登录 ( javascript:void(0); )
+* 注册 ( javascript:void(0); )
+
+资料站 /
+
+RoboMaster 2026机甲大师高校系列赛开源审查流程
+
+2025-12-30
+
+根据《RoboMaster 2026 机甲大师高校系列赛机器人制作规范手册》中的机器人整机成品及开源机器人使用规范，参赛队伍应自觉开展自查，如实报备开源引用情况并主动互相监督。开源审查流程如下：
+
+*一、参赛队伍提交材料*
+
+参赛队伍需要在对应赛项的完整形态考核、预检录阶段结束前填写问卷提交报备材料。
+
+报备材料中应说明：
+
+-所使用开源机器人的种类
+
+-所使用开源机器人的出处
+
+-充分再设计的具体内容
+
+参赛队伍有责任提前填写报备材料，否则因开源审查流程带来的潜在损失（例如：机器人可能无法上场）将由参赛队伍自行承担。
+
+同时，在比赛期间，组委会将不定期抽查机器人。参赛队伍有责任向组委会展示机器人机械、电路设计图纸以及相关代码文件，并回答相关技术咨询。
+
+*整机成品及开源机器人报备链接： https://djistore.wjx.cn/vm/tETWdFM.aspx ( https://djistore.wjx.cn/vm/tETWdFM.aspx )*
+
+*整机成品及开源机器人反馈链接（非本学校）： https://djistore.wjx.cn/vm/QiVW0lV.aspx ( https://djistore.wjx.cn/vm/QiVW0lV.aspx )*
+
+*二、组委会审查*
+
+组委会将核实参赛队伍所提交的报备材料，如发现不满足《RoboMaster 2026 机甲大师高校系列赛机器人制作规范手册》中开源规范的情况
+
+完整形态考核阶段：将会把机器人具体的不满足情况反馈给相关队伍，参赛队伍需要在预检录阶段结束前完成整改并再次提交报备材料
+
+预检录阶段：将会对相关队伍的机器人发起现场开源审查答辩流程，并告知参赛队伍。
+
+*三、参赛队伍准备材料*
+
+在收到开源审查答辩流程开始的通知后，参赛队伍需要在6小时内（正式比赛开始前）/1小时内（正式比赛期间）准备答辩材料，并在有效期内告知组委会材料准备情况。若超出材料准备有效期，组委会有权通知队伍直接进入答辩环节。材料准备期间，参赛队伍可以对机器人进行修改，但修改后的机器人应与答辩时展示的材料一致。
+
+*四、答辩环节*
+
+组委会通知参赛队伍在收到通知后的10分钟内到达答辩现场，进入答辩环节。每台机器人对应的到场成员不得超过五名，且只能是正式队员。若缺席，则视为放弃答辩，且未通过开源审查。
+
+答辩环节限时15分钟。队伍需要阐述自己对开源机器人的使用情况、改动思路，并控制实际机器人展示改动的实际效果。队伍可以使用PPT、文档、图纸、视频等电子材料辅助讲解。若使用电子材料，需在答辩前将材料提交给组委会。
+
+*五、审核与公示*
+
+组委会开源审查小组将核实参赛队伍答辩及材料内容，并在答辩结束后24小时内通知参赛队伍审核结果。此后，该审核结果将进行公示。未通过开源审查答辩的机器人在后续的所有场次比赛都将视为检录未通过，不得上场。若该流程在正式比赛期间进行，则审核结果最终确认前，相关机器人可以参与比赛。
+
+如参赛队伍对开源审核流程及范围存在任何疑问，请联系当赛区检录长沟通。
+
+联系我们
+
+使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
+
+欢迎留下您的宝贵意见，我们将积极倾听您的建议，谢谢！
+您的姓名：
+
+您的身份：
+
+* 学生
+* 教师
+* 家长
+* 其他
+
+无数据
+
+您/您的孩子/学生所处的学段：
+
+* 小学
+* 初中
+* 高中
+* 大学
+* 其他
+
+无数据
+
+您/您的孩子/学生是否参加过RM比赛：
+
+* 是
+* 否
+
+无数据
+
+您的电话：
+
+您的建议：
+
+提交
+
+完成填写,
+
+感谢您的宝贵建议!
+
+社交媒体
+----
+
+* ( https://space.bilibili.com/20554233 )
+* ( https://www.douyin.com/user/MS4wLjABAAAAyq7qbZtnj809OT2KZy0hUPwJdfnr4CM_xGojVyyO1R0?from_tab_name=main )
+* ( https://weibo.com/u/5139757331 )
+* 
+
+关于RoboMaster
+------------
+
+关于大赛 ( /zh-CN/robo/overview )
+联系我们 ( /zh-CN/contact )
+隐私政策 ( /zh-CN/privacy )
+
+友情链接
+----
+
+大疆官网 ( https://www.dji.com )
+大疆商城 ( https://store.dji.com )
+招募精英 ( https://we.dji.com/zh-CN )
+精彩活动 ( https://www.dji.com/event )
+
+联系方式
+----
+
+电话：+86 (0)755 84357613
+
+邮箱： robomaster@dji.com
+
+Copyright © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
