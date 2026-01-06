@@ -60,9 +60,9 @@ English ( /en-US )
 
 资料站 /
 
-大疆赞助权益说明及申请公告（RoboMaster 2026）
+大疆赞助权益说明及申请公告（ROBOCON 2026）
 
-2025-10-29
+2026-01-06
 
 大疆（深圳市大疆创新科技有限公司）致力于成为持续推动人类文明进步的科技公司。
 
@@ -70,31 +70,21 @@ English ( /en-US )
 
 如今，大疆已经走上跨维度的成长之路 —— 从一家只生产高科技产品的公司，正在进化成一个通过创造极致的产品，不断培养和成就优秀人才的公司。
 
-我们发起并承办 RoboMaster 机甲大师赛。为减轻学生研发成本投入，鼓励学生培养动手实践能力，截至 2025 赛季，大疆以教育折扣、物资赠送等方式，累积已为战队节省参赛成本 4923万元+。
+ROBOCON 与 RoboMaster 的参赛经历，是大疆理念在校园时代的体现。为减轻学生研发成本投入，鼓励学生培养动手实践能力，截至 2025 赛季，大疆以教育折扣、物资赠送等方式，累积已为战队节省参赛成本 4923万元+。
 
-2026 赛季，大疆面向报名第二十五届全国大学生机器人大赛 RoboMaster 及 ROBOCON 赛事(以下分别简称为 RoboMaster 2026、ROBOCON 2026） ，并通过报名审核的参赛队，正式开放「大疆赞助权益」申请，完成并通过申请的队伍，将获得「大疆赞助权益」。
+2026 赛季，大疆面向报名第二十五届全国大学生机器人大赛 ROBOCON 赛事（以下简称为 ROBOCON 2026） ，并通过报名审核的参赛队，正式开放「大疆赞助权益」申请，完成并通过申请的队伍，将获得「大疆赞助权益」。
 
-* ROBOCON 相关赞助权益详情，请查看公告： https://www.robomaster.com/en-US/resource/pages/announcement/1900 ( https://www.robomaster.com/en-US/resource/pages/announcement/1900 )
+*一、赞助权益：大疆技术物资购买教育折扣*
 
-*一、赞助权益*
+1. 拥有「大疆赞助权益」的队伍，享有以教育折扣价格购买赛事技术物资的资格
 
-1.  机甲大师赛事相关物资购买教育折扣：
-
-（1）拥有「大疆赞助权益」的队伍，享有以教育折扣价格购买赛事物资的资格
-
-*满足要求的新队伍，额外享有以超低价格购买步兵套件的折扣资格
-
-（2）教育折扣详情，可查看 附录 1：RoboMaster 2026机甲大师高校系列赛物资购买说明 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1879 )
-
-2. 大疆赞助产品赠送：
-
-拥有「大疆赞助权益」，且晋级 RoboMaster 2026 机甲大师超级对抗赛 · 复活赛、全国赛的战队，将统一获赠高价值产品（细则后续公布）。
+2. 教育折扣详情，可查看： 附录 1： ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNXd5jlxLoQH0Mvq0t?scode=AC0A8gfyABEOWT5cjiAT4AVAatAEw&tab=xocldt ) 大疆赞助权益-RC2026 物资购买说明附件 ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNXd5jlxLoQH0Mvq0t?scode=AC0A8gfyABEOWT5cjiAT4AVAatAEw&tab=xocldt )
 
 *二、赞助福利*
 
 1. 大疆产品套装轮转领用：
 
-（1）拥有「大疆赞助权益」的参赛队，可在指定时间范围内，申领大疆产品套装，用于备赛测试、团建记录等 RoboMaster 2026 机甲大师高校系列赛备赛场景。
+（1）拥有「大疆赞助权益」的参赛队，可在指定时间范围内，申领大疆产品套装，用于备赛测试、团建记录等 ROBOCON 2026 备赛场景。
 
 （2）大疆产品套装：套装内为部分产品线已发布的最新产品，套装内容固定，完成申领流程的参赛队将收到全套产品，不支持指定产品。
 
@@ -110,25 +100,35 @@ a. 产品套装明细：
 | Mavic 4 Pro 套装               | Avata 2 套装                           |
 +--------------------------------+----------------------------------------+------------+-----+
 
-b. 套装申领问卷：附录 5： 大疆赞助权益（2026赛季）| 大疆产品套装申请 ( https://djistore.wjx.cn/vm/m9F7UOR.aspx )
+b. 套装申领问卷：附录 6： 大疆赞助权益（2026赛季）| 大疆产品套装申请 ( https://djistore.wjx.cn/vm/m9F7UOR.aspx )
 
-2. RMUC 赛期大疆产品现场领用：
+2. 产品体验活动：
 
-拥有「大疆赞助权益」，且获得 RoboMaster 2026 机甲大师超级对抗赛 · 区域赛、复活赛、全国赛线下参赛资格的参赛队，每场比赛开赛前，可前往指定活动区，申领大疆产品进入赛场内使用（数量及产品明细以赛前通知为准），当场比赛结束后归还。
-
-3. 产品体验活动：
-
-RoboMaster 2026 机甲大师超级对抗赛 · 全国赛赛事现场、论坛活动现场，将安排更多、更丰富的大疆产品体验活动。（活动详情以后续资讯为准）
+ROBOCON 2026 赛事现场及更多大疆相关活动中，将安排更多、更丰富的大疆产品体验活动。（活动详情以后续资讯为准）
 
 *三、 赞助权益及福利申请方式*
 
-1. 申请资格：报名 RoboMaster 2026 机甲大师高校系列赛（含超级对抗赛、高校联盟赛）并通过报名审核的参赛队
+1. 申请资格：报名 ROBOCON 2026 并通过报名审核的参赛队
 
-2. 申请流程：填写申请问卷 附录 2： RoboMaster | 大疆赞助权益申请（2026赛季） ( https://djistore.wjx.cn/vm/wFunDds.aspx ) ，完成信息登记与淘宝账号录入
+2. 申请流程：
 
-3. 申请开放时间：截止 2025 年 11 月 30 日 18:00
+（1）以战队为单位，前往由大疆指定的 RM 赛事报名系统，报名大疆赞助权益，注册 RC 战队 附录 2： ROBOCON | 大疆赞助权益申请（2026 赛季） ( https://registration.robomaster.com/registration-center?eventType=team&id=283 )
 
-4. 审核授予与公示：审核通过后获得「大疆赞助权益」，并公示于 附录 3： RoboMaster | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNp5xGM79zTse37zzg?scode=AC0A8gfyABElmOdfqfAZMAygaZAKA&tab=BB08J2 )
+（2）报名流程说明：
+
+a. 队长需首先创建战队，并邀请队员加入
+
+b. 流程限制，每个战队需包含至少 5 位队员（包含 1 位队长）
+
+c. 详细报名与申请指南，可查看 附录 3： ROBOCON 2026 大疆赞助权益申请指南 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM%202026/ROBOCON%202026%20%E5%A4%A7%E7%96%86%E8%B5%9E%E5%8A%A9%E6%9D%83%E7%9B%8A%E7%94%B3%E8%AF%B7%E6%8C%87%E5%8D%97.pdf )
+
+3. 申请开放时间：2026 年1月5日 - 2026年2月11日
+
+4. 审核授予与公示：报名成功并通过审核后获得「大疆赞助权益」并公示
+
+（1）公示周期：即日起至 2026年2月6日，每日 11:00 统一更新名单（如队伍有特殊情况，可联系由大疆指定的 RM 专属招聘赛务沟通加速流程）
+
+（2）公示页面，详见 附录 4： ROBOCON | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNwxHcN1xMR7KNAYGt?scode=AC0A8gfyABE1sDy0FIAZMAygaZAKA&tab=BB08J2 )
 
 *四、赞助标识规范*
 
@@ -136,7 +136,7 @@ RoboMaster 2026 机甲大师超级对抗赛 · 全国赛赛事现场、论坛活
 
 2. 大疆赞助品牌规范：若战队确认展示大疆标识于赞助商名单，需遵守以下要求：
 
-（1）大疆品牌设计规范：附录 4： 「大疆赞助权益」大疆品牌标识文件与设计规范 ( https://pan-sec.djicorp.com/s/pmncLqX3Ffybx9e )
+（1）大疆品牌设计规范：附录 5： 「大疆赞助权益」大疆品牌标识文件与设计规范 ( https://pan-sec.djicorp.com/s/pmncLqX3Ffybx9e )
 
 （2）赞助商名单排序建议：
 
@@ -146,29 +146,31 @@ b. 若参赛队原有赞助商排序已确定，应选择不展示大疆标识
 
 *五、温馨提示*
 
-1. 大疆权调整权益细则，各战队须以机甲大师官网最新公告为准。
+1. 大疆有权调整权益细则，各战队须以大疆机甲大师赛官网最新公告为准。
 
 2. 赞助权益与具体权益福利内容（如教育折扣、产品领用/赠送）为 独立流程，使用折扣购买物资或申领产品需另行遵循专项规则（详见后续发布的相关公告）。
 
-3. 通过「大疆赞助权益」获取的 所有折扣权限/技术物资/大疆产品等，仅限用于 RoboMaster/ROBOCON 2026 赛事及相关参赛备赛活动，不得进行转卖、转租或其他获利行为；若经查证违规行为属实，大疆有权收回大疆赞助权益、相关物资与产品以及相关不当获利。
+3. 通过「大疆赞助权益」获取的所有折扣权限/技术物资/大疆产品等，仅限用于 ROBOCON 2026、RoboMaster 2026 赛事及相关参赛备赛活动，不得进行转卖、转租或其他获利行为；若经查证违规行为属实，大疆有权收回大疆赞助权益、相关物资与产品以及相关不当获利。
 
 *六、附录*
 
-附录 1： RoboMaster 2026机甲大师高校系列赛物资购买说明 ( https://www.robomaster.com/zh-CN/resource/pages/announcement/1879 )
+附录 1： ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNXd5jlxLoQH0Mvq0t?scode=AC0A8gfyABEOWT5cjiAT4AVAatAEw&tab=xocldt ) 大疆赞助权益-RC2026 物资购买说明附件 ( https://doc.weixin.qq.com/sheet/e3_AT4AVAatAEwCNXd5jlxLoQH0Mvq0t?scode=AC0A8gfyABEOWT5cjiAT4AVAatAEw&tab=xocldt )
 
-附录 2： RoboMaster | 大疆赞助权益申请（2026赛季） ( https://djistore.wjx.cn/vm/wFunDds.aspx )
+附录 2： ROBOCON | 大疆赞助权益申请（2026 赛季） ( https://registration.robomaster.com/registration-center?eventType=team&id=283 )
 
-附录 3： RoboMaster | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNp5xGM79zTse37zzg?scode=AC0A8gfyABElmOdfqfAZMAygaZAKA&tab=BB08J2 )
+附录 3： ROBOCON 2026 大疆赞助权益申请指南 ( https://terra-1-g.djicdn.com/b2a076471c6c4b72b574a977334d3e05/RM%202026/ROBOCON%202026%20%E5%A4%A7%E7%96%86%E8%B5%9E%E5%8A%A9%E6%9D%83%E7%9B%8A%E7%94%B3%E8%AF%B7%E6%8C%87%E5%8D%97.pdf )
 
-附录 4： 「大疆赞助权益」大疆品牌标识文件与设计规范 ( https://pan-sec.djicorp.com/s/pmncLqX3Ffybx9e )
+附录 4： ROBOCON | 大疆赞助权益（2026赛季）公示名单 ( https://doc.weixin.qq.com/sheet/e3_AZMAygaZAKACNwxHcN1xMR7KNAYGt?scode=AC0A8gfyABE1sDy0FIAZMAygaZAKA&tab=BB08J2 )
 
-附录 5： 大疆赞助权益（2026赛季）| 大疆产品套装申请 ( https://djistore.wjx.cn/vm/m9F7UOR.aspx )
+附录 5： 「大疆赞助权益」大疆品牌标识文件与设计规范 ( https://pan-sec.djicorp.com/s/pmncLqX3Ffybx9e )
+
+附录 6： ROBOCON 2026 | 大疆产品套装申请 ( https://djistore.wjx.cn/vm/m9F7UOR.aspx )
 
 *七、咨询答疑*
 
 对大疆赞助权益有任何疑问，可联系由大疆指定的 RM 专属招聘赛务
 
-备注：RM-姓名-学校-职务
+备注：RC-姓名-学校-职务
 
 联系我们
 
