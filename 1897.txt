@@ -82,9 +82,13 @@ RoboMaster 2026机甲大师高校系列赛开源审查流程
 
 同时，在比赛期间，组委会将不定期抽查机器人。参赛队伍有责任向组委会展示机器人机械、电路设计图纸以及相关代码文件，并回答相关技术咨询。
 
-*整机成品及开源机器人报备链接： https://djistore.wjx.cn/vm/tETWdFM.aspx ( https://djistore.wjx.cn/vm/tETWdFM.aspx )*
+*整机成品及开源机器人报备链接（需使用队伍轻流账号提交）：*
 
-*整机成品及开源机器人反馈链接（非本学校）： https://djistore.wjx.cn/vm/QiVW0lV.aspx ( https://djistore.wjx.cn/vm/QiVW0lV.aspx )*
+*1）RMUL：* *https://qingflow.com/f/dc79c0o62401* ( https://qingflow.com/f/dc79c0o62401 )
+
+*2）RMUC：待更新*
+
+*整机成品及开源机器人反馈链接（非本学校）：* *https://qingflow.com/f/dep43kjv0001* ( https://qingflow.com/f/dep43kjv0001 )
 
 *二、组委会审查*
 
