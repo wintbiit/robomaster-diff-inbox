@@ -86,7 +86,7 @@ RoboMaster 2026机甲大师高校系列赛开源审查流程
 
 *1）RMUL：* *https://qingflow.com/f/dc79c0o62401* ( https://qingflow.com/f/dc79c0o62401 )
 
-*2）RMUC：待更新*
+*2）RMUC：* *https://qingflow.com/f/djgofobcbo01 ( https://qingflow.com/f/djgofobcbo01 )*
 
 *整机成品及开源机器人反馈链接（非本学校）：* *https://qingflow.com/f/dep43kjv0001* ( https://qingflow.com/f/dep43kjv0001 )
 
