@@ -237,6 +237,22 @@ RoboMaster 2026机甲大师高校系列赛物资购买说明
 |              | *5.在对传感器增加保护措施(如硅胶软垫)的情况下，抗打击寿命为5000发30m/s法向速度的17mm弹丸打击，不建议使用42mm弹丸打击*  |
 +--------------+------------------------------------------------------------------------------------------------------------------------+----------+
 
+*五、RoboMaster 2026机甲大师高校系列激光发射装置推荐*
+
+鉴于激光检测模块发布较晚且激光要求较为严格，经组委会测试，以下两款激光发射装置符合规范文件的要求，且可提供符合要求的证明，以供参赛队参考：
+
+1、云翔光电，红色光长焦玻璃镜圆点激光1mW，需备注：20m处9mm光斑。
+
+链接： https://item.taobao.com/item.htm?id=875092268985&mi_id=0000vcBMGHHcj9tC9I65USIZFi0K138IrOovOFe7AZiucnU&skuId=5900565308940&spm=a21xtw.29978518.0.0 ( https://item.taobao.com/item.htm?id=875092268985&mi_id=0000vcBMGHHcj9tC9I65USIZFi0K138IrOovOFe7AZiucnU&skuId=5900565308940&spm=a21xtw.29978518.0.0 )
+
+2、富喆激光，650nm5mw外调式16*82mm，需联系客服报型号：FL1MLD-4MMYL20M
+
+链接： https://item.taobao.com/item.htm?id=542817019726 ( https://item.taobao.com/item.htm?id=542817019726 )
+
+若参赛队伍已自选激光发射装置且商家无法提供CalssⅡ的要求，可参考以下模板让商家签署承诺函：
+
+承诺函模板下载： https://rm-static.djicdn.com/documents/33592/4fe50c56b773f1776052775022760175.docx ( https://rm-static.djicdn.com/documents/33592/4fe50c56b773f1776052775022760175.docx )
+
 联系我们
 
 使用微信扫描上方二维码， 添加后发送“学校+姓名+毕业年份” 获取第一手专属岗位信息
@@ -310,4 +326,4 @@ RoboMaster 2026机甲大师高校系列赛物资购买说明
 
 邮箱： robomaster@dji.com
 
-Copyright © 2026 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ ) © 2025 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
+Copyright © 2026 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )
