@@ -235,7 +235,7 @@ b. 若参赛队原有赞助商排序已确定，应选择不展示大疆标识
 
 大疆官网 ( https://www.dji.com )
 大疆商城 ( https://store.dji.com )
-招募精英 ( https://we.dji.com/zh-CN )
+招募精英 ( https://careers.dji.com/zh-CN )
 精彩活动 ( https://www.dji.com/event )
 
 联系方式

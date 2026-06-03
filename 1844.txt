@@ -215,7 +215,7 @@ RM AWARD 2025将按照技术和管理两个方向分别评选，评选流程由�
 
 大疆官网 ( https://www.dji.com )
 大疆商城 ( https://store.dji.com )
-招募精英 ( https://we.dji.com/zh-CN )
+招募精英 ( https://careers.dji.com/zh-CN )
 精彩活动 ( https://www.dji.com/event )
 
 联系方式
@@ -225,7 +225,7 @@ RM AWARD 2025将按照技术和管理两个方向分别评选，评选流程由�
 
 邮箱： robomaster@dji.com
 
-Copyright © 2026 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )robo/overview )
+Copyright © 2026 深圳市大疆无人机应用有限公司 版权所有备案号 粤ICP备2022092332号 ( http://beian.miit.gov.cn/ )overview )
 联系我们 ( /zh-CN/contact )
 隐私政策 ( /zh-CN/privacy )
 
